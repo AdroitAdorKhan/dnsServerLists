@@ -21,6 +21,7 @@
 @@||vb-ad-fa.video.tidal.com^$important
 @@||login.microsoftonline.com^$important
 @@||videos-fms.jwpsrv.com^$important
+@@||tracking-protection.cdn.mozilla.net^$important
 ##
 
 ## blockNoMatterWhat
