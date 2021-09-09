@@ -72,6 +72,7 @@
 *.windows-display-service.com
 *.page.link
 *.2ihsfa.com
+*.sensic.net
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
