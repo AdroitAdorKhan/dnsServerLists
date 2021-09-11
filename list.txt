@@ -85,6 +85,7 @@
 *.rubiconproject.com
 *.smartadserver.com
 *.sombrero.yahoo.net
+*.wc.yahoodns.net
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
