@@ -80,6 +80,10 @@
 *.cloudtraff.com
 *.advertising.com
 *.conviva.com
+*.media.net
+*.ero-advertising.com
+*.rubiconproject.com
+*.smartadserver.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
