@@ -78,6 +78,7 @@
 *.report-uri.io
 *.atwola.com
 *.cloudtraff.com
+*.advertising.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
