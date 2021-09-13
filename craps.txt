@@ -1,0 +1,36 @@
+# tiktok
+||tiktok.com^$important
+||tiktokcdn.com^$important
+||musical.ly^$important
+||snssdk.com^$important
+||amemv.com^$important
+||toutiao.com^$important
+||ixigua.com^$important
+||pstatp.com^$important
+||ixiguavideo.com^$important
+||toutiaocloud.com^$important
+||toutiaocloud.net^$important
+||bdurl.com^$important
+||bytecdn.cn^$important
+||byteimg.com^$important
+||ixigua.com^$important
+||muscdn.com^$important
+||bytedance.map.fastly.net^$important
+||douyin.com^$important
+||tiktokv.com^$important
+# snackvideo
+/snackvideo/
+# likee 
+||likee.video^$important
+||bigolive.tv^$important
+||like.video^$important
+||bigo.sg^$important
+||bigolive.tv^$important
+||piojm.tech^$important
+# mxplayer - takatak
+||mxplay.com^$important
+/takatak/
+||mxshorts.akamaized.net^$important
+||dahzls63qg48e.cloudfront.net^$important
+||j2apps.s.llnwi.net^$important
+||takatak.s.llnwi.net^$important
