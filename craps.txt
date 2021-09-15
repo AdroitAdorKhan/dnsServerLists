@@ -35,3 +35,7 @@
 ||dahzls63qg48e.cloudfront.net^$important
 ||j2apps.s.llnwi.net^$important
 ||takatak.s.llnwi.net^$important
+# tinder
+||gotinder.com^$important
+||tinder.com^$important
+||tindersparks.com^$important
