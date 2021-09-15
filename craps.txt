@@ -18,6 +18,7 @@
 ||bytedance.map.fastly.net^$important
 ||douyin.com^$important
 ||tiktokv.com^$important
+||ttlivecdn.com^$important
 # snackvideo
 /snackvideo/
 # likee 
