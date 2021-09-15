@@ -22,6 +22,8 @@
 @@||login.microsoftonline.com^$important
 @@||videos-fms.jwpsrv.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
+@@||api.metrics.heroku.com^$important
+@@||virginia.sessions.logs.heroku.com^$important
 ##
 
 ## blockNoMatterWhat
