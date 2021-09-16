@@ -28,6 +28,7 @@
 ||bigo.sg^$important
 ||bigolive.tv^$important
 ||piojm.tech^$important
+||bstream.kzhi.tech^$important
 ||bstream.sgmbocast.com^$important
 ||ta.sharemasala.com^$important
 ||bigo.tv^$important
