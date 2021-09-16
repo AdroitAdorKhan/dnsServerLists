@@ -30,6 +30,7 @@
 ||piojm.tech^$important
 ||bstream.sgmbocast.com^$important
 ||ta.sharemasala.com^$important
+||bigo.tv^$important
 # mxplayer - takatak
 ||mxplay.com^$important
 /takatak/
