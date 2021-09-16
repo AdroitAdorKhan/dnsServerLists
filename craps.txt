@@ -28,6 +28,8 @@
 ||bigo.sg^$important
 ||bigolive.tv^$important
 ||piojm.tech^$important
+||bstream.sgmbocast.com^$important
+||ta.sharemasala.com^$important
 # mxplayer - takatak
 ||mxplay.com^$important
 /takatak/
