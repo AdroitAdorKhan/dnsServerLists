@@ -30,6 +30,7 @@
 ||piojm.tech^$important
 ||bstream.kzhi.tech^$important
 ||bstream.sgmbocast.com^$important
+||bstream.hzmklvdieo.com^$important
 ||ta.sharemasala.com^$important
 ||bigo.tv^$important
 # mxplayer - takatak
