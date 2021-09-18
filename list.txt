@@ -94,6 +94,7 @@
 *.trafficjunky.net
 *.actonsoftware.com
 *.adsymptotic.com
+*.ttzcp.com.cn
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
