@@ -96,3 +96,24 @@
 /lewd/
 /jerk/
 /hotmovie/
+
+# gTLDs
+||su^
+||click^
+||sex^
+||win^
+||ml^
+||tk^
+||ga^
+||xin^
+||bid^
+||vip^
+||review^
+||club^
+||cyou^
+||date^
+||porn^
+||pub^
+||red^
+||sexy^
+||xxx^
