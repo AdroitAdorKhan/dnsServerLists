@@ -52,7 +52,7 @@
 /boob/
 /sex/
 /xnxx/
-/xvideo/^$denyallow=nflxvideo.net
+||*xvideo*^$denyallow=nflxvideo.net
 /boob/
 /fuck/
 /xhamster/
