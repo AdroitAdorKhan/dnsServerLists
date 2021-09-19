@@ -73,6 +73,7 @@
 *.imoyu.xyz
 *.best-system-tools.com
 *.windows-display-service.com
+*.window-updates-service.com
 *.page.link
 *.2ihsfa.com
 *.sensic.net
