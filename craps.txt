@@ -21,7 +21,7 @@
 ||ttlivecdn.com^$important
 # snackvideo
 /snackvideo/
-# likee 
+# likee
 ||likee.video^$important
 ||bigolive.tv^$important
 ||like.video^$important
@@ -44,6 +44,8 @@
 ||gotinder.com^$important
 ||tinder.com^$important
 ||tindersparks.com^$important
+# tiki
+||tiki.video^$important
 
 ## porn-keywords
 /porn/
