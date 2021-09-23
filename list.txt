@@ -97,6 +97,13 @@
 *.adsymptotic.com
 *.ttzcp.com.cn
 *.mmstat.com
+*.safestcontentgate.com
+*.profitablecpmnetwork.com
+*.gatetocontent.com
+*.passtechusa.com
+*.effectiveperformancenetwork.com
+*.achievablecpmrevenue.com
+*.highrevenuecpm.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
