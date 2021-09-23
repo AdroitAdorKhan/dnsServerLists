@@ -108,6 +108,7 @@
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
+/^(.+[_.-])?autodiscover[_.-]/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^(.+[_.-])?adclick?s?[0-9]*[_.-]/
 /^adim(age|g)s?[0-9]*[_.-]/
