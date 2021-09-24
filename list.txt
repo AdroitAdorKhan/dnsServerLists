@@ -105,6 +105,7 @@
 *.achievablecpmrevenue.com
 *.highrevenuecpm.com
 *.onetouch7.info
+*.puhtml.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
