@@ -98,6 +98,8 @@
 /lewd/
 /jerk/
 /hotmovie/
+/phim/
+/cat3/
 
 # gTLDs
 ||su^
