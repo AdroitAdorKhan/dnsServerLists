@@ -1,3 +1,5 @@
+# nonsenses
+/hdmusic/
 # tiktok
 ||tiktok.com^$important
 ||tiktokcdn.com^$important
