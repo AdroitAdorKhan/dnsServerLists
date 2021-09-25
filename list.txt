@@ -107,6 +107,7 @@
 *.onetouch7.info
 *.puhtml.com
 *.mybestmv.com
+*.achievablecpmrevenue.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
