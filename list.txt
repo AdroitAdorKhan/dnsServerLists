@@ -108,6 +108,7 @@
 *.puhtml.com
 *.mybestmv.com
 *.achievablecpmrevenue.com
+*.collector.scopely.io
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
