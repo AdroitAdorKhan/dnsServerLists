@@ -105,6 +105,7 @@
 
 # gTLDs
 ||su^
+||icu^
 ||click^
 ||sex^
 ||win^
