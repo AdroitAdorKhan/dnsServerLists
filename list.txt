@@ -24,6 +24,7 @@
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||api.metrics.heroku.com^$important
 @@||virginia.sessions.logs.heroku.com^$important
+@@||anti-ad.net^$important
 ##
 
 ## blockNoMatterWhat
@@ -132,6 +133,7 @@
 /^(.+[_.-])?collect(or|ors)?[0-9]*[_.-]/
 #/^(.+[_.-])?insight?s?[0-9]*[_.-]/
 /^(.+[_.-])?mads?[0-9]*[_.-]/
+/^(.+[_.-])?sentry?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry?[0-9]*[_.-]/
 #/^(.+[_.-])?s?track(ing)?[0-9]*[_.-]/
 # /^(.+[_.-])?tr?c?k?[0-9]*[_.-]/
