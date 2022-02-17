@@ -183,6 +183,7 @@
 ||analysis*.*^
 ||applovin*.*^
 ||appsflyer*.*^
+||applytics*.*^
 ||domob*.*^
 ||duomeng*.*^
 ||dwtrack*.*^
