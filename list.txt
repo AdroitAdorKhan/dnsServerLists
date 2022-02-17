@@ -32,6 +32,7 @@
 ||app.adjust.com^$important
 ||graph.fbpigeon.com^$important
 ||astat.bugly.qcloud.com^$important
+||log.mmstat.com^$important
 ##
 
 ## regexMagic
