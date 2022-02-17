@@ -111,6 +111,7 @@
 *.achievablecpmrevenue.com
 *.collector.scopely.io
 *.rtc.youme.im
+*.maribacaberita.com
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
@@ -130,9 +131,11 @@
 /^(.+[_.-])?log?sdk?s?[0-9]*[_.-]/
 /^(.+[_.-])?sdk?log?s?[0-9]*[_.-]/
 /^(.+[_.-])?log?prox(y?|ie)?s?[0-9]*[_.-]/
-/^(.+[_.-])?collect(or|ors)?[0-9]*[_.-]/
+/^(.+[_.-])?log?collect(or|ors)?[0-9]*[_.-]/
+/^(.+[_.-])?collect(or|ors|erous)?[0-9]*[_.-]/
 #/^(.+[_.-])?insight?s?[0-9]*[_.-]/
 /^(.+[_.-])?mads?[0-9]*[_.-]/
+/^(.+[_.-])?report?[0-9]*[_.-]/
 /^(.+[_.-])?sentry?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry?[0-9]*[_.-]/
 #/^(.+[_.-])?s?track(ing)?[0-9]*[_.-]/
@@ -184,6 +187,7 @@
 ||dwtrack*.*^
 ||guanggao*.*^
 ||lianmeng*.*^
+||mon-*.tiktokv.com^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
