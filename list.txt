@@ -25,6 +25,7 @@
 @@||api.metrics.heroku.com^$important
 @@||virginia.sessions.logs.heroku.com^$important
 @@||anti-ad.net^$important
+@@||a2zapk.com^$important
 ##
 
 ## blockNoMatterWhat
