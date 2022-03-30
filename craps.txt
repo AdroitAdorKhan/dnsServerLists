@@ -57,6 +57,7 @@
 /sex/
 /xnxx/
 ||*xvideo*^$denyallow=nflxvideo.net
+||*cum*^$denyallow=*document*
 /boob/
 /fuck/
 /xhamster/
@@ -74,7 +75,10 @@
 /nude/
 /naked/
 /orgy/
-/desi/
+#/desi/
+/xtube/
+/desilady/
+/desigirl/
 /kink/
 /naughty/
 /nasty/
@@ -92,7 +96,6 @@
 /squirt/
 /bbw/
 /hardcore/
-/cum/
 /whore/
 /s3x/
 /fap/
@@ -102,8 +105,8 @@
 /hotmovie/
 /phim/
 /cat3/
-
 # gTLDs
+||ru^
 ||su^
 ||icu^
 ||click^
