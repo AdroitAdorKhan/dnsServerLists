@@ -203,3 +203,8 @@
 
 # temp
 ||dropmms.com^$important
+
+
+# real craps
+||newschai.com^$important
+||mediagossip24.com^$important
