@@ -134,7 +134,7 @@
 /^(.+[_.-])?sdk?log?s?[0-9]*[_.-]/
 /^(.+[_.-])?log?prox(y?|ie)?s?[0-9]*[_.-]/
 /^(.+[_.-])?log?collect(or|ors)?[0-9]*[_.-]/
-/^(.+[_.-])?collect(or|ors|erous)?[0-9]*[_.-]/
+/^(.+[_.-])?collect(ion|ions|or|ors|erous)?[0-9]*[_.-]/
 #/^(.+[_.-])?insight?s?[0-9]*[_.-]/
 /^(.+[_.-])?mads?[0-9]*[_.-]/
 /^(.+[_.-])?prebid?[0-9]*[_.-]/
@@ -200,6 +200,7 @@
 ||socdm*.*^
 ||supersonicads*.*^
 ||usage*.*^
+||privacycollector*.*^
 
 # temp
 ||dropmms.com^$important
