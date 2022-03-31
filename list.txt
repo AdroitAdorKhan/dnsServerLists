@@ -208,3 +208,6 @@
 # real craps
 ||newschai.com^$important
 ||mediagossip24.com^$important
+||authoritynewz.com^$important
+||tshirtvender.com^$important
+||theholyfeed.com^$important
