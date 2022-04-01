@@ -202,6 +202,9 @@
 ||usage*.*^
 ||privacycollector*.*^
 
+# softwares - craps
+||t1.daumcdn.net^$important
+
 # temp
 ||dropmms.com^$important
 
