@@ -297,3 +297,4 @@
 ||www.zetnewz.com^$important
 ||zedarticle.com^$important
 ||zetnewz.com^$important
+||banglarefresh.com^$important
