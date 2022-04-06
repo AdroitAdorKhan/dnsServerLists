@@ -300,3 +300,4 @@
 ||banglarefresh.com^$important
 ||kalbanam.com^$important
 ||devinenewz.com^$important
+||pordaropare.com^$important
