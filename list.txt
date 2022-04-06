@@ -301,3 +301,4 @@
 ||kalbanam.com^$important
 ||devinenewz.com^$important
 ||pordaropare.com^$important
+||newzca.com^$important
