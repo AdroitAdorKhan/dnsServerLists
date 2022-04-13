@@ -173,6 +173,7 @@
 ||umtrack*.com^
 ||grjs0*.com^
 ||imglnk*.com^
+||abtest*.*^
 ||admarvel*.*^
 ||admaster*.*^
 ||adsage*.*^
