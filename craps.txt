@@ -107,6 +107,7 @@
 /cat3/
 # gTLDs
 ||ru^
+||pw^
 ||su^
 ||icu^
 ||click^
