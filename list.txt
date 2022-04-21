@@ -203,6 +203,25 @@
 ||usage*.*^
 ||privacycollector*.*^
 
+# bad gTLDs
+||su^
+||icu^
+||click^
+||sex^
+||win^
+||xin^
+||bid^
+||review^
+||cam^
+||club^
+||cyou^
+||date^
+||porn^
+||pub^
+||red^
+||sexy^
+||xxx^
+
 # softwares - craps
 ||t1.daumcdn.net^$important
 
