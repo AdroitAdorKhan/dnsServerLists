@@ -230,6 +230,8 @@
 
 
 # real craps
+||realme.pw^$important
+||bicroy.com^$important
 ||newschai.com^$important
 ||mediagossip24.com^$important
 ||authoritynewz.com^$important
