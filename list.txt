@@ -196,6 +196,7 @@
 ||mcs-*.tiktokv.com^
 ||mssdk-*.tiktokv.com^
 ||mon-*.byteoversea.com^
+||mon*-platform-*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
