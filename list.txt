@@ -193,6 +193,9 @@
 ||guanggao*.*^
 ||lianmeng*.*^
 ||mon-*.tiktokv.com^
+||mcs-*.tiktokv.com^
+||mssdk-*.tiktokv.com^
+||mon-*.byteoversea.com^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^

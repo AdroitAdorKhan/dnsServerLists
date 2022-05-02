@@ -1,0 +1,112 @@
+# youtube - restricted
+#||www.youtube.com^$dnsrewrite=NOERROR;CNAME;restrictmoderate.youtube.com
+#||m.youtube.com^$dnsrewrite=NOERROR;CNAME;restrictmoderate.youtube.com
+#||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrictmoderate.youtube.com
+#||youtube.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrictmoderate.youtube.com
+#||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrictmoderate.youtube.com
+# instagram
+#||instagram.com^$important
+#||cdninstagram.com^$important
+# mlsbd mlwbd
+/mlsbd/
+/mlwbd/
+# snapchat
+/snapchat/
+||snapchat.com^$important
+||sc-cdn.net^$important
+||snap-dev.net^$important
+||snapkit.co^$important
+||snapads.com^$important
+||sc-prod.net^$important
+# tinder
+/tinder/
+||gotinder.com^$important
+||tinder.com^$important
+||tindersparks.com^$important
+# opera vpn
+||global-turbo*.opera-mini.net^$important
+/opera-mini/
+# 9gag
+/9gag/
+||9cache.com^$important
+||9gag.com^$important
+# reddit
+#/reddit/
+#||reddit.com^$important
+#||redditstatic.com^$important
+#||redditmedia.com^$important
+#||redd.it^$important
+# nonsenses
+/hdmusic/
+# tiktok
+||tiktok.com^$important
+||tiktokcdn.com^$important
+||musical.ly^$important
+||snssdk.com^$important
+||amemv.com^$important
+||toutiao.com^$important
+||ixigua.com^$important
+||pstatp.com^$important
+||ixiguavideo.com^$important
+||toutiaocloud.com^$important
+||toutiaocloud.net^$important
+||bdurl.com^$important
+||bytecdn.cn^$important
+||byteimg.com^$important
+||ixigua.com^$important
+||muscdn.com^$important
+||bytedance.map.fastly.net^$important
+||douyin.com^$important
+||tiktokv.com^$important
+||ttlivecdn.com^$important
+||xzcs3zlph.com^$important
+||ibytedtos.com^$important
+||ttwstatic.com^$important
+||bytegoofy.com^$important
+||byteoversea.com^$important
+||imolive.xyz^$important
+||imoim.app^$important
+||imolive2.com^$important
+||imostatic.com^$important
+/tiktokcdn/
+# snackvideo
+/snackvideo/
+# likee
+||likee.video^$important
+||bigolive.tv^$important
+||like.video^$important
+||bigo.sg^$important
+||bigolive.tv^$important
+||piojm.tech^$important
+||bstream.kzhi.tech^$important
+||bstream.sgmbocast.com^$important
+||bstream.hzmklvdieo.com^$important
+||ta.sharemasala.com^$important
+||bigo.tv^$important
+||snapkit.com^$important
+# mxplayer - takatak
+||mxplay.com^$important
+/takatak/
+||mxshorts.akamaized.net^$important
+||dahzls63qg48e.cloudfront.net^$important
+||j2apps.s.llnwi.net^$important
+||takatak.s.llnwi.net^$important
+# tinder
+||gotinder.com^$important
+||tinder.com^$important
+||tindersparks.com^$important
+# tiki
+||tiki.video^$important
+# streamkar
+/kktv/
+# uplive
+||upliveapps.com^$important
+||upliveapp.com^$important
+||pengpengla.com^$important
+||schirst.com^$important
+# starmaker
+||starmakerstudios.com^$important
+||smpopular.com^$important
+# mitron
+||mitron.tv^$important
+##
