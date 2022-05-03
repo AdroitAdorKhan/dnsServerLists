@@ -34,6 +34,7 @@
 ||graph.fbpigeon.com^$important
 ||astat.bugly.qcloud.com^$important
 ||log.mmstat.com^$important
+||cse.google.com^$important
 ##
 
 ## regexMagic
@@ -143,6 +144,7 @@
 /^(.+[_.-])?telemetry?[0-9]*[_.-]/
 #/^(.+[_.-])?s?track(ing)?[0-9]*[_.-]/
 # /^(.+[_.-])?tr?c?k?[0-9]*[_.-]/
+/^(.+[_.-])?sdkevent?[0-9]*[_.-]/
 /^(.+[_.-])?s?elq?track(ing)?[0-9]*[_.-]/
 /^(.+[_.-])?elq?tr?c?k?[0-9]*[_.-]/
 /^(.+[_.-])?pixel?s?[0-9]*[_.-]/
@@ -197,6 +199,7 @@
 ||mssdk-*.tiktokv.com^
 ||mon-*.byteoversea.com^
 ||mon*-platform-*^
+||monitorsdk*.*^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
