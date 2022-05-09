@@ -35,6 +35,7 @@
 ||astat.bugly.qcloud.com^$important
 ||log.mmstat.com^$important
 ||cse.google.com^$important
+/cse.google/
 ##
 
 ## regexMagic
