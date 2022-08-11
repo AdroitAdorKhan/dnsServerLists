@@ -201,6 +201,7 @@
 ||mssdk-*.tiktokv.com^
 ||mon-*.byteoversea.com^
 ||mon*-platform-*^
+||mon*-*.tiktokv.*^
 ||monitorsdk*.*^
 ||omgmta*.*^
 ||omniture*.*^
