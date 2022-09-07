@@ -202,6 +202,8 @@
 ||mon-*.byteoversea.com^
 ||mon*-platform-*^
 ||mon*-*.tiktokv.*^
+||rtlog*.*^
+||log*-normal-*.tiktokv.com^
 ||monitorsdk*.*^
 ||omgmta*.*^
 ||omniture*.*^
