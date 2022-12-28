@@ -608,6 +608,7 @@ github.githubassets.com
 github.io
 gitlab.com
 gizmodo.com
+global-dealer-ssl.spotify.com
 global-uploads.webflow.com
 global.fd-api.com
 global.ketchcdn.com
@@ -929,6 +930,7 @@ mozilla.cloudflare-dns.com
 mozilla.org
 mproxy.zoho.com
 msgacs-m.lazada.sg
+msgr-latest.c10r.facebook.com
 mtalk.google.com
 murphy.zoho.com
 mv.pool.ntp.org
@@ -1531,6 +1533,7 @@ w14.monkrus.ws
 w3.org
 wassets.hscicdn.com
 watch.redd.it
+web-chat-e2ee.facebook.com
 web.facebook.com
 web.geo2.deezer.com
 web.pool.ntp.org
@@ -1562,6 +1565,7 @@ www.aljazeera.com
 www.allmartbd.com
 www.amardesh.com
 www.amazon.com
+www.amberit.com.bd
 www.androidauthority.com
 www.androidcentral.com
 www.androidpolice.com
@@ -1706,6 +1710,7 @@ www.nytimes.com
 www.office.com
 www.omglinux.com
 www.othoba.com
+www.ovh.com
 www.patreon.com
 www.paypal.com
 www.paypalobjects.com
@@ -1829,6 +1834,7 @@ z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com
 z-p3-graph.facebook.com
+z-p3.c10r.facebook.com
 za.pool.ntp.org
 zconfig.alibabausercontent.com
 zdbb.net
