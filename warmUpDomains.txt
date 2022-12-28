@@ -819,6 +819,7 @@ pay.igamecj.com
 paypal.com
 pbs.twimg.com
 pd.ap.a.pvp.net
+peoplestack-pa.googleapis.com
 petapixel.com
 pexels.com
 phonebridge.zoho.com
