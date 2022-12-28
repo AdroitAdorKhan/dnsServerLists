@@ -541,6 +541,7 @@ forbes.com
 forms.gle
 fortune.com
 fosstorrents.com
+fost.ws
 foxnews.com
 fp-afd-nocache-ccp.azureedge.net
 fp-afd.azurefd.net
@@ -1476,6 +1477,7 @@ voanews-vh.akamaihd.net
 vod-secure.twitch.tv
 voilatile-pa.googleapis.com
 vps02.net.orel.ru
+vstorrent.org
 w.bookcdn.com
 w14.monkrus.ws
 w3.org
