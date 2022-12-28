@@ -88,6 +88,7 @@ api.paperquotes.com
 api.picsart.com
 api.pushbullet.com
 api.setting.intl.miui.com
+api.telegram.org
 api.termius.com
 api.travis-ci.org
 api.twitch.tv
@@ -696,6 +697,7 @@ ocsp.apple.com
 ocsp.comodoca.com.cdn.cloudflare.net
 ocsp.digicert.cn
 ocsp.digicert.com
+ocsp.entrust.net
 ocsp.globalsign.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
@@ -1019,6 +1021,7 @@ umlazada.alibaba.com
 unb.com.bd
 unesco.org
 unifiedaccess.gameloop.com
+unix.stackexchange.com
 unpkg.com
 unsplash.com
 update.code.visualstudio.com
@@ -1234,6 +1237,7 @@ www.priyoshop.com
 www.prothomalo.com
 www.python.org
 www.qq.com
+www.quad9.net
 www.quora.com
 www.quora.com.cdn.cloudflare.net
 www.rd.com
