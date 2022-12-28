@@ -37,6 +37,7 @@ a.root-servers.net
 a.thumbs.redditmedia.com
 a2z.a2zapk.com
 a2zapk.com
+aa.google.com
 aarsen.me
 abs-0.twimg.com
 abs-zero.twimg.com
@@ -51,6 +52,7 @@ accounts.zoho.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
+addons-pa.clients6.google.com
 admin.52ywp.com
 adn-asia.deezer.com
 adobe.com
@@ -366,6 +368,7 @@ consent.cmp.oath.com
 consent.cookiebot.com
 consent.trustarc.com
 consortiumeducation.com
+contacts.google.com
 contacts.zoho.com
 content-autofill.googleapis.com
 content-signature-2.cdn.mozilla.net
@@ -812,6 +815,7 @@ lbs.imolive2.com
 lens-pa.googleapis.com
 lens.google.com
 lgl.public.igamecj.com
+lh2.l.google.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
@@ -1047,6 +1051,7 @@ paypal.com
 pbs.twimg.com
 pd.ap.a.pvp.net
 pe.pool.ntp.org
+people-pa.clients6.google.com
 peoplestack-pa.googleapis.com
 petapixel.com
 pexels.com
