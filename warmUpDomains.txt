@@ -173,6 +173,7 @@ bikroy.com
 bit.do
 bit.ly
 bitly.com
+bitsearch.to
 bl.ink
 blitzfansub.com
 blog.cloudflare.com
@@ -219,6 +220,7 @@ cdn.ipinfo.io
 cdn.jamuna.tv
 cdn.jetboost.io
 cdn.jsdelivr.net
+cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-in-prod.com
 cdn.mos.cms.futurecdn.net
 cdn.mozilla.net
@@ -395,6 +397,7 @@ external-preview.redd.it
 external.fdac136-1.fna.fbcdn.net
 external.fdac31-1.fna.fbcdn.net
 ezimg.ch
+f.media-amazon.com
 f.root-servers.net
 f.vimeocdn.com
 facebook.com
@@ -669,6 +672,7 @@ maxcdn.bootstrapcdn.com
 maxineapi.razersynapse.com
 mcloud.to
 me-du.shadow.igamecj.com
+media.amazon.map.fastly.net
 media.discordapp.net
 media.fdac31-1.fna.fbcdn.net
 media.flaticon.com
