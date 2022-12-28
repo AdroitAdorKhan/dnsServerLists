@@ -6,6 +6,7 @@
 1.us.pool.ntp.org
 1.viki.io
 1006-shadow.igamecj.com
+1337.abcvg.info
 1337x.to
 2.bp.blogspot.com
 2.pool.ntp.org
@@ -24,6 +25,7 @@
 5004-shadow.igamecj.com
 5005-shadow.igamecj.com
 6.viki.io
+9.rarbg.com
 9anime-to.disqus.com
 9anime.to
 9to5google.com
@@ -34,6 +36,7 @@ a.root-servers.net
 a.thumbs.redditmedia.com
 a2z.a2zapk.com
 a2zapk.com
+aarsen.me
 abs-0.twimg.com
 abs-zero.twimg.com
 abs.twimg.com
@@ -47,6 +50,7 @@ accounts.zoho.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
+admin.52ywp.com
 adn-asia.deezer.com
 adobe.com
 ae.nflximg.net
@@ -171,11 +175,13 @@ assets.tumblr.com
 assets.ubuntu.com
 assets.website-files.com
 astha.bracbank.com
+astrr.ru
 at.pool.ntp.org
 aternos.org
 au.pool.ntp.org
 audio-fa.scdn.co
 auroraoss.com
+aus1.waterfox.net
 aus5.mozilla.org
 auth.riotgames.com
 authenticate.riotgames.com
@@ -214,6 +220,7 @@ bit.ly
 bitly.com
 bitsearch.to
 bl.ink
+black-bird.ynh.fr
 blitzfansub.com
 blog.cloudflare.com
 blogger.com
@@ -228,6 +235,10 @@ bp.blogspot.com
 br.pool.ntp.org
 bsti1.time.gov.bd
 bstream.kzhi.tech
+bt.ktrackers.com
+bt.okmp3.ru
+bt1.archive.org
+bt2.archive.org
 business.google.com
 businesswire.com
 butchixanh.com
@@ -243,8 +254,10 @@ cache.dailyjanakantha.com
 caching.graphql.imdb.com
 calendar.zoho.com
 cambridge.org
+camera.lei001.com
 camo.githubusercontent.com
 canva.com
+carr.codes
 cart.daraz.com.bd
 catalog.gamepass.com
 cdn-0001.qstv.on.epicgames.com
@@ -256,6 +269,7 @@ cdn.cookielaw.org
 cdn.datatables.net
 cdn.discordapp.com
 cdn.flipboard.com
+cdn.fluidplayer.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.gsmarena.com
 cdn.gumlet.com
@@ -273,6 +287,7 @@ cdn.myanimelist.net
 cdn.news24bd.tv
 cdn.onenote.net
 cdn.parsley.com
+cdn.pixabay.com
 cdn.plyr.io
 cdn.polyfill.io
 cdn.ravenjs.com
@@ -297,6 +312,7 @@ change.org
 channel.mynagad.com
 charts-images.scdn.co
 checkoutbg.pay.bka.sh
+chouchou.top
 cisco.com
 cl.pool.ntp.org
 client.pay.bka.sh
@@ -337,6 +353,7 @@ comment.9gag.com
 commons.wikimedia.org
 community.cloudflare.com
 componentupdater.brave.com
+concen.org
 connect.facebook.net
 connectivitycheck.gstatic.com
 consent.cmp.oath.com
@@ -360,6 +377,7 @@ css.zohostatic.com
 cssanimation.rocks
 custom.bnc.lt
 customerioforms.com
+cutscloud.duckdns.org
 cutt.ly
 cw.pool.ntp.org
 cz.pool.ntp.org
@@ -412,6 +430,7 @@ dotesports.com
 down.anticheatexpert.com
 download.intsig.net
 download.mikrotik.com
+download.nerocloud.me
 download.oracle.com
 downloads.dell.com
 downloads.videezy.com
@@ -459,6 +478,7 @@ epaper.prothomalo.com
 epaper.tbsnews.net
 epaper.thedailystar.net
 epay.thecitybank.com
+epider.me
 es.pn
 es.pool.ntp.org
 espn.com
@@ -469,6 +489,8 @@ europe.pool.ntp.org
 eventapi.capp.bka.sh
 events.gfe.nvidia.com
 example.org
+exodus.desync.com
+explodie.org
 extension-files.twitch.tv
 extensions-discovery-images.twitch.tv
 external-preview.redd.it
@@ -479,6 +501,7 @@ f-droid.org
 f.media-amazon.com
 f.root-servers.net
 f.vimeocdn.com
+f1sh.de
 facebook.com
 fairelectronics.com.bd
 fandom.com
@@ -489,8 +512,10 @@ fb.me
 fb.watch
 fdn.gsmarena.com
 fdn2.gsmarena.com
+fe.dealclub.de
 feedly.com
 feeds.feedburner.com
+fh2.cmp-gaming.com
 fi.pool.ntp.org
 filecdn.igamecj.com
 filecr.com
@@ -515,6 +540,7 @@ fonts.mailerlite.com
 forbes.com
 forms.gle
 fortune.com
+fosstorrents.com
 foxnews.com
 fp-afd-nocache-ccp.azureedge.net
 fp-afd.azurefd.net
@@ -528,6 +554,7 @@ ftp.esquireelectronicsltd.com
 functions.soundalerts.com
 fundingchoicesmessages.google.com
 furritsubs.wordpress.com
+fxtt.ru
 g.alicdn.com
 g.root-servers.net
 g.whatsapp.net
@@ -615,6 +642,7 @@ hp.com
 hr.pool.ntp.org
 hs-consumer-api.espncricinfo.com
 ht.pool.ntp.org
+htz3.noho.st
 hu.pool.ntp.org
 hub.docker.com
 huffpost.com
@@ -706,6 +734,7 @@ interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
 ipinfo.io
+ipv4.tracker.harry.lu
 ipv4only.arpa
 ir.pool.ntp.org
 iradesign.io
@@ -745,6 +774,7 @@ kit.fontawesome.com
 kj-se.shadow.igamecj.com
 kj-tk.shadow.igamecj.com
 kocowa-img.imgix.net
+kokodayo.site
 kr.pool.ntp.org
 krping.igamecj.com
 kw.pool.ntp.org
@@ -755,6 +785,7 @@ launcher-public-service-prod-m.ol.epicgames.com
 launcher.spot.im
 laz-dorangesource.alicdn.com
 laz-img-cdn.alicdn.com
+laze.cc
 lb.pool.ntp.org
 lbs.imolive2.com
 lens-pa.googleapis.com
@@ -796,7 +827,9 @@ m.stripe.network
 m.theindependentbd.com
 ma.pool.ntp.org
 macromedia.com
+mail.artixlinux.org
 mail.google.com
+mail.zasaonsk.ga
 mail.zoho.com
 mailchi.mp
 mailwsorg.zoho.com
@@ -840,6 +873,7 @@ microsoft.com
 midas.gtimg.cn
 mikrotik.com
 mini-app-packages-cdn.taobao.com
+mirror.aptus.co.tz
 mirror3.internetdownloadmanager.com
 mirror5.internetdownloadmanager.com
 miscmedia-9gag-fun.9cache.com
@@ -849,6 +883,8 @@ mo.pool.ntp.org
 mobile-content.uber.com
 mobile.twitter.com
 modules.lsposed.org
+moonburrow.club
+movies.zsw.ca
 mozilla.cloudflare-dns.com
 mozilla.org
 mproxy.zoho.com
@@ -882,6 +918,7 @@ nc.pool.ntp.org
 net-exp.grameenphone.com
 netfield.meghbelabroadband.in.prod.hosts.ooklaserver.net
 netflix.com
+new-line.net
 newassets.hcaptcha.com
 news.google.com
 news.yahoo.com
@@ -926,14 +963,22 @@ onesignal.com
 online.visualstudio.com
 open-bak.camscanner.com
 open-im-us.camscanner.com
+open.acgnxtracker.com
 open.camscanner.com
+open.demonii.com
+open.dstud.io
+open.free-tracker.ga
 open.scdn.co
 open.spotify.com
 open.spotifycdn.com
+open.stealth.si
+open.tracker.cl
+open.tracker.ink
 opencdnbd.jomodns.com
 opencdnglobal.gshifen.com
 opensource.com
 opensourceoptions.com
+opentracker.i2p.rocks
 openwrt.org
 or.kr
 orange-dc.lazada.com
@@ -944,6 +989,7 @@ outlook.com
 outlook.live.com
 ow.ly
 p.twitchcdn.net
+p4p.arenabg.com
 pa.pool.ntp.org
 pages.daraz.com.bd
 pahe.li
@@ -1000,6 +1046,7 @@ player.cnevids.com
 player.h-cdn.com
 player.spooler.fm
 player.vimeo.com
+player.vimeo.com.cdn.cloudflare.net
 playerpreferences.riotgames.com
 players.brightcove.net
 playvalorant.com
@@ -1039,7 +1086,9 @@ proxy-ssl-geo.webflow.com
 proxyrarbg.org
 psa.pm
 pss.bdstatic.com
+psyco.fr
 pt.pool.ntp.org
+public.publictracker.xyz
 pubsub-edge.twitch.tv
 puffer.4.1375135419.igame.gcloudcs.com
 push.prod.netflix.com
@@ -1050,6 +1099,7 @@ qa.sockets.stackexchange.com
 qq.com
 qsf.fs.quoracdn.net
 qsf.fs.quoracdn.net.cdn.cloudflare.net
+qtstm32fan.ru
 quora.com
 rarbg.to
 raw.githubusercontent.com
@@ -1064,10 +1114,12 @@ redirector.googlevideo.com
 reg.biv.sony.tv
 registeridm.com
 rentry.org
+rep-art.ynh.fr
 res.cloudinary.com
 resources.download.minecraft.net
 returnyoutubedislikeapi.com
 revechat-event.revechat.com
+rinzry.stream
 riot-apse1-1-prod.publishing.riotgames.com
 riot-client.dyn.riotcdn.net
 riot-client.secure.dyn.riotcdn.net
@@ -1077,6 +1129,9 @@ ritoplus.secure.dyn.riotcdn.net
 ro.pool.ntp.org
 roar.media
 ru.pool.ntp.org
+run-2.publictracker.xyz
+run.publictracker.xyz
+rutracker.org
 rutracker.ru
 s.gravatar.com
 s.pinimg.com
@@ -1099,6 +1154,7 @@ safebrowsing.googleapis.com
 samakal.com
 samsung.com
 sanet.st
+sanincode.com
 saping.igamecj.com
 sarabangla.net
 sb-ssl.google.com
@@ -1153,6 +1209,7 @@ sk.pool.ntp.org
 skype.com
 slack.com
 slate.com
+slicie.icon256.com
 smartbd.com
 socks.imolive2.com
 sonar-ccu1-1.xx.fbcdn.net
@@ -1211,6 +1268,7 @@ static.fdac31-1.fna.fbcdn.net
 static.g2a.com
 static.mediafire.com
 static.rgpub.io
+static.t-ru.org
 static.tp-link.com
 static.twitchcdn.net
 static.whatsapp.net
@@ -1240,11 +1298,15 @@ support.apple.com
 support.google.com
 sy.pool.ntp.org
 syndication.twitter.com
+t.acg.rip
 t.co
 t.me
+t.overflow.biz
 t0.gstatic.com
 t2.gstatic.com
+tamas3.ynh.fr
 taobao.com
+tapochek.net
 tbsnews.net
 teamviewer.com
 techcrunch.com
@@ -1261,9 +1323,11 @@ thefinancialexpress.com.bd
 theguardian.com
 thehackernews.com
 thehiddenbay.com
+themaninashed.com
 themeforest.net
 thepiratebay.org
 theverge.com
+thouvenin.cloud
 thumbs.filemoon.sx
 tigercricket.com.bd
 time-ak.alicdn.com
@@ -1279,10 +1343,55 @@ tmge.alicdn.com
 token.services.mozilla.com
 tomshardware.com
 torrends.to
+torrentclub.space
+torrents.artixlinux.org
 torrentz2eu.org
 towardsdatascience.com
 tpop-api.twitter.com
+tr.bangumi.moe
+tr.burnabyhighstar.com
+tr.cili001.com
 tr.pool.ntp.org
+tracker-udp.gbitt.info
+tracker.4.babico.name.tr
+tracker.altrosky.nl
+tracker.artixlinux.org
+tracker.auctor.tv
+tracker.bitsearch.to
+tracker.bt4g.com
+tracker.ddunlimited.net
+tracker.dler.org
+tracker.edkj.club
+tracker.files.fm
+tracker.foreverpirates.co
+tracker.gbitt.info
+tracker.jonaslsa.com
+tracker.joybomb.tw
+tracker.kuroy.me
+tracker.leech.ie
+tracker.lelux.fi
+tracker.lilithraws.org
+tracker.moeblog.cn
+tracker.moeking.me
+tracker.monitorit4.me
+tracker.mywaifu.best
+tracker.nanoha.org
+tracker.openbittorrent.com
+tracker.openbtba.com
+tracker.opentrackr.org
+tracker.pomf.se
+tracker.publictracker.xyz
+tracker.skyts.net
+tracker.srv00.com
+tracker.swateam.org.uk
+tracker.tamersunion.org
+tracker.tcp.exchange
+tracker.theoks.net
+tracker.torrent.eu.org
+tracker1.bt.moack.co.kr
+tracker1.myporn.club
+tracker2.dler.org
+tracker3.ctix.cn
 translate.google.com
 translate.googleapis.com
 trickbd.com
@@ -1320,6 +1429,7 @@ upgrade.mikrotik.com
 upload.wikimedia.org
 upload.youtube.com
 uploadever.com
+uploads.gamecoast.net
 upwork.com
 us.galleryapi.micloud.xiaomi.net
 us.pool.ntp.org
@@ -1336,6 +1446,7 @@ uz.pool.ntp.org
 v.pinimg.com
 v0.wordpress.com
 v2.api.esquireelectronicsltd.com
+v2.iperson.xyz
 vanilla.futurecdn.net
 variety.com
 vernemqingress.hs-cricinfo.com
@@ -1355,6 +1466,7 @@ videocardz.net
 vidstream.pro
 viewer-geolocation.twitch-ext.rootonline.de
 viki.s.llnwi.net
+vimeo-video.map.fastly.net
 vimeo.com
 vivaldi.com
 vjs.zencdn.net
@@ -1363,6 +1475,7 @@ vn.pool.ntp.org
 voanews-vh.akamaihd.net
 vod-secure.twitch.tv
 voilatile-pa.googleapis.com
+vps02.net.orel.ru
 w.bookcdn.com
 w14.monkrus.ws
 w3.org
@@ -1376,6 +1489,7 @@ webfonts.zoho.com
 webpermissionpredictions.googleapis.com
 weebly.com
 weebly.map.fastly.net
+wepzone.net
 whatsapp.com
 whatthebeach.aternos.me
 whotracks.me
@@ -1388,6 +1502,7 @@ wixsite.com
 wordpress.com
 wordpress.org
 worldbank.org
+worldtimeapi.org
 ws.nperf.com
 www-env.dropbox-dns.com
 www.1337x.to
@@ -1545,6 +1660,7 @@ www.paypalobjects.com
 www.pcbuilderbd.com
 www.pcgamer.com
 www.pdfdrive.com
+www.peckservers.com
 www.pexels.com
 www.pickaboo.com
 www.pinterest.com
@@ -1659,6 +1775,7 @@ za.pool.ntp.org
 zconfig.alibabausercontent.com
 zdbb.net
 zdnet.com
+zecircle.xyz
 zedgenet.cdn.prismic.io
 zerossl.ocsp.sectigo.com
 zm1.zoho.com
