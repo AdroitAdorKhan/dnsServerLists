@@ -366,6 +366,7 @@ dyncdn.me
 dyncdn2.com
 e.root-servers.net
 ecotv-subs.livejournal.com
+ecs.office.com
 edge-chat.instagram.com
 edge-mcdn.secure.yahoo.com
 edge-web.dual-gslb.spotify.com
@@ -393,6 +394,8 @@ eu-client.fwf.deliveryhero.net
 euping.igamecj.com
 eventapi.capp.bka.sh
 events.gfe.nvidia.com
+extension-files.twitch.tv
+extensions-discovery-images.twitch.tv
 external-preview.redd.it
 external.fdac136-1.fna.fbcdn.net
 external.fdac31-1.fna.fbcdn.net
@@ -443,6 +446,7 @@ freepik.com
 freyr.futurecdn.net
 friends-public-service-prod.ol.epicgames.com
 ftp.esquireelectronicsltd.com
+functions.soundalerts.com
 furritsubs.wordpress.com
 g.alicdn.com
 g.root-servers.net
@@ -502,6 +506,7 @@ gumroad.com
 gvoice-config.igamecj.com
 h.root-servers.net
 h2.condenast.map.fastly.net
+h2.twitch.map.fastly.net
 happykit.dev
 hawk.web.future.net.uk
 hcaptcha.com
@@ -1017,6 +1022,7 @@ subs.icedhojicha.com
 suggestqueries-clients6.youtube.com
 suggestqueries.google.com
 superuser.com
+supervisor.ext-twitch.tv
 support.apple.com
 support.google.com
 syndication.twitter.com
@@ -1121,6 +1127,7 @@ video.xx.fbcdn.net
 videoapi-sprites.vimeocdn.com
 videocardz.net
 vidstream.pro
+viewer-geolocation.twitch-ext.rootonline.de
 vimeo.com
 vivaldi.com
 vjs.zencdn.net
