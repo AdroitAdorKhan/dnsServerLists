@@ -156,6 +156,7 @@ assets.adobedtm.com
 assets.alicdn.com
 assets.contentstack.io
 assets.digitalocean.com
+assets.getpocket.com
 assets.gumroad.com
 assets.memberful.com
 assets.mozilla.net
@@ -540,6 +541,7 @@ geocities.com
 geocoder-asia.deliveryhero.io
 get.docker.com
 getbootstrap.com
+getpocket.com
 ggle.io
 gh.pool.ntp.org
 ghs.google.com
@@ -995,6 +997,7 @@ plesk.com
 pling.com
 plus.google.com
 plus.l.google.com
+pocket-image-cache.com
 policies.google.com
 polling.bbc.co.uk
 polling.portal.gov.bd
@@ -1283,6 +1286,7 @@ twitch.tv
 twitter.com
 tz.pool.ntp.org
 ua.pool.ntp.org
+ublockorigin.github.io
 ubuntu.com
 uiboot.netflix.com
 uk.pool.ntp.org
@@ -1524,6 +1528,7 @@ www.paypal.com
 www.paypalobjects.com
 www.pcbuilderbd.com
 www.pcgamer.com
+www.pdfdrive.com
 www.pexels.com
 www.pickaboo.com
 www.pinterest.com
