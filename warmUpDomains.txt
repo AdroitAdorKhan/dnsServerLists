@@ -157,6 +157,7 @@ assets.contentstack.io
 assets.digitalocean.com
 assets.gumroad.com
 assets.memberful.com
+assets.mozilla.net
 assets.nflxext.com
 assets.pinterest.com
 assets.prothomalo.com
@@ -606,6 +607,7 @@ ht.pool.ntp.org
 hu.pool.ntp.org
 hub.docker.com
 huffpost.com
+hybrid.miniapp.taobao.com
 i.animepahe.com
 i.animepahe.org
 i.animepahe.ru
@@ -709,6 +711,7 @@ js.intercomcdn.com
 js.stripe.com
 js.zohocdn.com
 js.zohostatic.com
+jsdelivr.map.fastly.net
 justpaste.it
 jwplayer-dualstack.map.fastly.net
 k-ring.msedge.net
@@ -794,6 +797,7 @@ maxineapi.razersynapse.com
 mc.pool.ntp.org
 mcloud.to
 md.pool.ntp.org
+mdike.alicdn.com
 me-du.shadow.igamecj.com
 media.amazon.map.fastly.net
 media.discordapp.net
@@ -817,9 +821,11 @@ merchants.google.com
 merriam-webster.com
 meta.wikimedia.org
 mg.pool.ntp.org
+mgziminsky.gitlab.io
 microsoft.com
 midas.gtimg.cn
 mikrotik.com
+mini-app-packages-cdn.taobao.com
 mirror3.internetdownloadmanager.com
 mirror5.internetdownloadmanager.com
 miscmedia-9gag-fun.9cache.com
@@ -1110,6 +1116,8 @@ sg.pool.ntp.org
 sg.tdatamaster.com
 sg.voice.gcloudcs.com
 shared.ap.a.pvp.net
+shavar.prod.mozaws.net
+shavar.services.mozilla.com
 shop.rangs.com.bd
 short.io
 si.pool.ntp.org
