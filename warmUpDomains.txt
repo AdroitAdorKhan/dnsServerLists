@@ -70,22 +70,27 @@ api-center.intsig.net
 api-cs.intsig.net
 api-global.dradis.netflix.com
 api-global.netflix.com
+api-icons.icons8.com
 api-partner.spotify.com
 api-stream.twitter.com
 api.accounts.firefox.com
 api.bd.airtel.com
 api.blog.cloudflare.com
 api.cde.capp.bka.sh
+api.cloudflareclient.com
 api.cricbuzz.com
 api.deezer.com
 api.epicgames.dev
 api.fast.com
 api.github.com
 api.graphql.imdb.com
+api.jetboost.io
 api.likee.video
+api.memberstack.io
 api.msn.com
 api.paperquotes.com
 api.picsart.com
+api.producthunt.com
 api.pushbullet.com
 api.setting.intl.miui.com
 api.telegram.org
@@ -100,6 +105,7 @@ api1.origin.com
 apis.google.com
 app-content.photobucket.com
 app.gitbook.com
+app.gumroad.com
 app.launchdarkly.com
 app.nperf.com
 app.shopify.com
@@ -124,6 +130,7 @@ assets.adobedtm.com
 assets.alicdn.com
 assets.contentstack.io
 assets.digitalocean.com
+assets.gumroad.com
 assets.nflxext.com
 assets.pinterest.com
 assets.prothomalo.com
@@ -131,6 +138,7 @@ assets.roar.media
 assets.static-upwork.com
 assets.tumblr.com
 assets.ubuntu.com
+assets.website-files.com
 astha.bracbank.com
 aternos.org
 audio-fa.scdn.co
@@ -168,7 +176,10 @@ bl.ink
 blitzfansub.com
 blog.cloudflare.com
 blogger.com
+blogger.googleusercontent.com
+blogger.l.google.com
 blogspot.com
+blush.design
 bongaon.st.fabnet.in.prod.hosts.ooklaserver.net
 bonikbarta.net
 booking.com
@@ -199,11 +210,14 @@ cdn.cookielaw.org
 cdn.datatables.net
 cdn.discordapp.com
 cdn.flipboard.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.gsmarena.com
 cdn.iframe.ly
 cdn.ipinfo.io
 cdn.jamuna.tv
+cdn.jetboost.io
 cdn.jsdelivr.net
+cdn.lr-in-prod.com
 cdn.mos.cms.futurecdn.net
 cdn.mozilla.net
 cdn.myanimelist.net
@@ -222,7 +236,9 @@ cdn.vox-cdn.com
 cdn.wetest.qq.com
 cdn.ziffstatic.com
 cdn2.editmysite.com
+cdna.iconscout.com
 cdnjs.cloudflare.com
+cdnl.iconscout.com
 cds.csx.sony.com
 cf-st.sc-cdn.net
 change.org
@@ -250,6 +266,7 @@ cloudfront.net
 cloudsv.ieg.onezapp.com
 cmg.dn.apigee.net
 cmsimages.capp.bka.sh
+cname.vercel-dns.com
 cnn.com
 code.highcharts.com
 code.jquery.com
@@ -278,6 +295,8 @@ crontab.guru
 crowd.fastforward.team
 crunchyroll.com
 css.zohostatic.com
+cssanimation.rocks
+customerioforms.com
 cutt.ly
 d-addicts.com
 d.root-servers.net
@@ -302,6 +321,7 @@ digitalassetlinks.googleapis.com
 discord.gg
 discover-pa.googleapis.com
 disqus.com
+distributions.crowdin.net
 distrowatch.com
 dl.discordapp.net
 dns.cloudflare.com
@@ -333,6 +353,7 @@ drive-thirdparty.googleusercontent.com
 drive.google.com
 dropbox.com
 dsebd.org
+dualstack.com.imgix.map.fastly.net
 dualstack.reddit.map.fastly.net
 dualstack.twimg.twitter.map.fastly.net
 dw.com
@@ -394,6 +415,7 @@ firebase.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseremoteconfig.googleapis.com
 firefox.settings.services.mozilla.com
+firestore.googleapis.com
 fitgirl-repacks.site
 fiverr-res.cloudinary.com
 fiverr.com
@@ -432,6 +454,7 @@ geocoder-asia.deliveryhero.io
 get.docker.com
 getbootstrap.com
 ggle.io
+ghs.google.com
 giphy.com
 gist.github.com
 gitcdn.xyz
@@ -441,6 +464,7 @@ github.githubassets.com
 github.io
 gitlab.com
 gizmodo.com
+global-uploads.webflow.com
 global.fd-api.com
 global.ketchcdn.com
 global.poe.live-video.net
@@ -468,9 +492,11 @@ gql.twitch.tv
 gravatar.com
 gstatic.com
 guardian.co.uk
+gumroad.com
 gvoice-config.igamecj.com
 h.root-servers.net
 h2.condenast.map.fastly.net
+happykit.dev
 hawk.web.future.net.uk
 hcaptcha.com
 hello.myfonts.net
@@ -504,17 +530,21 @@ i9.ytimg.com
 ibblportal.islamibankbd.com
 ichef.bbc.co.uk
 icms-image.slatic.net
+icons8.com
+iconscout.com
 idcconfig.gcloud.qq.com
 ietf.org
 iframe.videodelivery.net
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
+illlustrations.co
 image.shutterstock.com
 imagecurl.com
 imageproxy.ifunny.co
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-na.ssl-images-amazon.com
+images.blush.design
 images.capp.bka.sh
 images.contentstack.io
 images.deliveryhero.io
@@ -534,6 +564,7 @@ img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 img.dtcn.com
 img.freepik.com
+img.icons8.com
 img.onesignal.com
 img.youtube.com
 img.zohocdn.com
@@ -553,6 +584,7 @@ interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
 ipinfo.io
+iradesign.io
 irc-ws.chat.twitch.tv
 irozuku.org
 itsfoss.com
@@ -632,6 +664,7 @@ maxineapi.razersynapse.com
 me-du.shadow.igamecj.com
 media.discordapp.net
 media.fdac31-1.fna.fbcdn.net
+media.flaticon.com
 media.giphy.com
 media.nperf.com
 media.tenor.co
@@ -684,6 +717,7 @@ netflix.com
 newassets.hcaptcha.com
 news.google.com
 news.yahoo.com
+nolt.io
 nperf.com
 nrdp.prod.ftl.netflix.com
 ny.iss.one
@@ -754,6 +788,7 @@ pixabay.com
 pki-goog.l.google.com
 platform.linkedin.com
 platform.twitter.com
+platform.twitter.map.fastly.net
 plati.market
 play-fe.googleapis.com
 play-lh.googleusercontent.com
@@ -784,11 +819,14 @@ probe-ixunicast.prod.ftl.netflix.com
 prod.balrog.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.partner.dradis.netflix.com
+prod.tokenserver.prod.cloudops.mozgcp.net
+producthunt.com
 production.cloudflare.docker.com
 profile.accounts.firefox.com
 proof.ovh.net
 protonmail.com
 proxsee.pscp.tv
+proxy-ssl-geo.webflow.com
 proxyrarbg.org
 psa.pm
 pss.bdstatic.com
@@ -931,6 +969,7 @@ static-01.daraz.com.bd
 static-assets-prod.s3.amazonaws.com
 static-cdn.jtvnw.net
 static-cdn.spot.im
+static-gcp.freepikcompany.com
 static.bbci.co.uk
 static.bunnycdn.ru
 static.cdninstagram.com
@@ -953,6 +992,7 @@ steam-chat.com
 storage.googleapis.com
 storage.live.com
 store.storeimages.cdn-apple.com
+stripecdn.map.fastly.net
 stun.l.google.com
 style.sndcdn.com
 styles.redditmedia.com
@@ -1018,6 +1058,7 @@ ubuntu.com
 uiboot.netflix.com
 umlazada.alibaba.com
 unb.com.bd
+undraw.co
 unesco.org
 unifiedaccess.gameloop.com
 unix.stackexchange.com
@@ -1035,6 +1076,7 @@ upwork.com
 us.galleryapi.micloud.xiaomi.net
 us3-wms.zoho.com
 use.fontawesome.com
+use.fontawesome.com.cdn.cloudflare.net
 use.typekit.net
 user-images.githubusercontent.com
 userlocation.googleapis.com
@@ -1089,6 +1131,7 @@ wordpress.com
 wordpress.org
 worldbank.org
 ws.nperf.com
+www-env.dropbox-dns.com
 www.1337x.to
 www.aliexpress.com
 www.aljazeera.com
@@ -1118,6 +1161,7 @@ www.bioscopelive.com
 www.bit.ly
 www.bleepingcomputer.com
 www.bleepstatic.com
+www.blogger.com
 www.bloomberg.com
 www.bostonglobe.com
 www.btrc.gov.bd
@@ -1150,6 +1194,8 @@ www.digitaltrends.com
 www.dmca.com
 www.dnsleaktest.com
 www.dpp.gov.bd
+www.drawkit.com
+www.dropbox.com
 www.dw.com
 www.ekushey-tv.com
 www.electronics.com.bd
@@ -1163,6 +1209,7 @@ www.extremetech.com
 www.filehorse.com
 www.fiverr.com
 www.flashscore.com
+www.flaticon.com
 www.footlive.com
 www.forbes.com
 www.freebsd.org
@@ -1182,6 +1229,7 @@ www.gstatic.com
 www.hollywoodreporter.com
 www.hotstar.com
 www.howtogeek.com
+www.humaaans.com
 www.ibm.com
 www.imdb.com
 www.independent.co.uk
@@ -1214,6 +1262,7 @@ www.microsoft.com
 www.mikrotik.com
 www.mke.com.bd
 www.moedu.gov.bd
+www.monkrus.ws
 www.mzamin.com
 www.netflix.com
 www.news24bd.tv
@@ -1231,8 +1280,10 @@ www.pcgamer.com
 www.pexels.com
 www.pickaboo.com
 www.pinterest.com
+www.pixeltrue.com
 www.pling.com
 www.priyoshop.com
+www.producthunt.com
 www.prothomalo.com
 www.python.org
 www.qq.com
@@ -1314,6 +1365,7 @@ www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
 www2.bing.com
+www3.l.google.com
 x.root-servers.net
 x1.c.lencr.org
 x2.c.lencr.org
@@ -1322,6 +1374,7 @@ yahoo.co.jp
 yahoo.com
 yandex.ru
 youtu.be
+youtube-ui.l.google.com
 youtube.com
 youtubei.googleapis.com
 yt3.ggpht.com
