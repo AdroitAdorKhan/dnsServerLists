@@ -117,6 +117,8 @@
 *.rtc.youme.im
 *.maribacaberita.com
 *.pangle.io
+*app-measurement.*
+*.wzrkt.*
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
