@@ -37,6 +37,7 @@ a2zapk.com
 abs-0.twimg.com
 abs-zero.twimg.com
 abs.twimg.com
+account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
 accounts-cdn.9gag.com
 accounts.firefox.com
@@ -827,6 +828,7 @@ member.daraz.com.bd
 meping.igamecj.com
 merchants.google.com
 merriam-webster.com
+messenger-noneu.truecaller.com
 meta.wikimedia.org
 mg.pool.ntp.org
 mgziminsky.gitlab.io
@@ -1007,6 +1009,7 @@ portal.fb.com
 portal.gov.bd
 pps.whatsapp.net
 preapp.prod.partner.netflix.net
+premium-noneu.truecaller.com
 preview.redd.it
 privacy-api.9gag.com
 privacyportal-eu.onetrust.com
@@ -1100,6 +1103,7 @@ scontent-sin6-3.xx.fbcdn.net
 scontent-sin6-4.xx.fbcdn.net
 scontent.fdac136-1.fna.fbcdn.net
 scontent.fdac2-1.fna.fbcdn.net
+scontent.fdac3-1.fna.fbcdn.net
 scontent.fdac31-1.fna.fbcdn.net
 scontent.fdac80-1.fna.fbcdn.net
 scontent.whatsapp.net
@@ -1635,6 +1639,7 @@ youtubei.googleapis.com
 yt3.ggpht.com
 yt4.ggpht.com
 z-m-graph.facebook.com
+z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
 z-p3-graph.facebook.com
 za.pool.ntp.org
