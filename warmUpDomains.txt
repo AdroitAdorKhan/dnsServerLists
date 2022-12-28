@@ -28,6 +28,7 @@
 9.rarbg.com
 9anime-to.disqus.com
 9anime.to
+9gag.com
 9to5google.com
 a-v2.sndcdn.com
 a.disquscdn.com
@@ -693,6 +694,7 @@ idcconfig.gcloud.qq.com
 ie.pool.ntp.org
 ietf.org
 iframe.videodelivery.net
+ifunny.co
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 il.pool.ntp.org
@@ -723,6 +725,7 @@ images.unsplash.com
 imap-mail.outlook.com
 imdb.com
 img-9gag-fun.9cache.com
+img-9gag-fun.9cache.com.cdn.cloudflare.net
 img-comment-fun.9cache.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
@@ -901,10 +904,12 @@ microsoft.com
 midas.gtimg.cn
 mikrotik.com
 mini-app-packages-cdn.taobao.com
+miro.medium.com
 mirror.aptus.co.tz
 mirror3.internetdownloadmanager.com
 mirror5.internetdownloadmanager.com
 miscmedia-9gag-fun.9cache.com
+miscmedia-9gag-fun.9cache.com.cdn.cloudflare.net
 mk.pool.ntp.org
 mlsbd.shop
 mo.pool.ntp.org
@@ -1299,6 +1304,7 @@ static.fd-api.com
 static.fdac136-1.fna.fbcdn.net
 static.fdac31-1.fna.fbcdn.net
 static.g2a.com
+static.ifunny.co
 static.line-scdn.net
 static.mediafire.com
 static.rgpub.io
