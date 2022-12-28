@@ -412,6 +412,7 @@ feeds.feedburner.com
 filecdn.igamecj.com
 filecr.com
 filehostlist.miraheze.org
+filemoon.sx
 finance.yahoo.com
 firebase.googleapis.com
 firebaseinappmessaging.googleapis.com
@@ -744,6 +745,7 @@ ocsp.godaddy.com.akadns.net
 ocsp.pki.goog
 ocsp.sectigo.com
 ocsp2.globalsign.com
+ocsps.ssl.com
 odoh.cloudflare-dns.com
 officecdn.microsoft.com
 ogs.google.com
@@ -1002,6 +1004,7 @@ storage.googleapis.com
 storage.hell.sh
 storage.live.com
 store.storeimages.cdn-apple.com
+streamtape.com
 stripecdn.map.fastly.net
 stun.l.google.com
 style.sndcdn.com
@@ -1229,6 +1232,7 @@ www.freebsd.org
 www.freepik.com
 www.ft.com
 www.gentoo.org
+www.github.com
 www.glasswire.com
 www.gnu.org
 www.goal.com
@@ -1276,6 +1280,7 @@ www.mikrotik.com
 www.mke.com.bd
 www.moedu.gov.bd
 www.monkrus.ws
+www.mp4upload.com
 www.mzamin.com
 www.netflix.com
 www.news24bd.tv
