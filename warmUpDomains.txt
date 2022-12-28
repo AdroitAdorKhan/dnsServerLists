@@ -3,6 +3,7 @@
 1.bp.blogspot.com
 1.pool.ntp.org
 1.us.pool.ntp.org
+1.viki.io
 1006-shadow.igamecj.com
 1337x.to
 2.bp.blogspot.com
@@ -21,6 +22,7 @@
 4006-shadow.igamecj.com
 5004-shadow.igamecj.com
 5005-shadow.igamecj.com
+6.viki.io
 9anime-to.disqus.com
 9anime.to
 9to5google.com
@@ -104,6 +106,9 @@ api.zhub.ims.bka.sh
 api1.origin.com
 apimon.de
 apis.google.com
+apkmirror.com
+apkmirror.disqus.com
+apkpure.com
 app-content.photobucket.com
 app.gitbook.com
 app.gumroad.com
@@ -132,6 +137,7 @@ assets.alicdn.com
 assets.contentstack.io
 assets.digitalocean.com
 assets.gumroad.com
+assets.memberful.com
 assets.nflxext.com
 assets.pinterest.com
 assets.prothomalo.com
@@ -214,6 +220,7 @@ cdn.discordapp.com
 cdn.flipboard.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.gsmarena.com
+cdn.gumlet.com
 cdn.hell.sh
 cdn.iframe.ly
 cdn.ipinfo.io
@@ -243,6 +250,7 @@ cdn2.editmysite.com
 cdna.iconscout.com
 cdnjs.cloudflare.com
 cdnl.iconscout.com
+cdnpure.com
 cds.csx.sony.com
 cf-st.sc-cdn.net
 change.org
@@ -289,6 +297,7 @@ consent.trustarc.com
 consortiumeducation.com
 contacts.zoho.com
 content-autofill.googleapis.com
+content-signature-2.cdn.mozilla.net
 content.jwplatform.com
 cornell.edu
 cpanel.com
@@ -300,6 +309,7 @@ crowd.fastforward.team
 crunchyroll.com
 css.zohostatic.com
 cssanimation.rocks
+custom.bnc.lt
 customerioforms.com
 cutt.ly
 d-addicts.com
@@ -358,6 +368,7 @@ drive.google.com
 dropbox.com
 dsebd.org
 dualstack.com.imgix.map.fastly.net
+dualstack.m.sni.global.fastly.net
 dualstack.reddit.map.fastly.net
 dualstack.twimg.twitter.map.fastly.net
 dw.com
@@ -453,6 +464,7 @@ g.root-servers.net
 g.whatsapp.net
 g2a.com
 gaming.amazon.com
+gates.cloudflare.com
 gateway.discord.gg
 gateway.facebook.com
 gateway.reddit.com
@@ -496,6 +508,7 @@ googlehosted.l.googleusercontent.com
 googleonebackup-pa.googleapis.com
 googleusercontent.com
 goplay.anontpp.com
+goplay.ml
 gpu.me
 gql.reddit.com
 gql.twitch.tv
@@ -552,6 +565,7 @@ ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 illlustrations.co
 image.shutterstock.com
+image.winudf.com
 imagecurl.com
 imageproxy.ifunny.co
 images-ext-1.discordapp.net
@@ -564,6 +578,7 @@ images.deliveryhero.io
 images.discordapp.net
 images.dmca.com
 images.g2a.com
+images.orp2.ott.kaltura.com
 images.pexels.com
 images.prothomalo.com
 images.samsung.com
@@ -612,18 +627,22 @@ js.stripe.com
 js.zohocdn.com
 js.zohostatic.com
 justpaste.it
+jwplayer-dualstack.map.fastly.net
 k-ring.msedge.net
 k.gjacky.com
 k.root-servers.net
 k.twitchcdn.net
 ka-f.fontawesome.com
+ka-f.fontawesome.com.cdn.cloudflare.net
 ka-p.fontawesome.com
 kbizoom.com
 kickstarter.com
+kissasian.disqus.com
 kissasian.li
 kit.fontawesome.com
 kj-se.shadow.igamecj.com
 kj-tk.shadow.igamecj.com
+kocowa-img.imgix.net
 krping.igamecj.com
 l.facebook.com
 l.root-servers.net
@@ -655,6 +674,7 @@ lol.secure.dyn.riotcdn.net
 lolstatic-a.akamaihd.net
 lpcdn.lpsnmedia.net
 m.alibaba.com
+m.apkpure.com
 m.daily-bangladesh.com
 m.facebook.com
 m.gsmarena.com
@@ -800,6 +820,13 @@ photos-ugc.l.googleusercontent.com
 photos.googleapis.com
 photosdata-pa.googleapis.com
 phreshphish.classifier.brightcloud.com
+pic0.iqiyipic.com
+pic1.iqiyipic.com
+pic3.iqiyipic.com
+pic4.iqiyipic.com
+pic5.iqiyipic.com
+pic6.iqiyipic.com
+pic7.iqiyipic.com
 pinterest.ca
 pinterest.com
 pixabay.com
@@ -836,6 +863,7 @@ privacyportal-eu.onetrust.com
 pro.fontawesome.com
 probe-ixunicast.prod.ftl.netflix.com
 prod.balrog.prod.cloudops.mozgcp.net
+prod.content-signature-chains.prod.webservices.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.partner.dradis.netflix.com
 prod.tokenserver.prod.cloudops.mozgcp.net
@@ -932,6 +960,7 @@ seed-mix-image.spotifycdn.com
 serverfault.com
 service.biv.sony.tv
 services.addons.mozilla.org
+services.prothomalo.com
 sg-live-02.slatic.net
 sg-live.slatic.net
 sg.tdatamaster.com
@@ -955,7 +984,9 @@ sonar6.xy.fbcdn.net
 soundcloud.com
 sourceforge.net
 sp-bootstrap.spotifycdn.com
+sp.ondemandkorea.com
 sp2.ping.com.bd.prod.hosts.ooklaserver.net
+sparrow.cloudflare.com
 spclient.wg.spotify.com
 speednetkhulna.online.prod.hosts.ooklaserver.net
 speedtest.abnetwork.com.bd.prod.hosts.ooklaserver.net
@@ -994,6 +1025,7 @@ static.bbci.co.uk
 static.bunnycdn.ru
 static.cdninstagram.com
 static.crunchyroll.com
+static.dash.cloudflare.com
 static.extremetech.com
 static.fdac136-1.fna.fbcdn.net
 static.fdac31-1.fna.fbcdn.net
@@ -1128,6 +1160,7 @@ videoapi-sprites.vimeocdn.com
 videocardz.net
 vidstream.pro
 viewer-geolocation.twitch-ext.rootonline.de
+viki.s.llnwi.net
 vimeo.com
 vivaldi.com
 vjs.zencdn.net
@@ -1286,6 +1319,8 @@ www.makeuseof.com
 www.manobkantha.com
 www.manobkantha.com.bd
 www.messenger.com
+www.metype.com
+www.metype.com.cdn.cloudflare.net
 www.microsoft.com
 www.mikrotik.com
 www.mke.com.bd
