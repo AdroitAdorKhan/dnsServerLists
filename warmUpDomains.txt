@@ -541,6 +541,7 @@ fonts.mailerlite.com
 forbes.com
 forms.gle
 fortune.com
+forum.mobilism.org
 fosstorrents.com
 fost.ws
 foxnews.com
@@ -798,6 +799,9 @@ lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
 li.pool.ntp.org
+libgen.is
+libgen.rs
+libgen.st
 lineup-images.scdn.co
 linkedin.com
 linux.die.net
@@ -1105,6 +1109,7 @@ qsf.fs.quoracdn.net.cdn.cloudflare.net
 qtstm32fan.ru
 quora.com
 rarbg.to
+ravebooksearch.com
 raw.githubusercontent.com
 readthedocs.org
 realtime.services.disqus.com
@@ -1765,6 +1770,7 @@ x.root-servers.net
 x1.c.lencr.org
 x2.c.lencr.org
 xatab-repack.com
+xatab-repack.net.ru
 xsso.playvalorant.com
 yahoo.co.jp
 yahoo.com
