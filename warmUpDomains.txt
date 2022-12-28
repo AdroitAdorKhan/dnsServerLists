@@ -898,7 +898,6 @@ soundcloud.com
 sourceforge.net
 sp-bootstrap.spotifycdn.com
 sp2.ping.com.bd.prod.hosts.ooklaserver.net
-spade.twitch.tv
 spclient.wg.spotify.com
 speednetkhulna.online.prod.hosts.ooklaserver.net
 speedtest.abnetwork.com.bd.prod.hosts.ooklaserver.net
