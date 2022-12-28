@@ -323,6 +323,7 @@ darkreader.org
 dash.cloudflare.com
 data-asset-directory-public-service-prod.ol.epicgames.com
 data.riotgames.com
+datagy.io
 datarouter.ol.epicgames.com
 dealer.spotify.com
 debian.org
@@ -445,6 +446,7 @@ fonts.cdnfonts.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.maateen.me
+fonts.mailerlite.com
 forbes.com
 forms.gle
 fortune.com
@@ -493,6 +495,7 @@ global.poe.live-video.net
 global.techradar.com
 glyph.medium.com
 glz-ap-1.ap.a.pvp.net
+gnpfesdk-pa.googleapis.com
 go-updater.brave.com
 go.microsoft.com
 go.th
@@ -513,11 +516,13 @@ gpu.me
 gql.reddit.com
 gql.twitch.tv
 gravatar.com
+greasyfork.org
 gstatic.com
 guardian.co.uk
 gumroad.com
 gvoice-config.igamecj.com
 h.root-servers.net
+h2-stratus.zohocdn.com
 h2.condenast.map.fastly.net
 h2.twitch.map.fastly.net
 happykit.dev
@@ -724,6 +729,7 @@ mikrotik.com
 mirror3.internetdownloadmanager.com
 mirror5.internetdownloadmanager.com
 mlsbd.shop
+mobile.twitter.com
 mozilla.cloudflare-dns.com
 mozilla.org
 mtalk.google.com
@@ -786,6 +792,7 @@ open.scdn.co
 opencdnbd.jomodns.com
 opencdnglobal.gshifen.com
 opensource.com
+opensourceoptions.com
 openwrt.org
 or.kr
 oth.eve.mdt.qq.com
@@ -881,6 +888,7 @@ pubsub-edge.twitch.tv
 puffer.4.1375135419.igame.gcloudcs.com
 push.prod.netflix.com
 push.services.mozilla.com
+pytutorial.com
 qa.sockets.stackexchange.com
 qq.com
 qsf.fs.quoracdn.net
@@ -1128,6 +1136,7 @@ updates.push.services.mozilla.com
 updates.webroot.com
 upgrade.mikrotik.com
 upload.wikimedia.org
+upload.youtube.com
 uploadever.com
 upwork.com
 us.galleryapi.micloud.xiaomi.net
@@ -1304,6 +1313,7 @@ www.istockphoto.com
 www.ittefaq.com.bd
 www.jagonews24.com
 www.jamuna.tv
+www.javatpoint.com
 www.jiosaavn.com
 www.jugantor.com
 www.kalerkantho.com
@@ -1420,6 +1430,7 @@ www.voabangla.com
 www.voanews.com
 www.vogue.com
 www.vox.com
+www.w3schools.com
 www.weebly.com
 www.whatsapp.com
 www.wikipedia.org
