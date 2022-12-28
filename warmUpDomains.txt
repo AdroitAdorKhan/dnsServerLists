@@ -449,6 +449,7 @@ dualstack.com.imgix.map.fastly.net
 dualstack.m.sni.global.fastly.net
 dualstack.reddit.map.fastly.net
 dualstack.twimg.twitter.map.fastly.net
+duckduckgo.com
 dw.com
 dyna.wikimedia.org
 dyncdn.me
@@ -468,6 +469,7 @@ edgedl.me.gvt1.com
 ee.pool.ntp.org
 eg.pool.ntp.org
 ekg.riotgames.com
+electronicsbazar.com.bd
 embed.videodelivery.net
 en.wikipedia.org
 encrypted-tbn0.gstatic.com
@@ -489,6 +491,7 @@ etsy.com
 eu-client.fwf.deliveryhero.net
 euping.igamecj.com
 europe.pool.ntp.org
+evaly.com.bd
 eventapi.capp.bka.sh
 events.gfe.nvidia.com
 example.org
@@ -581,6 +584,7 @@ getpocket.com
 ggle.io
 gh.pool.ntp.org
 ghs.google.com
+ghs.googlehosted.com
 gi.pool.ntp.org
 giphy.com
 gist.github.com
@@ -859,6 +863,7 @@ mdike.alicdn.com
 me-du.shadow.igamecj.com
 media.amazon.map.fastly.net
 media.discordapp.net
+media.e-valy.com
 media.fdac31-1.fna.fbcdn.net
 media.flaticon.com
 media.giphy.com
@@ -1520,6 +1525,7 @@ worldbank.org
 worldtimeapi.org
 ws.nperf.com
 www-env.dropbox-dns.com
+www-shutterstock-com-external.managed.kic-prod.shuttercloud.org
 www.1337x.to
 www.aliexpress.com
 www.aljazeera.com
@@ -1586,6 +1592,7 @@ www.dpp.gov.bd
 www.dradis.netflix.com
 www.drawkit.com
 www.dropbox.com
+www.duckduckgo.com
 www.dw.com
 www.ekushey-tv.com
 www.electronics.com.bd
@@ -1593,7 +1600,6 @@ www.electronicsbazar.com.bd
 www.espncricinfo.com
 www.esquireelectronicsltd.com
 www.estorejamuna.com
-www.eticket.railway.gov.bd
 www.express.co.uk
 www.extremetech.com
 www.file-upload.com
