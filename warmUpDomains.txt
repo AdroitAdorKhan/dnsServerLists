@@ -47,6 +47,7 @@ accounts.zoho.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
+adn-asia.deezer.com
 adobe.com
 ae.nflximg.net
 ae.pool.ntp.org
@@ -430,6 +431,8 @@ dw.com
 dyna.wikimedia.org
 dyncdn.me
 dyncdn2.com
+e-cdn-files.dzcdn.net
+e-cdns-assets.dzcdn.net
 e.root-servers.net
 ec.pool.ntp.org
 ecotv-subs.livejournal.com
@@ -666,6 +669,7 @@ images.dmca.com
 images.g2a.com
 images.orp2.ott.kaltura.com
 images.pexels.com
+images.prismic.io
 images.prothomalo.com
 images.samsung.com
 images.thedailystar.net
@@ -891,6 +895,7 @@ nrdp.prod.ftl.netflix.com
 ny.iss.one
 nyaa.si
 nz.pool.ntp.org
+o.lencr.edgesuite.net
 o.twimg.com
 oapi-us.camscanner.com
 oapi.camscanner.com
@@ -923,6 +928,8 @@ open-bak.camscanner.com
 open-im-us.camscanner.com
 open.camscanner.com
 open.scdn.co
+open.spotify.com
+open.spotifycdn.com
 opencdnbd.jomodns.com
 opencdnglobal.gshifen.com
 opensource.com
@@ -941,6 +948,7 @@ pa.pool.ntp.org
 pages.daraz.com.bd
 pahe.li
 panels.twitch.tv
+partners.wg.spotify.com
 party-service-prod.ol.epicgames.com
 passport.baidu.com
 passport.n.shifen.com
@@ -1113,6 +1121,7 @@ scripts.pay.bka.sh
 se.pool.ntp.org
 sea.edge.rms.si.riotgames.com
 search-warnings-noneu.truecaller.com
+search5-noneu.truecaller.com
 sec-oc.netflix.com
 secure.gravatar.com
 secure.internetdownloadmanager.com
@@ -1360,6 +1369,7 @@ w3.org
 wassets.hscicdn.com
 watch.redd.it
 web.facebook.com
+web.geo2.deezer.com
 web.pool.ntp.org
 web.whatsapp.com
 webfonts.zoho.com
@@ -1433,6 +1443,7 @@ www.dailymail.co.uk
 www.dailynayadiganta.com
 www.daraz.com.bd
 www.deezer.com
+www.deezer.com.edgekey.net
 www.dell.com
 www.desh.tv
 www.dhakatribune.com
@@ -1522,6 +1533,7 @@ www.netflix.com
 www.news24bd.tv
 www.notebookcheck.net
 www.nperf.com
+www.ntppool.org
 www.ntvbd.com
 www.nytimes.com
 www.office.com
@@ -1623,6 +1635,7 @@ www.xda-developers.com
 www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
+www.zedge.net
 www2.bing.com
 www3.l.google.com
 x.root-servers.net
@@ -1646,6 +1659,7 @@ za.pool.ntp.org
 zconfig.alibabausercontent.com
 zdbb.net
 zdnet.com
+zedgenet.cdn.prismic.io
 zerossl.ocsp.sectigo.com
 zm1.zoho.com
 zmupload.zoho.com
