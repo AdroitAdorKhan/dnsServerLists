@@ -102,6 +102,7 @@ api.webroot.com
 api.whatsapp.com
 api.zhub.ims.bka.sh
 api1.origin.com
+apimon.de
 apis.google.com
 app-content.photobucket.com
 app.gitbook.com
@@ -212,6 +213,7 @@ cdn.discordapp.com
 cdn.flipboard.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.gsmarena.com
+cdn.hell.sh
 cdn.iframe.ly
 cdn.ipinfo.io
 cdn.jamuna.tv
@@ -499,6 +501,7 @@ h2.condenast.map.fastly.net
 happykit.dev
 hawk.web.future.net.uk
 hcaptcha.com
+hell.sh
 hello.myfonts.net
 history.google.com
 hk.voice.gcloudcs.com
@@ -511,6 +514,7 @@ huffpost.com
 i.animepahe.com
 i.animepahe.org
 i.animepahe.ru
+i.ibb.co
 i.instagram.com
 i.mt.lv
 i.mydramalist.com
@@ -567,6 +571,7 @@ img.freepik.com
 img.icons8.com
 img.onesignal.com
 img.youtube.com
+img.yts.mx
 img.zohocdn.com
 img.zohostatic.com
 img.zorores.com
@@ -661,6 +666,7 @@ maps.gstatic.com
 massgrave.dev
 maxcdn.bootstrapcdn.com
 maxineapi.razersynapse.com
+mcloud.to
 me-du.shadow.igamecj.com
 media.discordapp.net
 media.fdac31-1.fna.fbcdn.net
@@ -736,6 +742,7 @@ ocsp.globalsign.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.pki.goog
+ocsp.sectigo.com
 ocsp2.globalsign.com
 odoh.cloudflare-dns.com
 officecdn.microsoft.com
@@ -804,6 +811,7 @@ playvalorant.com
 plesk.com
 pling.com
 plus.google.com
+plus.l.google.com
 policies.google.com
 polling.bbc.co.uk
 polling.portal.gov.bd
@@ -872,6 +880,7 @@ s.yimg.com
 s.youtube.com
 s0.wp.com
 s2.bunnycdn.ru
+s2.googleusercontent.com
 s3-ap-southeast-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
@@ -990,6 +999,7 @@ stats.mydramalist.com
 status.discord.com
 steam-chat.com
 storage.googleapis.com
+storage.hell.sh
 storage.live.com
 store.storeimages.cdn-apple.com
 stripecdn.map.fastly.net
@@ -1005,6 +1015,7 @@ support.google.com
 syndication.twitter.com
 t.co
 t.me
+t0.gstatic.com
 t2.gstatic.com
 taobao.com
 tbsnews.net
@@ -1025,6 +1036,7 @@ thehiddenbay.com
 themeforest.net
 thepiratebay.org
 theverge.com
+thumbs.filemoon.sx
 tigercricket.com.bd
 time-ak.alicdn.com
 time.android.com
@@ -1101,6 +1113,7 @@ video.twimg.com
 video.xx.fbcdn.net
 videoapi-sprites.vimeocdn.com
 videocardz.net
+vidstream.pro
 vimeo.com
 vivaldi.com
 vjs.zencdn.net
@@ -1271,6 +1284,7 @@ www.nperf.com
 www.ntvbd.com
 www.nytimes.com
 www.office.com
+www.omglinux.com
 www.othoba.com
 www.patreon.com
 www.paypal.com
@@ -1327,6 +1341,7 @@ www.telegraph.co.uk
 www.thedailystar.net
 www.thegeekstuff.com
 www.theindependentbd.com
+www.themoviedb.org
 www.thestar.com
 www.thetimes.co.uk
 www.theverge.com
