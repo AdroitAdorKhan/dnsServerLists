@@ -425,6 +425,7 @@ docs.docker.com
 docs.google.com
 docs.oracle.com
 docs.portainer.io
+dodi-repacks.site
 donsubbers.wordpress.com
 dotesports.com
 down.anticheatexpert.com
@@ -1173,6 +1174,7 @@ scontent.fdac31-1.fna.fbcdn.net
 scontent.fdac80-1.fna.fbcdn.net
 scontent.whatsapp.net
 scontent.xx.fbcdn.net
+scooter-repacks.site
 scribd.com
 scripts.pay.bka.sh
 se.pool.ntp.org
@@ -1583,6 +1585,7 @@ www.estorejamuna.com
 www.eticket.railway.gov.bd
 www.express.co.uk
 www.extremetech.com
+www.file-upload.com
 www.filehorse.com
 www.fiverr.com
 www.flashscore.com
@@ -1735,6 +1738,7 @@ www.twitter.com
 www.ubuy.com.bd
 www.unesco.org
 www.unix.com
+www.upload-4ever.com
 www.upwork.com
 www.videezy.com
 www.virustotal.com
@@ -1759,6 +1763,7 @@ www3.l.google.com
 x.root-servers.net
 x1.c.lencr.org
 x2.c.lencr.org
+xatab-repack.com
 xsso.playvalorant.com
 yahoo.co.jp
 yahoo.com
