@@ -107,6 +107,7 @@ api.github.com
 api.graphql.imdb.com
 api.jetboost.io
 api.likee.video
+api.mangadex.org
 api.memberstack.io
 api.msn.com
 api.myanimelist.net
@@ -183,6 +184,7 @@ audio-fa.scdn.co
 auroraoss.com
 aus1.waterfox.net
 aus5.mozilla.org
+auth.mangadex.org
 auth.riotgames.com
 authenticate.riotgames.com
 avatar-service-prod.identity.live.on.epicgames.com
@@ -840,6 +842,9 @@ mail.zasaonsk.ga
 mail.zoho.com
 mailchi.mp
 mailwsorg.zoho.com
+manga4life.com
+mangadex.org
+mangareader.to
 manifest.prod.boltdns.net
 manpages.debian.org
 maps.google.com
