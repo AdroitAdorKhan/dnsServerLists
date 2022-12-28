@@ -82,6 +82,7 @@ animepahe.com
 animepahe.org
 animepahe.ru
 anonfiles.com
+anonym.es
 anycast.ftl.netflix.com
 ao.pool.ntp.org
 ap.vg.ac.pvp.net
@@ -146,6 +147,7 @@ appboot.netflix.com
 apple.com
 appleid.cdn-apple.com
 apps.apple.com
+appsitemsuggest-pa.clients6.google.com
 apresolve.spotify.com
 apse.pp.riotgames.com
 apse.pp.sgp.riotgames.com
