@@ -745,6 +745,7 @@ imgur.com
 in.pool.ntp.org
 inbox.google.com
 indeed.com
+instagram.c10r.instagram.com
 instagram.com
 instagram.fdac136-1.fna.fbcdn.net
 instagram.fdac31-1.fna.fbcdn.net
