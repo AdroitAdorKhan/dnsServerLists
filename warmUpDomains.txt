@@ -819,6 +819,7 @@ lt.pool.ntp.org
 lu.pool.ntp.org
 m.alibaba.com
 m.apkpure.com
+m.byxatab.com
 m.daily-bangladesh.com
 m.facebook.com
 m.gsmarena.com
