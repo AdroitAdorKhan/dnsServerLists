@@ -1,1 +1,0 @@
-||dl.nayemador.com^$dnsrewrite=NOERROR;A;10.152.0.2
