@@ -1,6 +1,4 @@
 ## cache
-dl.nayemador.com
-dl.amiamong.us
 mirror.ador.workers.dev
 mirror.sg.amiamong.us
 v.redd.it
