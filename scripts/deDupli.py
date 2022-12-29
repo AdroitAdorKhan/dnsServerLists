@@ -5,7 +5,7 @@ print("     __    ___            ___ ")
 print(" ___/ /__ / _ \__ _____  / (_)")
 print("/ _  / -_) // / // / _ \/ / / ")
 print("\_,_/\__/____/\_,_/ .__/_/_/  ")
-print("                 /_/   v.1.0  ")
+print("                 /_/   v.1.1  ")
 print("\n")
 
 # get the script name
@@ -43,7 +43,8 @@ def main(argv):
                 #- Strip white spaces
                 line = line.strip()
                 if line not in new_lines:
-                    new_lines.append(line)
+                    if not line.rstrip().startswith("#") and not line.rstrip().startswith('\n'):
+                        new_lines.append(line)
         
         if outputfile:
             outputNewfile = outputfile
