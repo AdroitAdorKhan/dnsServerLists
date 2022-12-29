@@ -22,6 +22,7 @@
 3022-shadow.igamecj.com
 4.bp.blogspot.com
 4006-shadow.igamecj.com
+4pda.to
 5004-shadow.igamecj.com
 5005-shadow.igamecj.com
 6.viki.io
@@ -103,6 +104,7 @@ api.bd.airtel.com
 api.blog.cloudflare.com
 api.cde.capp.bka.sh
 api.cloudflareclient.com
+api.coingecko.com
 api.cricbuzz.com
 api.deezer.com
 api.epicgames.dev
@@ -116,9 +118,11 @@ api.memberstack.io
 api.msn.com
 api.myanimelist.net
 api.paperquotes.com
+api.phantom.app
 api.picsart.com
 api.producthunt.com
 api.pushbullet.com
+api.servica.io
 api.setting.intl.miui.com
 api.telegram.org
 api.termius.com
@@ -222,6 +226,7 @@ bg.pool.ntp.org
 bgp.he.net
 bh.pool.ntp.org
 bikroy.com
+bin.bnbstatic.com
 bit.do
 bit.ly
 bitly.com
@@ -257,6 +262,7 @@ c.root-servers.net
 c.saavncdn.com
 c0.wp.com
 ca.pool.ntp.org
+cables.coingecko.com
 cache.dailyjanakantha.com
 caching.graphql.imdb.com
 calendar.zoho.com
@@ -343,6 +349,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudfront.net
 cloudinary.map.fastly.net
+cloudsearch.googleapis.com
 cloudsv.ieg.onezapp.com
 cmg.dn.apigee.net
 cmsimages.capp.bka.sh
@@ -364,6 +371,7 @@ commons.wikimedia.org
 community.cloudflare.com
 componentupdater.brave.com
 concen.org
+config.edge.skype.com
 connect.facebook.net
 connectivitycheck.gstatic.com
 consent.cmp.oath.com
@@ -404,6 +412,7 @@ dash.cloudflare.com
 data-asset-directory-public-service-prod.ol.epicgames.com
 data.riotgames.com
 datagy.io
+datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 de.pool.ntp.org
 dealer.spotify.com
@@ -453,11 +462,13 @@ dribbble.com
 drive-thirdparty.googleusercontent.com
 drive.google.com
 dropbox.com
+ds-assets.cdn.devapps.ru
 dsebd.org
 dualstack.com.imgix.map.fastly.net
 dualstack.m.sni.global.fastly.net
 dualstack.reddit.map.fastly.net
 dualstack.twimg.twitter.map.fastly.net
+dualstack.video.twitter.map.fastly.net
 duckduckgo.com
 dw.com
 dyna.wikimedia.org
@@ -964,6 +975,7 @@ new-line.net
 newassets.hcaptcha.com
 news.google.com
 news.yahoo.com
+nftstorage.link
 nl.pool.ntp.org
 no.pool.ntp.org
 nolt.io
@@ -1133,6 +1145,7 @@ psa.pm
 pss.bdstatic.com
 psyco.fr
 pt.pool.ntp.org
+public.bnbstatic.com
 public.publictracker.xyz
 pubsub-edge.twitch.tv
 puffer.4.1375135419.igame.gcloudcs.com
@@ -1179,6 +1192,7 @@ run-2.publictracker.xyz
 run.publictracker.xyz
 rutracker.org
 rutracker.ru
+s.4pda.to
 s.gravatar.com
 s.pinimg.com
 s.swiftypecdn.com
@@ -1332,6 +1346,7 @@ storage.googleapis.com
 storage.hell.sh
 storage.live.com
 store.storeimages.cdn-apple.com
+stream.binance.us
 streamtape.com
 stripecdn.map.fastly.net
 stun.l.google.com
