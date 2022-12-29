@@ -1,6 +1,4 @@
 ## cache
-mirror.ador.workers.dev
-mirror.sg.amiamong.us
 v.redd.it
 preview.redd.it
 *akamaiedge.net
