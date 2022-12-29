@@ -139,6 +139,7 @@ desktop.docker.com
 v.mydramalist.com
 *.gogocdn.stream
 *.filemoon.to
+rinzry.stream
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
