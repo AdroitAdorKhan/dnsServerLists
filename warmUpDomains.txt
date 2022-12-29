@@ -101,6 +101,7 @@ api-web-pkg.camscanner.com
 api.9gag.com
 api.accounts.firefox.com
 api.bd.airtel.com
+api.betterttv.net
 api.blog.cloudflare.com
 api.cde.capp.bka.sh
 api.cloudflareclient.com
@@ -109,6 +110,7 @@ api.cricbuzz.com
 api.deezer.com
 api.epicgames.dev
 api.fast.com
+api.frankerfacez.com
 api.github.com
 api.graphql.imdb.com
 api.jetboost.io
@@ -277,12 +279,14 @@ cdn-0001.qstv.on.epicgames.com
 cdn-client.medium.com
 cdn-global.configcat.com
 cdn.ampproject.org
+cdn.betterttv.net
 cdn.cloudflare.steamstatic.com
 cdn.cookielaw.org
 cdn.datatables.net
 cdn.discordapp.com
 cdn.flipboard.com
 cdn.fluidplayer.com
+cdn.frankerfacez.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.gsmarena.com
 cdn.gumlet.com
@@ -308,6 +312,7 @@ cdn.rawgit.com
 cdn.rgpub.io
 cdn.shopify.com
 cdn.sportfeeds.io
+cdn.streamelements.com
 cdn.syndication.twimg.com
 cdn.trustpilot.net
 cdn.vox-cdn.com
@@ -518,6 +523,7 @@ example.org
 exodus.desync.com
 explodie.org
 extension-files.twitch.tv
+extension.streamelements.com
 extensions-discovery-images.twitch.tv
 external-preview.redd.it
 external.fdac136-1.fna.fbcdn.net
@@ -1219,6 +1225,7 @@ saping.igamecj.com
 sarabangla.net
 sb-ssl.google.com
 scholar.google.com
+science-output.s3.amazonaws.com
 sciencemag.org
 scienceshopbd.com
 scontent-sin6-1.xx.fbcdn.net
@@ -1373,6 +1380,7 @@ tamas3.ynh.fr
 taobao.com
 tapochek.net
 tbsnews.net
+td.telegram.org
 teamviewer.com
 techcrunch.com
 techshopbd.com
@@ -1408,6 +1416,8 @@ tiny.cc
 tmge.alicdn.com
 token.services.mozilla.com
 tomshardware.com
+toolkit-v6.twitch-extension-backend.com
+toolkit.twitch-extension-backend.com
 torrends.to
 torrentclub.space
 torrents.artixlinux.org
