@@ -138,6 +138,7 @@ storage*.contents.fc*.com
 desktop.docker.com
 v.mydramalist.com
 *.gogocdn.stream
+*.filemoon.to
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
