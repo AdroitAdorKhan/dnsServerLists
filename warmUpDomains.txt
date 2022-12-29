@@ -54,6 +54,7 @@ acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
 addons-pa.clients6.google.com
+addons.mozilla.org
 admin.52ywp.com
 adn-asia.deezer.com
 adobe.com
@@ -297,6 +298,7 @@ cdn.jamuna.tv
 cdn.jetboost.io
 cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
+cdn.learnpython.com
 cdn.lr-in-prod.com
 cdn.mos.cms.futurecdn.net
 cdn.mozilla.net
@@ -394,6 +396,7 @@ cr.pool.ntp.org
 creativecommons.org
 cricket.entitysport.com
 cricket97.com
+crl.root-x1.letsencrypt.org.edgekey.net
 crontab.guru
 crowd.fastforward.team
 crunchyroll.com
@@ -594,6 +597,7 @@ fxtt.ru
 g.alicdn.com
 g.api.mega.co.nz
 g.root-servers.net
+g.sni.global.fastly.net
 g.whatsapp.net
 g2a.com
 gaming.amazon.com
@@ -704,6 +708,7 @@ i0.wp.com
 i1.feedspot.com
 i1.wp.com
 i1.ytimg.com
+i2.shared.global.fastly.net
 i2.wp.com
 i3.wp.com
 i9.ytimg.com
@@ -832,6 +837,7 @@ laz-img-cdn.alicdn.com
 laze.cc
 lb.pool.ntp.org
 lbs.imolive2.com
+learnpython.com
 lens-pa.googleapis.com
 lens.google.com
 lgl.public.igamecj.com
@@ -849,6 +855,8 @@ linkedin.com
 linux.die.net
 linuxhint.com
 linuxize.com
+linuxnewbieguide.org
+linuxstans.com
 live.com
 live.github.com
 livejournal.com
@@ -1051,6 +1059,7 @@ outlook.com
 outlook.live.com
 ow.ly
 p.twitchcdn.net
+p.typekit.net-stls-v3.edgesuite.net
 p4p.arenabg.com
 pa.pool.ntp.org
 pages.daraz.com.bd
@@ -1758,6 +1767,7 @@ www.quad9.net
 www.quora.com
 www.quora.com.cdn.cloudflare.net
 www.rd.com
+www.reallinuxuser.com
 www.recaptcha.net
 www.reddit.com
 www.redditstatic.com
