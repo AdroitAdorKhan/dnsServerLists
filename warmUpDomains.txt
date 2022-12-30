@@ -246,7 +246,6 @@ blush.design
 bongaon.st.fabnet.in.prod.hosts.ooklaserver.net
 bonikbarta.net
 booking.com
-bp.blogspot.com
 br.pool.ntp.org
 bsti1.time.gov.bd
 bstream.kzhi.tech
@@ -266,7 +265,6 @@ c.saavncdn.com
 c0.wp.com
 ca.pool.ntp.org
 cables.coingecko.com
-cache.dailyjanakantha.com
 caching.graphql.imdb.com
 calendar.zoho.com
 cambridge.org
@@ -301,7 +299,6 @@ cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.learnpython.com
 cdn.lr-in-prod.com
 cdn.mos.cms.futurecdn.net
-cdn.mozilla.net
 cdn.myanimelist.net
 cdn.news24bd.tv
 cdn.onenote.net
@@ -354,7 +351,6 @@ cloud.linode.com
 cloudctrl.gcloudsdk.com
 cloudflare-dns.com
 cloudflare.com
-cloudfront.net
 cloudinary.map.fastly.net
 cloudsearch.googleapis.com
 cloudsv.ieg.onezapp.com
@@ -448,7 +444,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns9.quad9.net
 dnsleaktest.com
-dnssec.vs.uni-due.de
 docs.docker.com
 docs.google.com
 docs.oracle.com
@@ -615,7 +610,6 @@ get.docker.com
 getbootstrap.com
 getpocket.com
 ggle.io
-gh.pool.ntp.org
 ghs.google.com
 ghs.googlehosted.com
 gi.pool.ntp.org
@@ -641,7 +635,6 @@ glz-ap-1.ap.a.pvp.net
 gnpfesdk-pa.googleapis.com
 go-updater.brave.com
 go.microsoft.com
-go.th
 godaddy.com
 gohugo.io
 goo.gl
@@ -652,7 +645,6 @@ google.com
 google.de
 googlehosted.l.googleusercontent.com
 googleonebackup-pa.googleapis.com
-googleusercontent.com
 goplay.anontpp.com
 goplay.ml
 gpu.me
@@ -757,7 +749,6 @@ img-9gag-fun.9cache.com.cdn.cloudflare.net
 img-comment-fun.9cache.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
-img.dtcn.com
 img.freepik.com
 img.icons8.com
 img.onesignal.com
@@ -875,7 +866,6 @@ lu.pool.ntp.org
 m.alibaba.com
 m.apkpure.com
 m.byxatab.com
-m.daily-bangladesh.com
 m.facebook.com
 m.gsmarena.com
 m.imdb.com
@@ -901,7 +891,6 @@ maps.gstatic.com
 massgrave.dev
 maxcdn.bootstrapcdn.com
 maxineapi.razersynapse.com
-mc.pool.ntp.org
 mcloud.to
 md.pool.ntp.org
 mdike.alicdn.com
@@ -1001,7 +990,6 @@ ny.iss.one
 nyaa.si
 nz.pool.ntp.org
 o.lencr.edgesuite.net
-o.twimg.com
 oapi-us.camscanner.com
 oapi.camscanner.com
 oauth.reddit.com
@@ -1038,7 +1026,6 @@ open.camscanner.com
 open.demonii.com
 open.dstud.io
 open.free-tracker.ga
-open.scdn.co
 open.spotify.com
 open.spotifycdn.com
 open.stealth.si
@@ -1050,7 +1037,6 @@ opensource.com
 opensourceoptions.com
 opentracker.i2p.rocks
 openwrt.org
-or.kr
 orange-dc.lazada.com
 oth.eve.mdt.qq.com
 oup.com
@@ -1075,7 +1061,6 @@ path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
 patreon.com
-pavscore.tigercricket.com.bd
 pavscores.com
 pay.igamecj.com
 paypal.com
@@ -1192,7 +1177,6 @@ rep-art.ynh.fr
 res.cloudinary.com
 resources.download.minecraft.net
 returnyoutubedislikeapi.com
-revechat-event.revechat.com
 rinzry.stream
 riot-apse1-1-prod.publishing.riotgames.com
 riot-client.dyn.riotcdn.net
@@ -1280,7 +1264,6 @@ si.pool.ntp.org
 signaler-pa.clients6.google.com
 signaler-pa.youtube.com
 signin.gp-id.com
-sigok.verteiltesysteme.net
 sitemaps.org
 sites.google.com
 sk.pool.ntp.org
@@ -1291,7 +1274,6 @@ slicie.icon256.com
 smartbd.com
 socks.imolive2.com
 sonar-ccu1-1.xx.fbcdn.net
-sonar6.xy.fbcdn.net
 soundcloud.com
 sourceforge.net
 south-america.pool.ntp.org
@@ -1364,6 +1346,7 @@ storage.live.com
 store.storeimages.cdn-apple.com
 stream.binance.us
 streamtape.com
+streamtape.to
 stripecdn.map.fastly.net
 stun.l.google.com
 style.sndcdn.com
@@ -1377,7 +1360,6 @@ superuser.com
 supervisor.ext-twitch.tv
 support.apple.com
 support.google.com
-sy.pool.ntp.org
 syndication.twitter.com
 t.acg.rip
 t.co
@@ -1411,6 +1393,7 @@ themeforest.net
 thepiratebay.org
 theverge.com
 thouvenin.cloud
+thumb.tapecontent.net
 thumbs.filemoon.sx
 tigercricket.com.bd
 time-ak.alicdn.com
@@ -1585,7 +1568,6 @@ widget.pushbullet.com
 wikipedia.org
 wildrift.secure.dyn.riotcdn.net
 wired.com
-wixsite.com
 wordpress.com
 wordpress.org
 worldbank.org
@@ -1849,7 +1831,6 @@ www.zdnet.com
 www.zedge.net
 www2.bing.com
 www3.l.google.com
-x.root-servers.net
 x1.c.lencr.org
 x2.c.lencr.org
 xatab-repack.com
@@ -1879,7 +1860,6 @@ zedgenet.cdn.prismic.io
 zerossl.ocsp.sectigo.com
 zm1.zoho.com
 zmupload.zoho.com
-zohocdn.com
 zohostatic.com
 zoom.us
 zoombangla.com
