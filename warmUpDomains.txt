@@ -330,6 +330,7 @@ ch.pool.ntp.org
 change.org
 channel.mynagad.com
 charts-images.scdn.co
+chat.cdn.whatsapp.net
 checkoutbg.pay.bka.sh
 chouchou.top
 cisco.com
@@ -1163,6 +1164,7 @@ quora.com
 rarbg.to
 ravebooksearch.com
 raw.githubusercontent.com
+rawgitcdn.b-cdn.net
 readthedocs.org
 realtime.services.disqus.com
 reddit.com
