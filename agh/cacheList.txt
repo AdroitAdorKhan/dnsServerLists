@@ -1,6 +1,4 @@
 ## cache
-v.redd.it
-preview.redd.it
 *akamaiedge.net
 *akamai.net
 *akamaihd.net

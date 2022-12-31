@@ -352,6 +352,7 @@ cloud.linode.com
 cloudctrl.gcloudsdk.com
 cloudflare-dns.com
 cloudflare.com
+cloudflare.tv
 cloudinary.map.fastly.net
 cloudsearch.googleapis.com
 cloudsv.ieg.onezapp.com
@@ -468,6 +469,7 @@ drive.google.com
 dropbox.com
 ds-assets.cdn.devapps.ru
 dsebd.org
+dualstack.brightcove.map.fastly.net
 dualstack.com.imgix.map.fastly.net
 dualstack.m.sni.global.fastly.net
 dualstack.reddit.map.fastly.net
@@ -1767,6 +1769,7 @@ www.sammobile.com
 www.samsung.com
 www.scdn.co
 www.scribd.com
+www.section.io
 www.shopz.com.bd
 www.shutterstock.com
 www.smartbd.com
