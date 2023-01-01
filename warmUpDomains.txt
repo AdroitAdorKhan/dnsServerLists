@@ -497,6 +497,7 @@ eg.pool.ntp.org
 ekg.riotgames.com
 electronicsbazar.com.bd
 embed.videodelivery.net
+emoji.twemoji.netdna-cdn.com
 en.wikipedia.org
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
