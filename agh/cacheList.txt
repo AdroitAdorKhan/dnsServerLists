@@ -139,6 +139,7 @@ v.mydramalist.com
 *.filemoon.to
 rinzry.stream
 video-downloads.googleusercontent.com
+cdn.gog-games.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
