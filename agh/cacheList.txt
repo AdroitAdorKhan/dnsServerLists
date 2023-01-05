@@ -140,6 +140,7 @@ v.mydramalist.com
 rinzry.stream
 video-downloads.googleusercontent.com
 cdn.gog-games.com
+zippyshare.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
