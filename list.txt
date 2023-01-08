@@ -222,6 +222,8 @@
 ||su^
 ||icu^
 ||click^
+||beauty^
+||degree^
 ||sex^
 ||win^
 ||xin^
@@ -231,11 +233,13 @@
 ||club^
 ||cyou^
 ||date^
+||fit^
 ||gay^
 ||porn^
 ||pub^
 ||red^
 ||sexy^
+||surf^
 ||xxx^
 
 # softwares - craps
