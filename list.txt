@@ -223,6 +223,7 @@
 ||icu^
 ||click^
 ||beauty^
+||bar^
 ||degree^
 ||sex^
 ||win^
@@ -230,6 +231,7 @@
 ||bid^
 ||review^
 ||cam^
+||cfd^
 ||club^
 ||cyou^
 ||date^
@@ -241,6 +243,9 @@
 ||sexy^
 ||surf^
 ||xxx^
+||gq^
+||ga^
+||rest^
 
 # softwares - craps
 ||t1.daumcdn.net^$important
