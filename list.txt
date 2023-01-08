@@ -231,6 +231,7 @@
 ||club^
 ||cyou^
 ||date^
+||gay^
 ||porn^
 ||pub^
 ||red^
