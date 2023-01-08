@@ -219,33 +219,36 @@
 ||privacycollector*.*^
 
 # bad gTLDs
-||su^
-||icu^
-||click^
-||beauty^
 ||bar^
-||degree^
-||sex^
-||win^
-||xin^
+||beauty^
 ||bid^
-||review^
 ||cam^
+||cc^
 ||cfd^
+||click^
 ||club^
 ||cyou^
 ||date^
+||degree^
 ||fit^
 ||gay^
+||ga^
+||gq^
+||icu^
+||loan^
+||mom^
 ||porn^
 ||pub^
 ||red^
-||sexy^
-||surf^
-||xxx^
-||gq^
-||ga^
 ||rest^
+||review^
+||sexy^
+||sex^
+||surf^
+||su^
+||win^
+||xin^
+||xxx^
 
 # softwares - craps
 ||t1.daumcdn.net^$important
