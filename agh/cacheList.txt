@@ -51,7 +51,6 @@ mediacloudfront.zee5.com
 *.pixelexperience.org
 cdn.filesus.com
 tv.update.sony.net
-*.twimg.com
 www.apkmirror.com
 downloadr*.apkmirror.com
 *.winudf.com
