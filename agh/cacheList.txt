@@ -79,7 +79,6 @@ gemmei.ftp.acc.umu.se
 ftp.acc.umu.se
 mirrors.dotsrc.org
 lineageos.mirror.karneval.cz
-*.jt.ohmycdn.net
 cdn*.waterfox.net
 downloads.vivaldi.com
 laptop-updates.brave.com
