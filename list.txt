@@ -120,6 +120,14 @@
 *.pangle.io
 *app-measurement.*
 *.wzrkt.*
+||hellay.net^
+||rqmob.com^
+||pangle.io^
+||bugly.qq.com^
+||infeng.site^
+||appsflyer.com^
+||pullcf.com^
+||wshareit.com^
 /report.wc.yahoodns.net/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
