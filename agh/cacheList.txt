@@ -46,7 +46,7 @@ downloadmirror.intel.com
 *.userstorage.mega.co.nz
 *.techpowerup.com
 gpu.me
-*.oca.nflxvideo.net
+#*.oca.nflxvideo.net
 mediacloudfront.zee5.com
 *.pixelexperience.org
 cdn.filesus.com
