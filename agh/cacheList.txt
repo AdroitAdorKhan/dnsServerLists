@@ -24,6 +24,7 @@ production.cloudflare.docker.com
 download.docker.com
 files.pythonhosted.org
 dl.google.com
+packages.ntop.org
 cdn.azul.com
 *-previews.elements.envatousercontent.com
 s2-download.xyz
@@ -139,6 +140,8 @@ rinzry.stream
 video-downloads.googleusercontent.com
 cdn.gog-games.com
 zippyshare.com
+nftstorage.link
+img-cdn.magiceden.dev
 #video-weaver.*.hls.ttvnw.net
 #video-edge-*.sin*.abs.hls.ttvnw.net
 # mirrors 
