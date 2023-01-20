@@ -73,6 +73,7 @@ alibaba.com
 alive.github.com
 aljazeera.com
 allanime.site
+alt3-mtalk.google.com
 amazon.com
 amazonaws.com
 amp-api-edge.apps.apple.com
@@ -1219,6 +1220,7 @@ proof.ovh.net
 protonmail.com
 proxsee.pscp.tv
 proxy-ssl-geo.webflow.com
+proxy.safebrowsing.apple
 proxyrarbg.org
 psa.pm
 pss.bdstatic.com
@@ -1493,6 +1495,7 @@ time.cloudflare.com
 time.com
 time.facebook.com
 time.google.com
+time.nist.gov
 time.windows.com
 tiny.cc
 tmge.alicdn.com
