@@ -71,6 +71,7 @@ aljazeera.com
 allanime.site
 amazon.com
 amazonaws.com
+amp-api-edge.apps.apple.com
 amzn.to
 android-appboot.netflix.com
 android.clients.google.com
@@ -205,6 +206,7 @@ aus1.waterfox.net
 aus5.mozilla.org
 auth.mangadex.org
 auth.riotgames.com
+authbe.sec.intl.miui.com
 authenticate.riotgames.com
 avatar-service-prod.identity.live.on.epicgames.com
 avatars-cdn.9gag.com
@@ -219,6 +221,7 @@ b1.nel.goog
 ba.pool.ntp.org
 backoffice.channel24bd.tv
 backup.googleapis.com
+bag.itunes.apple.com
 baidu.com
 bangla.bdnews24.com
 bangladesh.gov.bd
@@ -343,6 +346,7 @@ checkoutbg.pay.bka.sh
 chouchou.top
 cisco.com
 cl.pool.ntp.org
+client-api.itunes.apple.com
 client.pay.bka.sh
 clientconfig.rpg.riotgames.com
 clients.l.google.com
@@ -431,6 +435,8 @@ data.riotgames.com
 datagy.io
 datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
+dc.dqa.samsung.com
+ddf.di.atlas.samsung.com
 de.pool.ntp.org
 dealer.spotify.com
 debian.org
@@ -661,6 +667,7 @@ goodreads.com
 google.co.uk
 google.com
 google.de
+googlehosted.com
 googlehosted.l.googleusercontent.com
 googleonebackup-pa.googleapis.com
 goplay.anontpp.com
@@ -672,6 +679,7 @@ gr.pool.ntp.org
 gravatar.com
 greasyfork.org
 gsa.apple.com
+gsp-ssl.ls.apple.com
 gstatic.com
 gt.pool.ntp.org
 guardian.co.uk
@@ -895,6 +903,7 @@ m.stripe.network
 m.theindependentbd.com
 ma.pool.ntp.org
 macromedia.com
+mail-attachment.googleusercontent.com
 mail.artixlinux.org
 mail.google.com
 mail.zasaonsk.ga
@@ -1019,6 +1028,8 @@ o.lencr.edgesuite.net
 oapi-us.camscanner.com
 oapi.camscanner.com
 oauth.reddit.com
+oauth2.googleapis.com
+oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
 oca-api.netflix.com
 occ-p1-h2.a.nflxso.net
@@ -1033,6 +1044,7 @@ ocsp.globalsign.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.pki.goog
+ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.trust-provider.cn
 ocsp2.globalsign.com
@@ -1063,6 +1075,7 @@ opensource.com
 opensourceoptions.com
 opentracker.i2p.rocks
 openwrt.org
+optimizationguide-pa.googleapis.com
 orange-dc.lazada.com
 oth.eve.mdt.qq.com
 oup.com
@@ -1092,6 +1105,7 @@ pay.igamecj.com
 paypal.com
 pbs.twimg.com
 pd.ap.a.pvp.net
+pd.itunes.apple.com
 pe.pool.ntp.org
 people-pa.clients6.google.com
 peoplestack-pa.googleapis.com
@@ -1124,6 +1138,7 @@ plati.market
 play-fe.googleapis.com
 play-lh.googleusercontent.com
 play.google.com
+play.googleapis.com
 play.jumpcraft.org
 player.cnevids.com
 player.h-cdn.com
@@ -1387,6 +1402,7 @@ subscriptionsmanagement-pa.googleapis.com
 subscriptionsmobile-pa.googleapis.com
 suggestqueries-clients6.youtube.com
 suggestqueries.google.com
+suggestqueries.l.google.com
 superuser.com
 supervisor.ext-twitch.tv
 support.apple.com
