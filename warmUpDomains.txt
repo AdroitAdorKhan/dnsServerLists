@@ -46,10 +46,13 @@ abs.twimg.com
 account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
 account.xiaomi.com
+accounts-cctld.l.google.com
 accounts-cdn.9gag.com
 accounts.firefox.com
+accounts.google.com.bd
 accounts.scdn.co
 accounts.spotify.com
+accounts.youtube.com
 accounts.zoho.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
@@ -162,6 +165,7 @@ appboot.netflix.com
 apple.com
 appleid.cdn-apple.com
 apps.apple.com
+apps.mzstatic.com
 appsitemsuggest-pa.clients6.google.com
 apresolve.spotify.com
 apse.pp.riotgames.com
@@ -207,6 +211,7 @@ aus1.waterfox.net
 aus5.mozilla.org
 auth.mangadex.org
 auth.riotgames.com
+auth.services.adobe.com
 authbe.sec.intl.miui.com
 authenticate.riotgames.com
 avatar-service-prod.identity.live.on.epicgames.com
@@ -610,6 +615,7 @@ fp-vs.azureedge.net
 fr.pool.ntp.org
 freepik.com
 freyr.futurecdn.net
+friend.gc.apple.com
 friends-public-service-prod.ol.epicgames.com
 ftp.esquireelectronicsltd.com
 functions.soundalerts.com
@@ -684,6 +690,7 @@ gql.twitch.tv
 gr.pool.ntp.org
 gravatar.com
 greasyfork.org
+growth-pa.googleapis.com
 gsa.apple.com
 gsp-ssl.ls.apple.com
 gstatic.com
@@ -807,6 +814,7 @@ instantmessaging-pa-ap.googleapis.com
 interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
+ipcdn.apple.com
 ipinfo.io
 ipv4.tracker.harry.lu
 ipv4only.arpa
@@ -1115,6 +1123,7 @@ pd.ap.a.pvp.net
 pd.itunes.apple.com
 pe.pool.ntp.org
 people-pa.clients6.google.com
+people-pa.googleapis.com
 peoplestack-pa.googleapis.com
 petapixel.com
 pexels.com
@@ -1288,6 +1297,7 @@ scripts.pay.bka.sh
 se.pool.ntp.org
 sea.edge.rms.si.riotgames.com
 search-warnings-noneu.truecaller.com
+search.itunes.apple.com
 search5-noneu.truecaller.com
 sec-oc.netflix.com
 secure.gravatar.com
@@ -1424,6 +1434,7 @@ t2.gstatic.com
 tamas3.ynh.fr
 taobao.com
 tapochek.net
+taskassist-pa.googleapis.com
 tbsnews.net
 td.telegram.org
 teamviewer.com
