@@ -65,6 +65,7 @@ adobe.com
 ae.nflximg.net
 ae.pool.ntp.org
 africa.pool.ntp.org
+ai.picsart.com
 ajax.cloudflare.com
 ajax.googleapis.com
 ajkerdeal.com
@@ -102,6 +103,7 @@ api-cs.intsig.net
 api-global.dradis.netflix.com
 api-global.netflix.com
 api-icons.icons8.com
+api-mainnet.magiceden.io
 api-partner.spotify.com
 api-stream.twitter.com
 api-web-pkg.camscanner.com
@@ -117,6 +119,7 @@ api.coingecko.com
 api.cricbuzz.com
 api.deezer.com
 api.epicgames.dev
+api.exchange.art
 api.eyecon-app.com
 api.fast.com
 api.frankerfacez.com
@@ -141,6 +144,7 @@ api.telegram.org
 api.termius.com
 api.travis-ci.org
 api.twitch.tv
+api.twitter.com
 api.vanilla.futurecdn.net
 api.viki.io
 api.webroot.com
@@ -179,12 +183,14 @@ as-in.shadow.igamecj.com
 as-sg-m.shadow.igamecj.com
 as-sg.shadow.igamecj.com
 as.alipayobjects.com
+asia-sysupgrade-api.vivoglobal.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia.pool.ntp.org
 asksolves.com
 askubuntu.com
 assets.adobedtm.com
 assets.alicdn.com
+assets.capterra.com
 assets.contentstack.io
 assets.digitalocean.com
 assets.getpocket.com
@@ -205,6 +211,7 @@ async.zoom.us
 at.pool.ntp.org
 aternos.org
 au.pool.ntp.org
+audio-ak-quic.spotifycdn.com
 audio-fa.scdn.co
 auroraoss.com
 aus1.waterfox.net
@@ -263,6 +270,7 @@ bongaon.st.fabnet.in.prod.hosts.ooklaserver.net
 bonikbarta.net
 booking.com
 br.pool.ntp.org
+bromite.github.io
 bsti1.time.gov.bd
 bstream.kzhi.tech
 bt.ktrackers.com
@@ -304,6 +312,7 @@ cdn.flipboard.com
 cdn.fluidplayer.com
 cdn.frankerfacez.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
+cdn.growthbook.io
 cdn.gsmarena.com
 cdn.gumlet.com
 cdn.hell.sh
@@ -440,6 +449,7 @@ darkreader.github.io
 darkreader.org
 dash.cloudflare.com
 data-asset-directory-public-service-prod.ol.epicgames.com
+data.phantom.app
 data.riotgames.com
 datagy.io
 datarouter-weighted.ol.epicgames.com
@@ -448,6 +458,7 @@ dc.dqa.samsung.com
 ddf.di.atlas.samsung.com
 de.pool.ntp.org
 dealer.spotify.com
+debian.map.fastlydns.net
 debian.org
 desh.tv
 detectportal.firefox.com
@@ -482,6 +493,7 @@ dodi-repacks.site
 donsubbers.wordpress.com
 dotesports.com
 down.anticheatexpert.com
+download.docker.com
 download.intsig.net
 download.mikrotik.com
 download.nerocloud.me
@@ -529,6 +541,7 @@ emoji.twemoji.netdna-cdn.com
 en.wikipedia.org
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
+encrypted-tbn3.gstatic.com
 engadget.com
 engage.cloudflareclient.com
 entitlements.auth.riotgames.com
@@ -549,6 +562,7 @@ europe.pool.ntp.org
 evaly.com.bd
 eventapi.capp.bka.sh
 events.gfe.nvidia.com
+example.com
 example.org
 exodus.desync.com
 explodie.org
@@ -593,6 +607,7 @@ firestore.googleapis.com
 fitgirl-repacks.site
 fiverr-res.cloudinary.com
 fiverr.com
+flagr.magiceden.io
 flickr.com
 fonts.bikiran.com
 fonts.cdnfonts.com
@@ -730,6 +745,7 @@ i.ibb.co
 i.instagram.com
 i.mt.lv
 i.mydramalist.com
+i.pinimg.com
 i.redd.it
 i.root-servers.net
 i.scdn.co
@@ -763,6 +779,7 @@ image.shutterstock.com
 image.winudf.com
 imagecurl.com
 imageproxy.ifunny.co
+images-cdn.exchange.art
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-na.ssl-images-amazon.com
@@ -783,6 +800,7 @@ images.thedailystar.net
 images.thedailystar.net.whecloud.com
 images.uatcapp.bka.sh
 images.unsplash.com
+images.v-cdn.net
 imap-mail.outlook.com
 imdb.com
 img-9gag-fun.9cache.com
@@ -902,6 +920,7 @@ login.wikimedia.org
 logincdn.msftauth.net
 lol.secure.dyn.riotcdn.net
 lolstatic-a.akamaihd.net
+lowendtalk.com
 lpcdn.lpsnmedia.net
 lsposed.github.io
 lt.pool.ntp.org
@@ -918,6 +937,7 @@ m.stripe.network
 m.theindependentbd.com
 ma.pool.ntp.org
 macromedia.com
+magiceden.io
 mail-attachment.googleusercontent.com
 mail.artixlinux.org
 mail.google.com
@@ -943,6 +963,7 @@ media.amazon.map.fastly.net
 media.discordapp.net
 media.e-valy.com
 media.fdac31-1.fna.fbcdn.net
+media.fdac31-1.fna.whatsapp.net
 media.flaticon.com
 media.giphy.com
 media.nperf.com
@@ -1068,6 +1089,7 @@ odoh.cloudflare-dns.com
 officecdn.microsoft.com
 ogs.google.com
 om.pool.ntp.org
+ondevicesafety-pa.googleapis.com
 one.one.one.one
 onedrive.live.com
 onesignal.com
@@ -1228,6 +1250,7 @@ redhat.com
 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redirector.brave.com
 redirector.googlevideo.com
+redirector.gvt1.com
 reg.biv.sony.tv
 registeridm.com
 rentry.org
@@ -1359,6 +1382,7 @@ speedtest.tjbroadband.com.prod.hosts.ooklaserver.net
 speedtest.unicomms.xyz.prod.hosts.ooklaserver.net
 speedtest.valleyinternational.org.prod.hosts.ooklaserver.net
 spotify.com
+spotifycdn.com
 squarespace.com
 squareup.com
 squareup.map.fastly.net
@@ -1624,6 +1648,7 @@ web.facebook.com
 web.geo2.deezer.com
 web.pool.ntp.org
 web.whatsapp.com
+webcrx.io
 webfonts.zoho.com
 webpermissionpredictions.googleapis.com
 weebly.com
@@ -1631,6 +1656,8 @@ weebly.map.fastly.net
 wepzone.net
 whatsapp.com
 whatthebeach.aternos.me
+whois.apnic.net
+whois.arin.net
 whotracks.me
 widget.intercom.io
 widget.pushbullet.com
@@ -1677,6 +1704,7 @@ www.bleepstatic.com
 www.blogger.com
 www.bloomberg.com
 www.bostonglobe.com
+www.bromite.org
 www.btrc.gov.bd
 www.buymeacoffee.com
 www.canva.com
@@ -1719,6 +1747,7 @@ www.electronicsbazar.com.bd
 www.espncricinfo.com
 www.esquireelectronicsltd.com
 www.estorejamuna.com
+www.example.com
 www.express.co.uk
 www.extremetech.com
 www.file-upload.com
@@ -1731,7 +1760,9 @@ www.forbes.com
 www.freebsd.org
 www.freepik.com
 www.ft.com
+www.g2.com
 www.gentoo.org
+www.getapp.com
 www.github.com
 www.glasswire.com
 www.gnu.org
@@ -1831,6 +1862,7 @@ www.ryanscomputers.com
 www.samakal.com
 www.sammobile.com
 www.samsung.com
+www.samsungknox.com
 www.scdn.co
 www.scribd.com
 www.section.io
@@ -1864,6 +1896,7 @@ www.thetimes.co.uk
 www.theverge.com
 www.tigercricket.com.bd
 www.tiktok.com
+www.tizen.org
 www.tomsguide.com
 www.tomshardware.com
 www.torrentbd.com
