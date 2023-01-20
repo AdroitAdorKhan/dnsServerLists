@@ -103,6 +103,7 @@ api-partner.spotify.com
 api-stream.twitter.com
 api-web-pkg.camscanner.com
 api.9gag.com
+api.account.xiaomi.com
 api.accounts.firefox.com
 api.bd.airtel.com
 api.betterttv.net
@@ -415,6 +416,7 @@ crowd.fastforward.team
 crunchyroll.com
 cryptauthenrollment.googleapis.com
 csi.gstatic.com
+css.zohocdn.com
 css.zohostatic.com
 cssanimation.rocks
 custom.bnc.lt
@@ -451,6 +453,7 @@ dialercallinfolookup-pa.googleapis.com
 digg.com
 digitalassetlinks.googleapis.com
 disco.deliveryhero.io
+discord-attachments-uploads-prd.storage.googleapis.com
 discord.gg
 discover-pa.googleapis.com
 disqus.com
@@ -653,6 +656,7 @@ global-dealer-ssl.spotify.com
 global-uploads.webflow.com
 global.fd-api.com
 global.ketchcdn.com
+global.market.xiaomi.com
 global.poe.live-video.net
 global.prd.cdn.globalsign.com
 global.techradar.com
@@ -1603,6 +1607,7 @@ w3.org
 wassets.hscicdn.com
 watch.redd.it
 weather-data.apple.com
+weatherapi.intl.xiaomi.com
 web-chat-e2ee.facebook.com
 web.facebook.com
 web.geo2.deezer.com
@@ -1913,6 +1918,7 @@ zdnet.com
 zecircle.xyz
 zedgenet.cdn.prismic.io
 zerossl.ocsp.sectigo.com
+zm.zoho.com
 zm1.zoho.com
 zmupload.zoho.com
 zohostatic.com
