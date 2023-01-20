@@ -398,6 +398,7 @@ crl.root-x1.letsencrypt.org.edgekey.net
 crontab.guru
 crowd.fastforward.team
 crunchyroll.com
+cryptauthenrollment.googleapis.com
 css.zohostatic.com
 cssanimation.rocks
 custom.bnc.lt
