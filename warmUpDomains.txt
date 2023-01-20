@@ -45,6 +45,7 @@ abs-zero.twimg.com
 abs.twimg.com
 account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
+account.xiaomi.com
 accounts-cdn.9gag.com
 accounts.firefox.com
 accounts.scdn.co
@@ -90,6 +91,7 @@ ao.pool.ntp.org
 ap.vg.ac.pvp.net
 apa.org
 apache.org
+ape-androids.isappcloud.com
 api-cdn.myanimelist.net
 api-center.intsig.net
 api-cs.intsig.net
@@ -110,6 +112,7 @@ api.coingecko.com
 api.cricbuzz.com
 api.deezer.com
 api.epicgames.dev
+api.eyecon-app.com
 api.fast.com
 api.frankerfacez.com
 api.github.com
@@ -125,6 +128,8 @@ api.phantom.app
 api.picsart.com
 api.producthunt.com
 api.pushbullet.com
+api.rb.sbixby.com
+api.samsungcloud.com
 api.servica.io
 api.setting.intl.miui.com
 api.telegram.org
@@ -138,6 +143,7 @@ api.whatsapp.com
 api.zhub.ims.bka.sh
 api1.origin.com
 apimon.de
+apip.threema.ch
 apis.google.com
 apkmirror.com
 apkmirror.disqus.com
@@ -189,6 +195,7 @@ assets.ubuntu.com
 assets.website-files.com
 astha.bracbank.com
 astrr.ru
+async.zoom.us
 at.pool.ntp.org
 aternos.org
 au.pool.ntp.org
@@ -271,6 +278,7 @@ cambridge.org
 camera.lei001.com
 camo.githubusercontent.com
 canva.com
+capi.samsungcloud.com
 carr.codes
 cart.daraz.com.bd
 catalog.gamepass.com
@@ -385,6 +393,7 @@ consent.trustarc.com
 consortiumeducation.com
 contacts.google.com
 contacts.zoho.com
+contactservice.zoom.us
 content-autofill.googleapis.com
 content-signature-2.cdn.mozilla.net
 content.jwplatform.com
@@ -399,6 +408,7 @@ crontab.guru
 crowd.fastforward.team
 crunchyroll.com
 cryptauthenrollment.googleapis.com
+csi.gstatic.com
 css.zohostatic.com
 cssanimation.rocks
 custom.bnc.lt
@@ -428,6 +438,7 @@ desh.tv
 detectportal.firefox.com
 developers.facebook.com
 deviantart.com
+deviceintegritytokens-pa.googleapis.com
 dialercallinfolookup-pa.googleapis.com
 digg.com
 digitalassetlinks.googleapis.com
@@ -604,6 +615,7 @@ gaming.amazon.com
 gates.cloudflare.com
 gateway.discord.gg
 gateway.facebook.com
+gateway.fe.apple-dns.net
 gateway.icloud.com
 gateway.reddit.com
 gb.pool.ntp.org
@@ -659,6 +671,7 @@ gql.twitch.tv
 gr.pool.ntp.org
 gravatar.com
 greasyfork.org
+gsa.apple.com
 gstatic.com
 gt.pool.ntp.org
 guardian.co.uk
@@ -732,6 +745,7 @@ imageproxy.ifunny.co
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-na.ssl-images-amazon.com
+images.bitmoji.com
 images.blush.design
 images.capp.bka.sh
 images.contentstack.io
@@ -940,10 +954,13 @@ miscmedia-9gag-fun.9cache.com
 miscmedia-9gag-fun.9cache.com.cdn.cloudflare.net
 mk.pool.ntp.org
 mlsbd.shop
+mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 mo.pool.ntp.org
 mobile-content.uber.com
 mobile.twitter.com
+mobilemaps-pa-gz.googleapis.com
+mobilemaps.googleapis.com
 modules.lsposed.org
 moonburrow.club
 movies.zsw.ca
@@ -992,6 +1009,7 @@ no.pool.ntp.org
 nolt.io
 north-america.pool.ntp.org
 notif.9gag.com
+notifications-pa.googleapis.com
 nperf.com
 nrdp.prod.ftl.netflix.com
 ny.iss.one
@@ -1283,6 +1301,7 @@ slate.com
 slicie.icon256.com
 smartbd.com
 socks.imolive2.com
+software-download.microsoft.com
 sonar-ccu1-1.xx.fbcdn.net
 soundcloud.com
 sourceforge.net
@@ -1321,6 +1340,8 @@ st.link3.net.prod.hosts.ooklaserver.net
 stackoverflow.com
 stackpath.bootstrapcdn.com
 star-mini.c10r.facebook.com
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
 static-01.daraz.com.bd
 static-assets-prod.s3.amazonaws.com
 static-cdn.jtvnw.net
@@ -1407,6 +1428,7 @@ thumb.tapecontent.net
 thumbs.filemoon.sx
 tigercricket.com.bd
 time-ak.alicdn.com
+time-g.netgear.com
 time.android.com
 time.apple.com
 time.cloudflare.com
@@ -1511,6 +1533,7 @@ uploads.gamecoast.net
 upwork.com
 us.galleryapi.micloud.xiaomi.net
 us.pool.ntp.org
+us02web.zoom.us
 us3-wms.zoho.com
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
@@ -1846,6 +1869,7 @@ x1.c.lencr.org
 x2.c.lencr.org
 xatab-repack.com
 xatab-repack.net.ru
+xmppapi.zoom.us
 xsso.playvalorant.com
 yahoo.co.jp
 yahoo.com
