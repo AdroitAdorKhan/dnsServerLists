@@ -346,6 +346,7 @@ checkoutbg.pay.bka.sh
 chouchou.top
 cisco.com
 cl.pool.ntp.org
+cl3.apple.com
 client-api.itunes.apple.com
 client.pay.bka.sh
 clientconfig.rpg.riotgames.com
