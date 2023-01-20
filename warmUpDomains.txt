@@ -603,6 +603,7 @@ gaming.amazon.com
 gates.cloudflare.com
 gateway.discord.gg
 gateway.facebook.com
+gateway.icloud.com
 gateway.reddit.com
 gb.pool.ntp.org
 gdb.voanews.com
@@ -1232,6 +1233,7 @@ scontent-sin6-1.xx.fbcdn.net
 scontent-sin6-2.xx.fbcdn.net
 scontent-sin6-3.xx.fbcdn.net
 scontent-sin6-4.xx.fbcdn.net
+scontent.cdninstagram.com
 scontent.fdac136-1.fna.fbcdn.net
 scontent.fdac2-1.fna.fbcdn.net
 scontent.fdac3-1.fna.fbcdn.net
