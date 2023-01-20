@@ -375,6 +375,7 @@ clientservices.googleapis.com
 clientstream.launchdarkly.com
 clienttoken.spotify.com
 clips-media-assets2.twitch.tv
+clock.isc.org
 cloud.gsdk.proximabeta.com
 cloud.ibm.com
 cloud.linode.com
