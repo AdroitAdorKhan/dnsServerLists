@@ -798,6 +798,7 @@ instagram.com
 instagram.fdac136-1.fna.fbcdn.net
 instagram.fdac31-1.fna.fbcdn.net
 instagram.fdac80-1.fna.fbcdn.net
+instantmessaging-pa-ap.googleapis.com
 interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
