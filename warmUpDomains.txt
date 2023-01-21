@@ -45,6 +45,9 @@ abs-zero.twimg.com
 abs.twimg.com
 account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
+account.proton.me
+account.riotgames.com
+account.riotgames.com.cdn.cloudflare.net
 account.xiaomi.com
 accounts-cctld.l.google.com
 accounts-cdn.9gag.com
@@ -943,6 +946,7 @@ magiceden.io
 mail-attachment.googleusercontent.com
 mail.artixlinux.org
 mail.google.com
+mail.proton.me
 mail.zasaonsk.ga
 mail.zoho.com
 mailchi.mp
@@ -1004,6 +1008,7 @@ mlsbd.shop
 mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 mo.pool.ntp.org
+mobile-api.adguard.org
 mobile-content.uber.com
 mobile.twitter.com
 mobilemaps-pa-gz.googleapis.com
@@ -1218,6 +1223,7 @@ production-api.androidacy.com
 production.cloudflare.docker.com
 profile.accounts.firefox.com
 proof.ovh.net
+proton.me
 protonmail.com
 proxsee.pscp.tv
 proxy-ssl-geo.webflow.com
