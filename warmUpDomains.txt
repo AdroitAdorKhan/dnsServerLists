@@ -115,6 +115,7 @@ api-web-pkg.camscanner.com
 api.9gag.com
 api.account.xiaomi.com
 api.accounts.firefox.com
+api.accuweather.com
 api.bd.airtel.com
 api.betterttv.net
 api.blog.cloudflare.com
