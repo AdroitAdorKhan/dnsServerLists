@@ -57,6 +57,7 @@ account.xiaomi.com
 accounts-cctld.l.google.com
 accounts-cdn.9gag.com
 accounts.firefox.com
+accounts.google.com
 accounts.google.com.bd
 accounts.scdn.co
 accounts.spotify.com
@@ -133,6 +134,7 @@ api.deezer.com
 api.epicgames.dev
 api.exchange.art
 api.eyecon-app.com
+api.facebook.com
 api.fast.com
 api.frankerfacez.com
 api.github.com
@@ -558,6 +560,7 @@ ecotv-subs.livejournal.com
 ecs.office.com
 edge-chat.instagram.com
 edge-mcdn.secure.yahoo.com
+edge-mqtt.facebook.com
 edge-web.dual-gslb.spotify.com
 edge.api.brightcove.com
 edgecast-cf-prod.yahoo.net
@@ -803,6 +806,7 @@ icons8.com
 iconscout.com
 id.pool.ntp.org
 idcconfig.gcloud.qq.com
+identitytoolkit.googleapis.com
 ie.pool.ntp.org
 ietf.org
 iframe.videodelivery.net
@@ -1053,6 +1057,7 @@ mozilla.cloudflare-dns.com
 mozilla.org
 mproxy.zoho.com
 mqtt-mini.facebook.com
+mqtt.c10r.facebook.com
 msgacs-m.lazada.sg
 msgr-latest.c10r.facebook.com
 mtalk.google.com
@@ -1192,6 +1197,7 @@ petapixel.com
 pexels.com
 ph.pool.ntp.org
 phonebridge.zoho.com
+phonedeviceverification-pa.googleapis.com
 photobucket.com
 photos-ugc.l.googleusercontent.com
 photos.googleapis.com
@@ -1344,6 +1350,7 @@ sanincode.com
 saping.igamecj.com
 sarabangla.net
 sb-ssl.google.com
+sb.l.google.com
 scholar.google.com
 science-output.s3.amazonaws.com
 sciencemag.org
@@ -1463,6 +1470,7 @@ static.g2a.com
 static.ifunny.co
 static.line-scdn.net
 static.mediafire.com
+static.metafi.codefi.network
 static.rgpub.io
 static.t-ru.org
 static.tp-link.com
