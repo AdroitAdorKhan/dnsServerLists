@@ -723,6 +723,7 @@ gpu.me
 gql.reddit.com
 gql.twitch.tv
 gr.pool.ntp.org
+graph.facebook.com
 gravatar.com
 greasyfork.org
 growth-pa.googleapis.com
