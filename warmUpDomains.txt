@@ -886,6 +886,7 @@ instagram.fdac136-1.fna.fbcdn.net
 instagram.fdac31-1.fna.fbcdn.net
 instagram.fdac80-1.fna.fbcdn.net
 instantmessaging-pa-ap.googleapis.com
+instantmessaging-pa.googleapis.com
 interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
@@ -1038,6 +1039,7 @@ media.wired.com
 media0.giphy.com
 media1.giphy.com
 media2.giphy.com
+media3.giphy.com
 media4.giphy.com
 medium.com
 meetup.com
@@ -1251,6 +1253,7 @@ play-lh.googleusercontent.com
 play.google.com
 play.googleapis.com
 play.jumpcraft.org
+playatoms-pa.googleapis.com
 player.cnevids.com
 player.h-cdn.com
 player.spooler.fm
@@ -1733,6 +1736,7 @@ vn.pool.ntp.org
 voanews-vh.akamaihd.net
 vod-secure.twitch.tv
 voilatile-pa.googleapis.com
+voledevice-pa.googleapis.com
 vps02.net.orel.ru
 vstorrent.org
 w.bookcdn.com
