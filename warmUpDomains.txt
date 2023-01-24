@@ -153,6 +153,7 @@ api.picsart.com
 api.pinterest.com
 api.pinterest.com.gslb.pinterest.com
 api.producthunt.com
+api.protonmail.ch
 api.pushbullet.com
 api.rb.sbixby.com
 api.samsungcloud.com
@@ -488,6 +489,7 @@ darkreader.github.io
 darkreader.org
 dash.cloudflare.com
 data-asset-directory-public-service-prod.ol.epicgames.com
+data-jsdelivr-com-preview.onrender.com
 data.phantom.app
 data.riotgames.com
 datagy.io
@@ -1162,6 +1164,7 @@ ocsp.pki.goog
 ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.trust-provider.cn
+ocsp.usertrust.com
 ocsp2.globalsign.com
 ocsps.ssl.com
 odoh.cloudflare-dns.com
@@ -1292,6 +1295,7 @@ pro.fontawesome.com
 probe-ixunicast.prod.ftl.netflix.com
 probe-t.twitter.com
 probe.twitter.com
+prod-3-realtime-lb-840806869.us-east-1.elb.amazonaws.com
 prod.balrog.prod.cloudops.mozgcp.net
 prod.content-signature-chains.prod.webservices.mozgcp.net
 prod.detectportal.prod.cloudops.mozgcp.net
@@ -1577,6 +1581,7 @@ teletalk.com.bd
 template.canva.com
 tencentgames.helpshift.com
 tenor.googleapis.com
+test-ipv4.nperf.net
 th.pool.ntp.org
 thedailystar.net
 thefinancialexpress.com.bd
@@ -1784,6 +1789,8 @@ wordpress.com
 wordpress.org
 worldbank.org
 worldtimeapi.org
+ws-ipv4.nperf.com
+ws-ipv6.nperf.com
 ws.nperf.com
 www-env.dropbox-dns.com
 www-shutterstock-com-external.managed.kic-prod.shuttercloud.org
@@ -1916,6 +1923,7 @@ www.jagonews24.com
 www.jamuna.tv
 www.javatpoint.com
 www.jiosaavn.com
+www.jsdelivr.com
 www.jugantor.com
 www.kalerkantho.com
 www.kernel.org
