@@ -1,6 +1,9 @@
 0.africa.pool.ntp.org
 0.asia.pool.ntp.org
+0.datadog.pool.ntp.org
 0.pool.ntp.org
+0.soompi.io
+0.viki.io
 1.bp.blogspot.com
 1.pool.ntp.org
 1.us.pool.ntp.org
@@ -26,6 +29,7 @@
 5004-shadow.igamecj.com
 5005-shadow.igamecj.com
 6.viki.io
+6.vikiplatform.com
 9.rarbg.com
 9anime-to.disqus.com
 9anime.to
@@ -39,6 +43,7 @@ a.thumbs.redditmedia.com
 a2z.a2zapk.com
 a2zapk.com
 aa.google.com
+aac.saavncdn.com
 aarsen.me
 abs-0.twimg.com
 abs-zero.twimg.com
@@ -60,6 +65,7 @@ accounts.zoho.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
+acs.m.taobao.com
 addons-pa.clients6.google.com
 addons.mozilla.org
 admin.52ywp.com
@@ -130,6 +136,7 @@ api.eyecon-app.com
 api.fast.com
 api.frankerfacez.com
 api.github.com
+api.globalping.io
 api.graphql.imdb.com
 api.jetboost.io
 api.likee.video
@@ -151,6 +158,7 @@ api.termius.com
 api.travis-ci.org
 api.twitch.tv
 api.twitter.com
+api.upaysystem.com
 api.vanilla.futurecdn.net
 api.viki.io
 api.webroot.com
@@ -231,6 +239,7 @@ avatar-service-prod.identity.live.on.epicgames.com
 avatars-cdn.9gag.com
 avatars.githubusercontent.com
 avcliq.zoho.com
+avcs.upaysystem.com
 ax.pool.ntp.org
 b-graph.facebook.com
 b-www.facebook.com
@@ -295,6 +304,7 @@ c.disquscdn.com
 c.media-amazon.com
 c.root-servers.net
 c.saavncdn.com
+c.sop.saavncdn.com
 c0.wp.com
 ca.pool.ntp.org
 cables.coingecko.com
@@ -477,11 +487,13 @@ detectportal.firefox.com
 developers.facebook.com
 deviantart.com
 deviceintegritytokens-pa.googleapis.com
+dgw.c10r.facebook.com
 dialercallinfolookup-pa.googleapis.com
 digg.com
 digitalassetlinks.googleapis.com
 disco.deliveryhero.io
 discord-attachments-uploads-prd.storage.googleapis.com
+discord.com
 discord.gg
 discover-pa.googleapis.com
 disqus.com
@@ -723,6 +735,7 @@ gpu.me
 gql.reddit.com
 gql.twitch.tv
 gr.pool.ntp.org
+graph-fallback.facebook.com
 graph.facebook.com
 gravatar.com
 greasyfork.org
@@ -734,6 +747,7 @@ gt.pool.ntp.org
 guardian.co.uk
 gumroad.com
 gvoice-config.igamecj.com
+gw.alipayobjects.com
 h.root-servers.net
 h2-stratus.zohocdn.com
 h2.condenast.map.fastly.net
@@ -1037,6 +1051,7 @@ movies.zsw.ca
 mozilla.cloudflare-dns.com
 mozilla.org
 mproxy.zoho.com
+mqtt-mini.facebook.com
 msgacs-m.lazada.sg
 msgr-latest.c10r.facebook.com
 mtalk.google.com
@@ -1283,6 +1298,7 @@ registeridm.com
 rentry.org
 rep-art.ynh.fr
 res.cloudinary.com
+resolver.msg.global.xiaomi.net
 resources.download.minecraft.net
 returnyoutubedislikeapi.com
 rinzry.stream
@@ -1329,6 +1345,7 @@ scholar.google.com
 science-output.s3.amazonaws.com
 sciencemag.org
 scienceshopbd.com
+scone-pa.googleapis.com
 scontent-sin6-1.xx.fbcdn.net
 scontent-sin6-2.xx.fbcdn.net
 scontent-sin6-3.xx.fbcdn.net
@@ -1761,6 +1778,7 @@ www.dhakatribune.com
 www.digitalocean.com
 www.digitalspy.com
 www.digitaltrends.com
+www.discord.com
 www.dmca.com
 www.dnsleaktest.com
 www.dpp.gov.bd
@@ -1778,6 +1796,7 @@ www.estorejamuna.com
 www.example.com
 www.express.co.uk
 www.extremetech.com
+www.facebook.com
 www.file-upload.com
 www.filehorse.com
 www.fiverr.com
@@ -1792,6 +1811,7 @@ www.g2.com
 www.gentoo.org
 www.getapp.com
 www.github.com
+www.githubstatus.com
 www.glasswire.com
 www.gnu.org
 www.goal.com
