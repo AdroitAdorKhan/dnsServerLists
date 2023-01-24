@@ -245,11 +245,14 @@ bangla.bdnews24.com
 bangladesh.gov.bd
 banglatribune.com
 bbc.co.uk
+bd.event.freefiremobile.com
 bd.fd-api.com
+bd.network.freefiremobile.com
 bd.pool.ntp.org
 bdbioscope.com.prod.hosts.ooklaserver.net
 bdcrictime.com
 bdnews24.com
+bdversion.ggbluefox.com
 be.pool.ntp.org
 behance.net
 best.aliexpress.com
@@ -413,6 +416,7 @@ componentupdater.brave.com
 concen.org
 config.edge.skype.com
 connect.facebook.net
+connect.garenanow.com
 connectivitycheck.gstatic.com
 consent.cmp.oath.com
 consent.cookiebot.com
@@ -436,6 +440,7 @@ crowd.fastforward.team
 crunchyroll.com
 cryptauthenrollment.googleapis.com
 csi.gstatic.com
+csoversea.stronghold.freefiremobile.com
 css.zohocdn.com
 css.zohostatic.com
 cssanimation.rocks
@@ -481,8 +486,13 @@ discover-pa.googleapis.com
 disqus.com
 distributions.crowdin.net
 distrowatch.com
+divestos.org
 dk.pool.ntp.org
+dl-ctl.ggbluefox.com
+dl.castle.freefiremobile.com
+dl.castle.freefiremobile.com.akamaized.net
 dl.discordapp.net
+dl.ver.freefiremobile.com
 dns.cloudflare.com
 dns.google
 dns.google.com
@@ -595,9 +605,11 @@ fb.me
 fb.watch
 fdn.gsmarena.com
 fdn2.gsmarena.com
+fdroid.frostnerd.com
 fe.dealclub.de
 feedly.com
 feeds.feedburner.com
+ffmconnect.live.gop.garenanow.com
 fh2.cmp-gaming.com
 fi.pool.ntp.org
 filecdn.igamecj.com
@@ -749,6 +761,7 @@ i.animepahe.com
 i.animepahe.org
 i.animepahe.ru
 i.ibb.co
+i.imgur.com
 i.instagram.com
 i.mt.lv
 i.mydramalist.com
@@ -846,6 +859,7 @@ ipv4only.arpa
 ir.pool.ntp.org
 iradesign.io
 irc-ws.chat.twitch.tv
+irisk-sea.alipay.com
 irozuku.org
 is.pool.ntp.org
 it.pool.ntp.org
