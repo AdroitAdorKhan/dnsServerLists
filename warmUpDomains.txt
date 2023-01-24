@@ -1350,6 +1350,7 @@ roar.media
 ru.pool.ntp.org
 run-2.publictracker.xyz
 run.publictracker.xyz
+rupload-ccu1-1.up.facebook.com
 rutracker.org
 rutracker.ru
 s.4pda.to
@@ -1874,6 +1875,7 @@ www.grameenphone.com
 www.gravatar.com
 www.gsmarena.com
 www.gstatic.com
+www.guinnessworldrecords.com
 www.hollywoodreporter.com
 www.hotstar.com
 www.howtogeek.com
