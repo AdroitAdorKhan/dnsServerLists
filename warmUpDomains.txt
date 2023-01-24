@@ -150,6 +150,8 @@ api.myanimelist.net
 api.paperquotes.com
 api.phantom.app
 api.picsart.com
+api.pinterest.com
+api.pinterest.com.gslb.pinterest.com
 api.producthunt.com
 api.pushbullet.com
 api.rb.sbixby.com
@@ -334,6 +336,7 @@ cdn.cloudflare.steamstatic.com
 cdn.cookielaw.org
 cdn.datatables.net
 cdn.discordapp.com
+cdn.fbsbx.com
 cdn.flipboard.com
 cdn.fluidplayer.com
 cdn.frankerfacez.com
@@ -386,6 +389,8 @@ charts-images.scdn.co
 chat.cdn.whatsapp.net
 checkoutbg.pay.bka.sh
 chouchou.top
+ci3.googleusercontent.com
+ci6.googleusercontent.com
 cisco.com
 cl.pool.ntp.org
 cl3.apple.com
@@ -700,6 +705,7 @@ gateway.discord.gg
 gateway.facebook.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
+gateway.oneplus.net
 gateway.reddit.com
 gb.pool.ntp.org
 gdb.voanews.com
@@ -1070,6 +1076,7 @@ mmx-ds.cdn.whatsapp.net
 mo.pool.ntp.org
 mobile-api.adguard.org
 mobile-content.uber.com
+mobile-webview.gmail.com
 mobile.twitter.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps.googleapis.com
@@ -1352,6 +1359,8 @@ risingbd.com
 ritoplus.secure.dyn.riotcdn.net
 ro.pool.ntp.org
 roar.media
+router.oneplus.com
+router.oneplus.com.cdn.cloudflare.net
 ru.pool.ntp.org
 run-2.publictracker.xyz
 run.publictracker.xyz
@@ -1418,6 +1427,7 @@ secure.internetdownloadmanager.com
 secure.netflix.com
 securepay.sslcommerz.com
 seed-mix-image.spotifycdn.com
+semanticlocation-pa.googleapis.com
 serverfault.com
 service.biv.sony.tv
 services.addons.mozilla.org
@@ -1670,6 +1680,7 @@ ublockorigin.github.io
 ubuntu.com
 uiboot.netflix.com
 uk.pool.ntp.org
+ulp1p-pa.googleapis.com
 umlazada.alibaba.com
 unb.com.bd
 undraw.co
