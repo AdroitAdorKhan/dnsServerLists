@@ -89,6 +89,7 @@ amazonaws.com
 amp-api-edge.apps.apple.com
 amzn.to
 android-appboot.netflix.com
+android-context-data.googleapis.com
 android.apis.google.com
 android.clients.google.com
 android.com
@@ -142,7 +143,6 @@ api.github.com
 api.globalping.io
 api.graphql.imdb.com
 api.jetboost.io
-api.likee.video
 api.mangadex.org
 api.memberstack.io
 api.msn.com
@@ -577,7 +577,6 @@ edgecast-cf-prod.yahoo.net
 edgedl.me.gvt1.com
 ee.pool.ntp.org
 eg.pool.ntp.org
-ekg.riotgames.com
 electronicsbazar.com.bd
 embed.videodelivery.net
 emoji.twemoji.netdna-cdn.com
@@ -604,7 +603,6 @@ euping.igamecj.com
 europe.pool.ntp.org
 evaly.com.bd
 eventapi.capp.bka.sh
-events.gfe.nvidia.com
 example.com
 example.org
 exodus.desync.com
@@ -699,7 +697,6 @@ gateway.icloud.com
 gateway.reddit.com
 gb.pool.ntp.org
 gdb.voanews.com
-gdl.masala.sh
 geekflare.com
 geocities.com
 geocoder-asia.deliveryhero.io
@@ -944,7 +941,6 @@ launcher-public-service-prod-m.ol.epicgames.com
 launcher.spot.im
 laz-dorangesource.alicdn.com
 laz-img-cdn.alicdn.com
-laze.cc
 lb.pool.ntp.org
 lb.wordpress.com
 lbs.imolive2.com
@@ -1531,7 +1527,6 @@ superuser.com
 supervisor.ext-twitch.tv
 support.apple.com
 support.google.com
-syndication.twitter.com
 t.acg.rip
 t.co
 t.me
@@ -1990,7 +1985,6 @@ www.thestar.com
 www.thetimes.co.uk
 www.theverge.com
 www.tigercricket.com.bd
-www.tiktok.com
 www.tizen.org
 www.tomsguide.com
 www.tomshardware.com
