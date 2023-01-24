@@ -572,6 +572,7 @@ e1.o.lencr.org
 ec.pool.ntp.org
 ecotv-subs.livejournal.com
 ecs.office.com
+edge-chat.facebook.com
 edge-chat.instagram.com
 edge-mcdn.secure.yahoo.com
 edge-mqtt.facebook.com
@@ -694,6 +695,7 @@ g.whatsapp.net
 g2a.com
 gaming.amazon.com
 gates.cloudflare.com
+gateway-us-east1-b.discord.gg
 gateway.discord.gg
 gateway.facebook.com
 gateway.fe.apple-dns.net
@@ -1371,6 +1373,7 @@ sa-sap.shadow.igamecj.com
 sa-scl.shadow.igamecj.com
 sa.pool.ntp.org
 sa3.chat.si.riotgames.com
+safebrowsing.google.com
 safebrowsing.googleapis.com
 samakal.com
 samsung.com
@@ -1439,6 +1442,7 @@ slack.com
 slate.com
 slicie.icon256.com
 smartbd.com
+sn.webrootcloudav.com
 socks.imolive2.com
 software-download.microsoft.com
 sonar-ccu1-1.xx.fbcdn.net
