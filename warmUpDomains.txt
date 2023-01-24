@@ -621,6 +621,7 @@ fb.me
 fb.watch
 fdn.gsmarena.com
 fdn2.gsmarena.com
+fdroid.bromite.org
 fdroid.frostnerd.com
 fe.dealclub.de
 feedly.com
