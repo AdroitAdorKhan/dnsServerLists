@@ -1015,6 +1015,7 @@ maps.gstatic.com
 massgrave.dev
 maxcdn.bootstrapcdn.com
 maxineapi.razersynapse.com
+mbasic.facebook.com
 mcloud.to
 md.pool.ntp.org
 mdike.alicdn.com
@@ -1477,6 +1478,7 @@ stackoverflow.com
 stackpath.bootstrapcdn.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
+star.facebook.com
 star.fallback.c10r.facebook.com
 static-01.daraz.com.bd
 static-assets-prod.s3.amazonaws.com
@@ -1589,6 +1591,7 @@ torrends.to
 torrentclub.space
 torrents.artixlinux.org
 torrentz2eu.org
+touch.facebook.com
 towardsdatascience.com
 tpop-api.twitter.com
 tr.bangumi.moe
@@ -2041,6 +2044,7 @@ youtube-ui.l.google.com
 youtube.com
 youtubei.googleapis.com
 yt3.ggpht.com
+yt3.googleusercontent.com
 yt4.ggpht.com
 z-m-graph.facebook.com
 z-m-scontent.fdac31-1.fna.fbcdn.net
