@@ -918,6 +918,7 @@ krping.igamecj.com
 kw.pool.ntp.org
 l.facebook.com
 l.root-servers.net
+lamssettings-pa.googleapis.com
 latency.discord.media
 launcher-public-service-prod-m.ol.epicgames.com
 launcher.spot.im
@@ -1246,6 +1247,8 @@ privacy-api.9gag.com
 privacyportal-eu.onetrust.com
 pro.fontawesome.com
 probe-ixunicast.prod.ftl.netflix.com
+probe-t.twitter.com
+probe.twitter.com
 prod.balrog.prod.cloudops.mozgcp.net
 prod.content-signature-chains.prod.webservices.mozgcp.net
 prod.disqus.map.fastlylb.net
