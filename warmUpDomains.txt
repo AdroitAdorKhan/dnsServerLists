@@ -125,6 +125,7 @@ api.accounts.firefox.com
 api.accuweather.com
 api.bd.airtel.com
 api.betterttv.net
+api.bitwarden.com
 api.blog.cloudflare.com
 api.cde.capp.bka.sh
 api.cloudflareclient.com
@@ -271,6 +272,7 @@ best.aliexpress.com
 bg.pool.ntp.org
 bgp.he.net
 bh.pool.ntp.org
+bigganjatra.org
 bikroy.com
 bin.bnbstatic.com
 bit.do
@@ -285,12 +287,14 @@ blogger.com
 blogger.googleusercontent.com
 blogger.l.google.com
 blogspot.com
+blogspot.l.googleusercontent.com
 blush.design
 bongaon.st.fabnet.in.prod.hosts.ooklaserver.net
 bonikbarta.net
 booking.com
 br.pool.ntp.org
 bromite.github.io
+bsp.brta.gov.bd
 bsti1.time.gov.bd
 bstream.kzhi.tech
 bt.ktrackers.com
@@ -343,6 +347,7 @@ cdn.jamuna.tv
 cdn.jetboost.io
 cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
+cdn.ko-fi.com
 cdn.learnpython.com
 cdn.lr-in-prod.com
 cdn.mos.cms.futurecdn.net
@@ -383,6 +388,7 @@ chouchou.top
 cisco.com
 cl.pool.ntp.org
 cl3.apple.com
+clearurls.github.io
 client-api.itunes.apple.com
 client.pay.bka.sh
 clientconfig.rpg.riotgames.com
@@ -396,6 +402,7 @@ clientstream.launchdarkly.com
 clienttoken.spotify.com
 clips-media-assets2.twitch.tv
 clock.isc.org
+cloud.disroot.org
 cloud.gsdk.proximabeta.com
 cloud.ibm.com
 cloud.linode.com
@@ -457,6 +464,7 @@ csoversea.stronghold.freefiremobile.com
 css.zohocdn.com
 css.zohostatic.com
 cssanimation.rocks
+ctldl.windowsupdate.com
 custom.bnc.lt
 customerioforms.com
 cutscloud.duckdns.org
@@ -530,6 +538,7 @@ download.intsig.net
 download.mikrotik.com
 download.nerocloud.me
 download.oracle.com
+download.wireguard.com
 downloads.dell.com
 downloads.videezy.com
 drama-otaku.com
@@ -555,6 +564,7 @@ dyncdn2.com
 e-cdn-files.dzcdn.net
 e-cdns-assets.dzcdn.net
 e.root-servers.net
+e1.o.lencr.org
 ec.pool.ntp.org
 ecotv-subs.livejournal.com
 ecs.office.com
@@ -656,6 +666,7 @@ forms.gle
 forms.hsforms.com
 fortune.com
 forum.mobilism.org
+forums.lenovo.com
 fosstorrents.com
 fost.ws
 foxnews.com
@@ -736,6 +747,7 @@ googleonebackup-pa.googleapis.com
 goplay.anontpp.com
 goplay.ml
 gpu.me
+gql-realtime.reddit.com
 gql.reddit.com
 gql.twitch.tv
 gr.pool.ntp.org
@@ -875,6 +887,7 @@ internetsociety.org
 investopedia.com
 ipcdn.apple.com
 ipinfo.io
+ipv4.imgur.map.fastly.net
 ipv4.tracker.harry.lu
 ipv4only.arpa
 ir.pool.ntp.org
@@ -908,6 +921,8 @@ ka-f.fontawesome.com.cdn.cloudflare.net
 ka-p.fontawesome.com
 kbizoom.com
 ke.pool.ntp.org
+keep-alv.google.com
+keep.google.com
 kg.pool.ntp.org
 kh.pool.ntp.org
 kickstarter.com
@@ -931,6 +946,7 @@ laz-dorangesource.alicdn.com
 laz-img-cdn.alicdn.com
 laze.cc
 lb.pool.ntp.org
+lb.wordpress.com
 lbs.imolive2.com
 learnpython.com
 lens-pa.googleapis.com
@@ -1100,8 +1116,10 @@ nl.pool.ntp.org
 no.pool.ntp.org
 nolt.io
 north-america.pool.ntp.org
+notebook.zoho.com
 notif.9gag.com
 notifications-pa.googleapis.com
+notifications.bitwarden.com
 nperf.com
 nrdp.prod.ftl.netflix.com
 ny.iss.one
@@ -1183,6 +1201,7 @@ passwordsleakcheck-pa.googleapis.com
 path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
+pathwaybd.org
 patreon.com
 pavscores.com
 pay.igamecj.com
@@ -1201,6 +1220,7 @@ phonebridge.zoho.com
 phonedeviceverification-pa.googleapis.com
 photobucket.com
 photos-ugc.l.googleusercontent.com
+photos.google.com
 photos.googleapis.com
 photosdata-pa.googleapis.com
 phreshphish.classifier.brightcloud.com
@@ -1221,6 +1241,7 @@ platform.linkedin.com
 platform.twitter.com
 platform.twitter.map.fastly.net
 plati.market
+plausible.io
 play-fe.googleapis.com
 play-lh.googleusercontent.com
 play.google.com
@@ -1258,6 +1279,7 @@ probe-t.twitter.com
 probe.twitter.com
 prod.balrog.prod.cloudops.mozgcp.net
 prod.content-signature-chains.prod.webservices.mozgcp.net
+prod.detectportal.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.partner.dradis.netflix.com
 prod.tokenserver.prod.cloudops.mozgcp.net
@@ -1265,6 +1287,7 @@ producthunt.com
 production-api.androidacy.com
 production.cloudflare.docker.com
 profile.accounts.firefox.com
+profile.w3schools.com
 proof.ovh.net
 proton.me
 protonmail.com
@@ -1290,11 +1313,13 @@ qsf.fs.quoracdn.net
 qsf.fs.quoracdn.net.cdn.cloudflare.net
 qtstm32fan.ru
 quora.com
+r3.o.lencr.org
 rarbg.to
 ravebooksearch.com
 raw.githubusercontent.com
 rawgitcdn.b-cdn.net
 readthedocs.org
+realpython.com
 realtime.services.disqus.com
 reddit.com
 reddit.map.fastly.net
@@ -1515,6 +1540,7 @@ tamas3.ynh.fr
 taobao.com
 tapochek.net
 taskassist-pa.googleapis.com
+tasksboard.com
 tbsnews.net
 td.telegram.org
 teamviewer.com
@@ -1535,12 +1561,14 @@ thehackernews.com
 thehiddenbay.com
 themaninashed.com
 themeforest.net
+themes.gohugo.io
 thepiratebay.org
 theverge.com
 thouvenin.cloud
 thumb.tapecontent.net
 thumbs.filemoon.sx
 tigercricket.com.bd
+tile.openstreetmap.org
 time-ak.alicdn.com
 time-g.netgear.com
 time.android.com
@@ -1696,6 +1724,7 @@ vstorrent.org
 w.bookcdn.com
 w14.monkrus.ws
 w3.org
+w3schools.com
 wassets.hscicdn.com
 watch.redd.it
 weather-data.apple.com
@@ -1762,6 +1791,7 @@ www.blogger.com
 www.bloomberg.com
 www.bostonglobe.com
 www.bromite.org
+www.brta.gov.bd
 www.btrc.gov.bd
 www.buymeacoffee.com
 www.canva.com
@@ -1966,6 +1996,7 @@ www.torrentdownloads.pro
 www.torrentmac.net
 www.tp-link.com
 www.tpbproxypirate.com
+www.truecaller.com
 www.trustpilot.com
 www.tumblr.com
 www.tutorialspoint.com
