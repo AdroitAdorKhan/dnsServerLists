@@ -156,6 +156,7 @@ api.rb.sbixby.com
 api.samsungcloud.com
 api.servica.io
 api.setting.intl.miui.com
+api.spotify.com
 api.telegram.org
 api.termius.com
 api.travis-ci.org
@@ -459,6 +460,7 @@ crontab.guru
 crowd.fastforward.team
 crunchyroll.com
 cryptauthenrollment.googleapis.com
+cs9.wac.phicdn.net
 csi.gstatic.com
 csoversea.stronghold.freefiremobile.com
 css.zohocdn.com
@@ -1527,6 +1529,7 @@ superuser.com
 supervisor.ext-twitch.tv
 support.apple.com
 support.google.com
+sync-1-us-west1-g.sync.services.mozilla.com
 t.acg.rip
 t.co
 t.me
@@ -2062,3 +2065,6 @@ zoombangla.com
 zooqle.com
 zoro.to
 zs-lc1-19-h2.zoho.com
+yts.mx
+diagnostics.redditmedia.com
+v.redd.it
