@@ -500,6 +500,7 @@ developers.facebook.com
 deviantart.com
 deviceintegritytokens-pa.googleapis.com
 dgw.c10r.facebook.com
+diagnostics.redditmedia.com
 dialercallinfolookup-pa.googleapis.com
 digg.com
 digitalassetlinks.googleapis.com
@@ -1689,6 +1690,7 @@ usher.ttvnw.net
 uy.pool.ntp.org
 uz.pool.ntp.org
 v.pinimg.com
+v.redd.it
 v0.wordpress.com
 v2.api.esquireelectronicsltd.com
 v2.iperson.xyz
@@ -2043,6 +2045,7 @@ youtubei.googleapis.com
 yt3.ggpht.com
 yt3.googleusercontent.com
 yt4.ggpht.com
+yts.mx
 z-m-graph.facebook.com
 z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
@@ -2065,6 +2068,3 @@ zoombangla.com
 zooqle.com
 zoro.to
 zs-lc1-19-h2.zoho.com
-yts.mx
-diagnostics.redditmedia.com
-v.redd.it
