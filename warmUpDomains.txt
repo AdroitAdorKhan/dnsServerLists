@@ -1442,6 +1442,7 @@ slack.com
 slate.com
 slicie.icon256.com
 smartbd.com
+smartscreen-prod.microsoft.com
 sn.webrootcloudav.com
 socks.imolive2.com
 software-download.microsoft.com
