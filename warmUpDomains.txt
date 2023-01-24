@@ -82,6 +82,7 @@ amazonaws.com
 amp-api-edge.apps.apple.com
 amzn.to
 android-appboot.netflix.com
+android.apis.google.com
 android.clients.google.com
 android.com
 android.googleapis.com
@@ -484,6 +485,7 @@ dk.pool.ntp.org
 dl.discordapp.net
 dns.cloudflare.com
 dns.google
+dns.google.com
 dns.nayemador.com
 dns.quad9.net
 dns10.quad9.net
@@ -1778,7 +1780,9 @@ www.glasswire.com
 www.gnu.org
 www.goal.com
 www.godaddy.com
+www.google.com
 www.google.com.bd
+www.google.ru
 www.googleapis.com
 www.grameenphone.com
 www.gravatar.com
