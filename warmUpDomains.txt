@@ -543,6 +543,7 @@ download.nerocloud.me
 download.oracle.com
 download.wireguard.com
 downloads.dell.com
+downloads.nordcdn.com
 downloads.videezy.com
 drama-otaku.com
 dramaday.net
@@ -733,6 +734,7 @@ glz-ap-1.ap.a.pvp.net
 gnpfesdk-pa.googleapis.com
 go-updater.brave.com
 go.microsoft.com
+goblinfamily.com
 godaddy.com
 gohugo.io
 goo.gl
@@ -1381,6 +1383,7 @@ scholar.google.com
 science-output.s3.amazonaws.com
 sciencemag.org
 scienceshopbd.com
+scone-pa.clients6.google.com
 scone-pa.googleapis.com
 scontent-sin6-1.xx.fbcdn.net
 scontent-sin6-2.xx.fbcdn.net
@@ -1650,6 +1653,7 @@ twemoji.maxcdn.com
 twitch.amazon.com
 twitch.map.fastly.net
 twitch.tv
+twitter-backend.grab-colab.com
 twitter.com
 tz.pool.ntp.org
 ua.pool.ntp.org
@@ -1668,6 +1672,7 @@ unsplash.com
 update.code.visualstudio.com
 update.googleapis.com
 update.kiwibrowser.com
+updates.discord.com
 updates.push.services.mozilla.com
 updates.webroot.com
 upgrade.mikrotik.com
