@@ -396,6 +396,7 @@ cisco.com
 cl.pool.ntp.org
 cl3.apple.com
 clearurls.github.io
+cli.speedtest.net
 client-api.itunes.apple.com
 client.pay.bka.sh
 clientconfig.rpg.riotgames.com
@@ -1099,6 +1100,7 @@ mv.pool.ntp.org
 mx.pool.ntp.org
 my.daraz.com.bd
 my.pool.ntp.org
+my.telegram.org
 my.vultr.com
 myaccount.google.com
 myanimelist.net
@@ -1351,6 +1353,7 @@ reg.biv.sony.tv
 registeridm.com
 rentry.org
 rep-art.ynh.fr
+repository-images.githubusercontent.com
 res.cloudinary.com
 resolver.msg.global.xiaomi.net
 resources.download.minecraft.net
@@ -1478,6 +1481,7 @@ speedtest.abnetwork.com.bd.prod.hosts.ooklaserver.net
 speedtest.bangladeshinfo.com.prod.hosts.ooklaserver.net
 speedtest.bbts-online.net.prod.hosts.ooklaserver.net
 speedtest.bnet-bd.com.prod.hosts.ooklaserver.net
+speedtest.com.sg
 speedtest.nextonline.com.bd.prod.hosts.ooklaserver.net
 speedtest.pipexbd.com.prod.hosts.ooklaserver.net
 speedtest.race.net.bd.prod.hosts.ooklaserver.net
