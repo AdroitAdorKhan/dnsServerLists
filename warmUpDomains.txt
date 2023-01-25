@@ -350,6 +350,7 @@ blogspot.com
 blogspot.l.googleusercontent.com
 bloomberg.com
 blush.design
+bn.mtnews24.com
 bongaon.st.fabnet.in.prod.hosts.ooklaserver.net
 bonikbarta.net
 booking.com
@@ -617,6 +618,7 @@ depositfiles.com
 desh.tv
 detectportal.firefox.com
 developers.facebook.com
+developers.google.cn
 deviantart.com
 device-provisioning.googleapis.com
 deviceintegritytokens-pa.googleapis.com
@@ -1216,6 +1218,7 @@ lk.pool.ntp.org
 lm.facebook.com
 location.services.mozilla.com
 login.live.com
+login.microsoftonline.com
 login.wikimedia.org
 logincdn.msftauth.net
 lol.secure.dyn.riotcdn.net
@@ -1347,6 +1350,8 @@ mozilla.com
 mozilla.org
 mproxy.zoho.com
 mqtt-mini.facebook.com
+mqtt-p4.c10r.facebook.com
+mqtt-p4.facebook.com
 mqtt.c10r.facebook.com
 msgacs-m.lazada.sg
 msgr-latest.c10r.facebook.com
@@ -2668,6 +2673,7 @@ z-m-scontent.fdac11-1.fna.fbcdn.net
 z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com
+z-m.facebook.com
 z-p3-graph.facebook.com
 z-p3.c10r.facebook.com
 z-p4-gateway.facebook.com
