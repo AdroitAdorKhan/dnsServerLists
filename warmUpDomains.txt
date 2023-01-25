@@ -1459,6 +1459,7 @@ ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.trust-provider.cn
 ocsp.usertrust.com
+ocsp.verisign.com
 ocsp2.globalsign.com
 ocsps.ssl.com
 odoh.cloudflare-dns.com
@@ -1513,6 +1514,7 @@ p.twitchcdn.net
 p.typekit.net-stls-v3.edgesuite.net
 p4p.arenabg.com
 pa.pool.ntp.org
+packaged-media.redd.it
 pages.daraz.com.bd
 pahe.li
 paloaltonetworks.com
@@ -1681,6 +1683,7 @@ res.cloudinary.com
 researchgate.net
 resolver-global-pri-alisgp.alb.xiaomi.com
 resolver.msg.global.xiaomi.net
+resources.blogblog.com
 resources.download.minecraft.net
 returnyoutubedislikeapi.com
 reuters.com
@@ -1824,6 +1827,7 @@ socks.imolive2.com
 software-download.microsoft.com
 sogou.com
 sohu.com
+solana-mainnet.phantom.app
 sonar-ccu1-1.xx.fbcdn.net
 sonar-ccu1-2.xx.fbcdn.net
 sonar-sin6-4.xx.fbcdn.net
@@ -1885,6 +1889,7 @@ static-assets-prod.s3.amazonaws.com
 static-cdn.jtvnw.net
 static-cdn.spot.im
 static-gcp.freepikcompany.com
+static.adtidy.org
 static.bbci.co.uk
 static.bunnycdn.ru
 static.cdninstagram.com
@@ -2019,6 +2024,7 @@ tmall.com
 tmge.alicdn.com
 token.services.mozilla.com
 tomshardware.com
+ton.twimg.com
 toolkit-v6.twitch-extension-backend.com
 toolkit.twitch-extension-backend.com
 tor.eff.org
@@ -2497,6 +2503,7 @@ www.privacytools.io
 www.privateinternetaccess.com
 www.priyoshop.com
 www.producthunt.com
+www.programmerhumor.org
 www.protest.net
 www.prothomalo.com
 www.proton.me
