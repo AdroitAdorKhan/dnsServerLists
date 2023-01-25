@@ -177,6 +177,7 @@ api.mapbox.com
 api.memberstack.io
 api.msn.com
 api.myanimelist.net
+api.onedrive.com
 api.paperquotes.com
 api.phantom.app
 api.picsart.com
@@ -828,6 +829,7 @@ forms.gle
 forms.hsforms.com
 fortune.com
 forum.mobilism.org
+forum.openwrt.org
 forums.lenovo.com
 fosstorrents.com
 fost.ws
@@ -1752,6 +1754,7 @@ search.aol.com
 search.brave.com
 search.itunes.apple.com
 search5-noneu.truecaller.com
+searchlite-pa.googleapis.com
 sec-oc.netflix.com
 secure.gravatar.com
 secure.internetdownloadmanager.com
