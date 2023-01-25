@@ -140,6 +140,7 @@ api-global.dradis.netflix.com
 api-global.netflix.com
 api-icons.icons8.com
 api-mainnet.magiceden.io
+api-mifit-us2.zepp.com
 api-partner.spotify.com
 api-stream.twitter.com
 api-web-pkg.camscanner.com
@@ -751,6 +752,7 @@ external-preview.redd.it
 external.fdac136-1.fna.fbcdn.net
 external.fdac31-1.fna.fbcdn.net
 external.xx.fbcdn.net
+extranet.ap-southeast-1.miui-l7-wtr.7bkowuwetr.elb.xiaomi.com
 ezimg.ch
 eztv.ag
 eztv.re
@@ -1642,6 +1644,7 @@ rep-art.ynh.fr
 repository-images.githubusercontent.com
 res.cloudinary.com
 researchgate.net
+resolver-global-pri-alisgp.alb.xiaomi.com
 resolver.msg.global.xiaomi.net
 resources.download.minecraft.net
 returnyoutubedislikeapi.com
@@ -1719,6 +1722,7 @@ scontent.fdac3-1.fna.fbcdn.net
 scontent.fdac31-1.fna.fbcdn.net
 scontent.fdac80-1.fna.fbcdn.net
 scontent.fdac99-1.fna.fbcdn.net
+scontent.fjsr1-1.fna.fbcdn.net
 scontent.whatsapp.net
 scontent.xx.fbcdn.net
 scooter-repacks.site
@@ -1749,6 +1753,7 @@ sg.pool.ntp.org
 sg.static.mega.co.nz
 sg.tdatamaster.com
 sg.voice.gcloudcs.com
+sgp2.xmssdn.micloud.xiaomi.net
 shadowsocks.org
 shared.ap.a.pvp.net
 shavar.prod.mozaws.net
@@ -1779,6 +1784,9 @@ software-download.microsoft.com
 sogou.com
 sohu.com
 sonar-ccu1-1.xx.fbcdn.net
+sonar-ccu1-2.xx.fbcdn.net
+sonar-sin6-4.xx.fbcdn.net
+sonar6.xy.fbcdn.net
 soundcloud.com
 sourceforge.net
 south-america.pool.ntp.org
@@ -1916,6 +1924,7 @@ telegra.ph
 telegram.me
 telegram.org
 telegraph.co.uk
+telephonyspamprotect-pa.googleapis.com
 teletalk.com.bd
 template.canva.com
 tencentgames.helpshift.com
@@ -1935,6 +1944,7 @@ themeforest.net
 themes.gohugo.io
 thepiratebay.org
 theverge.com
+thm.market.intl.xiaomi.com
 thouvenin.cloud
 threema.ch
 thumb.tapecontent.net
@@ -2618,6 +2628,7 @@ yts.lt
 yts.mx
 z-lib.org
 z-m-graph.facebook.com
+z-m-portal.fb.com
 z-m-scontent.fdac11-1.fna.fbcdn.net
 z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
