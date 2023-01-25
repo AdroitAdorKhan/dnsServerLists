@@ -369,6 +369,7 @@ bt2.archive.org
 btggaming.com
 btguard.com
 business.google.com
+businesscalls.googleapis.com
 businessinsider.com
 businesswire.com
 butchixanh.com
@@ -791,6 +792,7 @@ fb.com
 fb.me
 fb.watch
 fbcdn.net
+fblite-p1.c10r.facebook.com
 fdn.gsmarena.com
 fdn2.gsmarena.com
 fdroid.bromite.org
@@ -943,6 +945,7 @@ googlevideo.com
 googleweblight.com
 goplay.anontpp.com
 goplay.ml
+gos-api.gos-gsp.io
 gpu.me
 gql-realtime.reddit.com
 gql.reddit.com
@@ -1804,6 +1807,7 @@ sina.com.cn
 sitemaps.org
 sites.google.com
 sk.pool.ntp.org
+skyapi.live.net
 skype.com
 slack-imgs.com
 slack.com
