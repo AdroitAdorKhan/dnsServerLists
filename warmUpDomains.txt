@@ -380,7 +380,11 @@ ca.pool.ntp.org
 ca.wikipedia.org
 cables.coingecko.com
 caching.graphql.imdb.com
+calendar-pa.googleapis.com
 calendar.zoho.com
+calendarpushsubscription-pa.googleapis.com
+calendarsuggest.googleapis.com
+calendarsync-pa.googleapis.com
 cambridge.org
 camera.lei001.com
 camo.githubusercontent.com
@@ -461,9 +465,11 @@ channel.mynagad.com
 charts-images.scdn.co
 chase.com
 chat.cdn.whatsapp.net
+chat.google.com
 checkoutbg.pay.bka.sh
 chess.com
 chouchou.top
+chromesyncpasswords-pa.googleapis.com
 ci3.googleusercontent.com
 ci6.googleusercontent.com
 cisco.com
@@ -553,6 +559,7 @@ crl.root-x1.letsencrypt.org.edgekey.net
 crontab.guru
 crowd.fastforward.team
 crunchyroll.com
+cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
 cryptauthvault.googleapis.com
 cs9.wac.phicdn.net
@@ -809,6 +816,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 fonts.maateen.me
 fonts.mailerlite.com
+footprints-pa.googleapis.com
 forbes.com
 force.com
 forms.gle
@@ -1387,6 +1395,7 @@ noblogs.org
 nolt.io
 north-america.pool.ntp.org
 notebook.zoho.com
+notes-pa.googleapis.com
 notif.9gag.com
 notifications-pa.googleapis.com
 notifications.bitwarden.com
@@ -1704,6 +1713,7 @@ sb.l.google.com
 scholar.google.com
 sci-hub.se
 sci.hubg.org
+science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 science-output.s3.amazonaws.com
 sciencemag.org
 scienceshopbd.com
@@ -1740,6 +1750,7 @@ secure.gravatar.com
 secure.internetdownloadmanager.com
 secure.netflix.com
 securepay.sslcommerz.com
+securitydomain-pa.googleapis.com
 seed-mix-image.spotifycdn.com
 semanticlocation-pa.googleapis.com
 serverfault.com
@@ -1764,6 +1775,7 @@ short.io
 si.pool.ntp.org
 signal.org
 signaler-pa.clients6.google.com
+signaler-pa.googleapis.com
 signaler-pa.youtube.com
 signin.gp-id.com
 sina.com.cn
@@ -1793,6 +1805,7 @@ south-america.pool.ntp.org
 sp-bootstrap.spotifycdn.com
 sp.ondemandkorea.com
 sp2.ping.com.bd.prod.hosts.ooklaserver.net
+spade.sci.twitch.tv
 sparrow.cloudflare.com
 spclient.wg.spotify.com
 spee.ch
@@ -1911,6 +1924,7 @@ tanzil.net
 taobao.com
 tapochek.net
 taskassist-pa.googleapis.com
+tasks-pa.googleapis.com
 tasksboard.com
 tbsnews.net
 td.telegram.org
@@ -2101,6 +2115,7 @@ vanilla.futurecdn.net
 variety.com
 vernemqingress.hs-cricinfo.com
 versioncheck-bg.addons.mozilla.org
+video-edge-0b853b.pdx01.abs.hls.ttvnw.net
 video-sin6-1.xx.fbcdn.net
 video-sin6-2.xx.fbcdn.net
 video-sin6-4.xx.fbcdn.net
