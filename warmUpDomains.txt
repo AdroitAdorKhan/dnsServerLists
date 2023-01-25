@@ -67,6 +67,9 @@ accounts.scdn.co
 accounts.spotify.com
 accounts.youtube.com
 accounts.zoho.com
+accounts.zoho.eu
+accounts.zoho.in
+accounts.zoho.jp
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
@@ -238,6 +241,7 @@ as-sg-m.shadow.igamecj.com
 as-sg.shadow.igamecj.com
 as.alipayobjects.com
 asia-sysupgrade-api.vivoglobal.com
+asia.battlegrounds.pubg.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia.pool.ntp.org
 ask.com
@@ -556,6 +560,7 @@ creativecommons.org
 cricket.entitysport.com
 cricket97.com
 crl.root-x1.letsencrypt.org.edgekey.net
+crm.zoho.com
 crontab.guru
 crowd.fastforward.team
 crunchyroll.com
@@ -943,6 +948,7 @@ greasyfork.org
 groups.google.com
 growth-pa.googleapis.com
 gsa.apple.com
+gsite.zohocdn.com
 gsp-ssl.ls.apple.com
 gstatic.com
 gt.pool.ntp.org
@@ -1883,6 +1889,7 @@ static.zohocdn.com
 staticxx.facebook.com
 stats.mydramalist.com
 status.discord.com
+status.thawte.com
 steam-chat.com
 steamcommunity.com
 steampowered.com
@@ -1900,6 +1907,7 @@ strongvpn.com
 stun.l.google.com
 style.sndcdn.com
 styles.redditmedia.com
+su.zoho.com
 subs.icedhojicha.com
 subscene.com
 subscriptionsmanagement-pa.googleapis.com
@@ -2098,6 +2106,8 @@ us.galleryapi.micloud.xiaomi.net
 us.pool.ntp.org
 us02web.zoom.us
 us3-wms.zoho.com
+us4-wms.zoho.com
+us4-wms1.zoho.com
 usatoday.com
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
@@ -2172,6 +2182,7 @@ web.whatsapp.com
 webcache.googleusercontent.com
 webcrx.io
 webfonts.zoho.com
+webfonts.zohowebstatic.com
 webpermissionpredictions.googleapis.com
 weebly.com
 weebly.map.fastly.net
@@ -2621,6 +2632,7 @@ www.youtube.com
 www.zdnet.com
 www.zedge.net
 www.zoho.com
+www.zohowebstatic.com
 www2.bing.com
 www3.l.google.com
 x1.c.lencr.org
@@ -2671,3 +2683,5 @@ zoombangla.com
 zooqle.com
 zoro.to
 zs-lc1-19-h2.zoho.com
+zs-lc1-25-h2.zoho.com
+zs-lc2-19.zoho.com
