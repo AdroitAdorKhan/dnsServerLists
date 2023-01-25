@@ -1760,6 +1760,7 @@ sp2.ping.com.bd.prod.hosts.ooklaserver.net
 sparrow.cloudflare.com
 spclient.wg.spotify.com
 spee.ch
+speechs3proto2-pa.googleapis.com
 speednetkhulna.online.prod.hosts.ooklaserver.net
 speedtest.abnetwork.com.bd.prod.hosts.ooklaserver.net
 speedtest.bangladeshinfo.com.prod.hosts.ooklaserver.net
