@@ -390,6 +390,8 @@ cdn.cloudflare.steamstatic.com
 cdn.cookielaw.org
 cdn.datatables.net
 cdn.discordapp.com
+cdn.embed.ly
+cdn.embedly.com
 cdn.fbsbx.com
 cdn.flipboard.com
 cdn.fluidplayer.com
