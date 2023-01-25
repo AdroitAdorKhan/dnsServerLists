@@ -1191,6 +1191,7 @@ libgen.space
 libgen.st
 libgen.xyz
 limetorrents.pro
+limited-prod.giphy.map.fastly.net
 lineup-images.scdn.co
 linkedin.com
 linktr.ee
@@ -1965,6 +1966,7 @@ thumb.tapecontent.net
 thumbs.filemoon.sx
 tigercricket.com.bd
 tile.openstreetmap.org
+time-a.timefreq.bldrdoc.gov
 time-ak.alicdn.com
 time-g.netgear.com
 time.android.com
@@ -1975,6 +1977,7 @@ time.facebook.com
 time.google.com
 time.nist.gov
 time.windows.com
+time1.google.com
 timesofindia.indiatimes.com
 timeweb.ru
 tinder.com
@@ -2503,6 +2506,7 @@ www.snapchat.com
 www.soccer24.com
 www.sofascore.com
 www.somoynews.tv
+www.sony.net
 www.soompi.com
 www.speedtest.net
 www.sportsinteraction.com
