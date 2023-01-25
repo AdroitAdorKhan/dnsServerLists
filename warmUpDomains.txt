@@ -268,6 +268,7 @@ atlassian.net
 au.pool.ntp.org
 audio-ak-quic.spotifycdn.com
 audio-fa.scdn.co
+auditrecording-pa.googleapis.com
 auroraoss.com
 aus1.waterfox.net
 aus5.mozilla.org
@@ -368,6 +369,7 @@ c.media-amazon.com
 c.root-servers.net
 c.saavncdn.com
 c.sop.saavncdn.com
+c.tenor.com
 c0.wp.com
 ca.gov
 ca.pool.ntp.org
@@ -467,6 +469,7 @@ client-api.itunes.apple.com
 client.pay.bka.sh
 clientconfig.rpg.riotgames.com
 clients.l.google.com
+clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -2001,6 +2004,7 @@ tracker1.bt.moack.co.kr
 tracker1.myporn.club
 tracker2.dler.org
 tracker3.ctix.cn
+translate-pa.googleapis.com
 translate.google.com
 translate.googleapis.com
 trendmicro.com
