@@ -680,6 +680,7 @@ edge-chat.facebook.com
 edge-chat.instagram.com
 edge-mcdn.secure.yahoo.com
 edge-mqtt.facebook.com
+edge-stun.facebook.com
 edge-web.dual-gslb.spotify.com
 edge.api.brightcove.com
 edgecast-cf-prod.yahoo.net
@@ -1679,10 +1680,12 @@ scontent-sin6-3.xx.fbcdn.net
 scontent-sin6-4.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.fdac136-1.fna.fbcdn.net
+scontent.fdac14-1.fna.fbcdn.net
 scontent.fdac2-1.fna.fbcdn.net
 scontent.fdac3-1.fna.fbcdn.net
 scontent.fdac31-1.fna.fbcdn.net
 scontent.fdac80-1.fna.fbcdn.net
+scontent.fdac99-1.fna.fbcdn.net
 scontent.whatsapp.net
 scontent.xx.fbcdn.net
 scooter-repacks.site
@@ -1736,6 +1739,7 @@ slicie.icon256.com
 smartbd.com
 smartscreen-prod.microsoft.com
 sn.webrootcloudav.com
+snaptu-d.facebook.com
 socks.imolive2.com
 software-download.microsoft.com
 sogou.com
@@ -2125,6 +2129,7 @@ wildrift.secure.dyn.riotcdn.net
 windows.net
 wire.com
 wired.com
+wireguard.com
 wix.com
 wordpress.com
 wordpress.org
