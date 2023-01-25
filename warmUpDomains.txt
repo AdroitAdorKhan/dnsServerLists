@@ -563,7 +563,9 @@ cr.pool.ntp.org
 creativecommons.org
 cricket.entitysport.com
 cricket97.com
+crl.comodoca.com
 crl.root-x1.letsencrypt.org.edgekey.net
+crl.verisign.com
 crm.zoho.com
 crontab.guru
 crowd.fastforward.team
@@ -1133,6 +1135,7 @@ itsfoss.com
 itunes.apple.com
 j.root-servers.net
 jagonews24.com
+javadl-esd-secure.oracle.com
 jnn-pa.googleapis.com
 joinmastodon.org
 jp.pool.ntp.org
@@ -1501,6 +1504,7 @@ openwrt.org
 opera.com
 optimizationguide-pa.googleapis.com
 optimizely.com
+oracle.com
 orange-dc.lazada.com
 ota-cache1.googlezip.net
 ota.googlezip.net
