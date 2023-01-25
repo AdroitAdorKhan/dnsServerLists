@@ -110,6 +110,7 @@ amp-api-edge.apps.apple.com
 amzn.to
 android-appboot.netflix.com
 android-context-data.googleapis.com
+android-safebrowsing.google.com
 android.apis.google.com
 android.clients.google.com
 android.com
@@ -118,6 +119,7 @@ android.l.google.com
 android.prod.cloud.netflix.com
 android.prod.ftl.netflix.com
 androidapi.mxplay.com
+androidplatformbackuprestore-pa.googleapis.com
 anidex.info
 animepahe.com
 animepahe.org
@@ -160,6 +162,7 @@ api.eyecon-app.com
 api.facebook.com
 api.fast.com
 api.frankerfacez.com
+api.giphy.com
 api.github.com
 api.globalping.io
 api.graphql.imdb.com
@@ -397,6 +400,7 @@ cdn.fbsbx.com
 cdn.flipboard.com
 cdn.fluidplayer.com
 cdn.frankerfacez.com
+cdn.getawesomestudio.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.growthbook.io
 cdn.gsmarena.com
@@ -426,6 +430,7 @@ cdn.shopify.com
 cdn.sportfeeds.io
 cdn.sstatic.net
 cdn.streamelements.com
+cdn.surfshark.com
 cdn.syndication.twimg.com
 cdn.trustpilot.net
 cdn.vox-cdn.com
@@ -539,6 +544,7 @@ crontab.guru
 crowd.fastforward.team
 crunchyroll.com
 cryptauthenrollment.googleapis.com
+cryptauthvault.googleapis.com
 cs9.wac.phicdn.net
 csi.gstatic.com
 csoversea.stronghold.freefiremobile.com
@@ -616,6 +622,7 @@ dl.castle.freefiremobile.com.akamaized.net
 dl.discordapp.net
 dl.google.com
 dl.ver.freefiremobile.com
+dns-tunnel-check.googlezip.net
 dns.cloudflare.com
 dns.google
 dns.google.com
@@ -669,6 +676,7 @@ dyncdn.me
 dyncdn2.com
 e-cdn-files.dzcdn.net
 e-cdns-assets.dzcdn.net
+e.reddit.com
 e.root-servers.net
 e1.o.lencr.org
 ea.com
@@ -888,6 +896,7 @@ google.co.in
 google.co.jp
 google.co.uk
 google.com
+google.com.bd
 google.com.hk
 google.de
 google.fr
@@ -1113,6 +1122,7 @@ kg.pool.ntp.org
 kh.pool.ntp.org
 kickasstorrents.to
 kickstarter.com
+kidsmanagement-pa.googleapis.com
 kissasian.disqus.com
 kissasian.li
 kit.fontawesome.com
@@ -1265,6 +1275,7 @@ merchants.google.com
 merriam-webster.com
 messages.google.com
 messenger-noneu.truecaller.com
+meta-api.reddit.com
 meta.wikimedia.org
 metasploit.com
 mg.pool.ntp.org
@@ -1296,6 +1307,7 @@ mobile.twitter.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps.googleapis.com
 modules.lsposed.org
+moltron-pa.clients6.google.com
 moonburrow.club
 movabletype.com
 movies.zsw.ca
@@ -1441,6 +1453,8 @@ opera.com
 optimizationguide-pa.googleapis.com
 optimizely.com
 orange-dc.lazada.com
+ota-cache1.googlezip.net
+ota.googlezip.net
 oth.eve.mdt.qq.com
 oup.com
 out.reddit.com
@@ -1601,6 +1615,7 @@ rawgitcdn.b-cdn.net
 readthedocs.org
 realpython.com
 realtime.services.disqus.com
+realtimesupport.clients6.google.com
 redd.it
 reddit.com
 reddit.map.fastly.net
@@ -1685,6 +1700,7 @@ scontent-sin6-2.xx.fbcdn.net
 scontent-sin6-3.xx.fbcdn.net
 scontent-sin6-4.xx.fbcdn.net
 scontent.cdninstagram.com
+scontent.fdac11-1.fna.fbcdn.net
 scontent.fdac136-1.fna.fbcdn.net
 scontent.fdac14-1.fna.fbcdn.net
 scontent.fdac2-1.fna.fbcdn.net
@@ -1992,6 +2008,7 @@ trickbd.com
 tripadvisor.com
 trustpilot.com
 tumblr.com
+tunnel.googlezip.net
 turn.rtcp.on.epicgames.com
 tutanota.com
 tv.apple.com
@@ -2023,6 +2040,7 @@ unpkg.com
 unsplash.com
 update.code.visualstudio.com
 update.googleapis.com
+update.intl.miui.com
 update.kiwibrowser.com
 updates.discord.com
 updates.push.services.mozilla.com
@@ -2064,6 +2082,7 @@ video-sin6-2.xx.fbcdn.net
 video-sin6-4.xx.fbcdn.net
 video-weaver.sin01.hls.ttvnw.net
 video.cdninstagram.com
+video.fdac11-2.fna.fbcdn.net
 video.fdac136-1.fna.fbcdn.net
 video.fdac31-1.fna.fbcdn.net
 video.fdac80-1.fna.fbcdn.net
@@ -2202,6 +2221,7 @@ www.btrc.gov.bd
 www.buymeacoffee.com
 www.canva.com
 www.cbsnews.com
+www.celsoazevedo.com
 www.channel24bd.tv
 www.channelionline.com
 www.chd4.com
@@ -2584,6 +2604,7 @@ yts.lt
 yts.mx
 z-lib.org
 z-m-graph.facebook.com
+z-m-scontent.fdac11-1.fna.fbcdn.net
 z-m-scontent.fdac31-1.fna.fbcdn.net
 z-m-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com
