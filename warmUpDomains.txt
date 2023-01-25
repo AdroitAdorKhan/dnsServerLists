@@ -391,6 +391,7 @@ cdn-0001.qstv.on.epicgames.com
 cdn-client.medium.com
 cdn-global.configcat.com
 cdn.ampproject.org
+cdn.ap.bittorrent.com
 cdn.betterttv.net
 cdn.cloudflare.steamstatic.com
 cdn.cookielaw.org
@@ -518,6 +519,7 @@ comment-cdn.9gag.com
 comment.9gag.com
 commons.wikimedia.org
 community.cloudflare.com
+company-profile-noneu.truecaller.com
 componentupdater.brave.com
 concen.org
 config.edge.skype.com
@@ -697,6 +699,7 @@ edge-mqtt.facebook.com
 edge-stun.facebook.com
 edge-web.dual-gslb.spotify.com
 edge.api.brightcove.com
+edge.microsoft.com
 edgecast-cf-prod.yahoo.net
 edgedl.me.gvt1.com
 edition.cnn.com
@@ -1736,6 +1739,7 @@ services.addons.mozilla.org
 services.prothomalo.com
 sg-live-02.slatic.net
 sg-live.slatic.net
+sg.idm.iot.mi.com
 sg.pool.ntp.org
 sg.static.mega.co.nz
 sg.tdatamaster.com
@@ -1834,6 +1838,7 @@ static.dash.cloudflare.com
 static.depositfiles.com
 static.extremetech.com
 static.fd-api.com
+static.fdac11-1.fna.fbcdn.net
 static.fdac136-1.fna.fbcdn.net
 static.fdac31-1.fna.fbcdn.net
 static.g2a.com
