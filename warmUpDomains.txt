@@ -166,8 +166,10 @@ api.giphy.com
 api.github.com
 api.globalping.io
 api.graphql.imdb.com
+api.hub3.ee
 api.jetboost.io
 api.mangadex.org
+api.mapbox.com
 api.memberstack.io
 api.msn.com
 api.myanimelist.net
@@ -331,6 +333,7 @@ bitsearch.to
 bl.ink
 black-bird.ynh.fr
 blitzfansub.com
+blocklist.phantom.app
 blog.cloudflare.com
 blog.counter-strike.net
 blog.mozilla.org
@@ -399,6 +402,7 @@ cdn.datatables.net
 cdn.discordapp.com
 cdn.embed.ly
 cdn.embedly.com
+cdn.exchange.art
 cdn.fbsbx.com
 cdn.flipboard.com
 cdn.fluidplayer.com
@@ -968,6 +972,7 @@ htz3.noho.st
 hu.pool.ntp.org
 huawei.com
 hub.docker.com
+hub3.ee
 hubspot.com
 huffingtonpost.com
 huffpost.com
