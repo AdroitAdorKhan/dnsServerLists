@@ -594,12 +594,14 @@ darkreader.github.io
 darkreader.org
 dash.cloudflare.com
 data-asset-directory-public-service-prod.ol.epicgames.com
+data-edge.smartscreen.microsoft.com
 data-jsdelivr-com-preview.onrender.com
 data.phantom.app
 data.riotgames.com
 data.worldbank.org
 datadoghq.com
 datagy.io
+datamixer-pa.googleapis.com
 datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
 dc.dqa.samsung.com
@@ -685,6 +687,7 @@ dramahd.me
 dribbble.com
 drive-thirdparty.googleusercontent.com
 drive.google.com
+drivefrontend-pa.googleapis.com
 dropbox.com
 ds-assets.cdn.devapps.ru
 dsebd.org
@@ -1339,6 +1342,7 @@ mobile-content.uber.com
 mobile-webview.gmail.com
 mobile.element.io
 mobile.twitter.com
+mobiledataplan-pa.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 mobilemaps.googleapis.com
 modules.lsposed.org
@@ -1389,6 +1393,7 @@ nasa.gov
 nationalgeographic.com
 nationaltoday.com
 nature.com
+nav-edge.smartscreen.microsoft.com
 nav.files.bbci.co.uk
 naver.com
 nawzryhwatm.broker.amsoveasea.com
@@ -2002,6 +2007,7 @@ timeweb.ru
 tinder.com
 tiny.cc
 tinyurl.com
+tm-prod-wd-csp-edge.trafficmanager.net
 tmall.com
 tmge.alicdn.com
 token.services.mozilla.com
@@ -2180,6 +2186,7 @@ washington.edu
 washingtonpost.com
 wassets.hscicdn.com
 watch.redd.it
+wd-prod-ss-as-southeast-1-fe.southeastasia.cloudapp.azure.com
 wearechange.org
 weather-data.apple.com
 weather.com
