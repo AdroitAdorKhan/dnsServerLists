@@ -1179,6 +1179,7 @@ login.wikimedia.org
 logincdn.msftauth.net
 lol.secure.dyn.riotcdn.net
 lolstatic-a.akamaihd.net
+lookaside.facebook.com
 lowendtalk.com
 lpcdn.lpsnmedia.net
 lsposed.github.io
