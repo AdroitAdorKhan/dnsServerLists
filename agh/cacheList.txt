@@ -144,6 +144,7 @@ nftstorage.link
 img-cdn.magiceden.dev
 download.prss.microsoft.com
 dlmate*.*
+ota*.googlezip.net
 #video-weaver.*.hls.ttvnw.net
 #video-edge-*.sin*.abs.hls.ttvnw.net
 # mirrors 
