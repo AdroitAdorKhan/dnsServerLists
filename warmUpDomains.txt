@@ -178,6 +178,7 @@ api.mapbox.com
 api.memberstack.io
 api.msn.com
 api.myanimelist.net
+api.nordvpn.com
 api.onedrive.com
 api.paperquotes.com
 api.phantom.app
@@ -472,6 +473,8 @@ change.org
 channel.mynagad.com
 charts-images.scdn.co
 chase.com
+chat-e2ee-mini.c10r.facebook.com
+chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.google.com
 checkoutbg.pay.bka.sh
@@ -683,6 +686,7 @@ download.nerocloud.me
 download.oracle.com
 download.wireguard.com
 downloads.dell.com
+downloads.napps-2.com
 downloads.nordcdn.com
 downloads.videezy.com
 drama-otaku.com
@@ -1936,6 +1940,8 @@ streetviewpixels-pa.googleapis.com
 stripe.com
 stripecdn.map.fastly.net
 strongvpn.com
+stun.c10r.facebook.com
+stun.fbsbx.com
 stun.l.google.com
 style.sndcdn.com
 styles.redditmedia.com
@@ -2396,6 +2402,7 @@ www.goodreads.com
 www.google.com
 www.google.com.bd
 www.google.ru
+www.google.us
 www.googleapis.com
 www.gov.uk
 www.grameenphone.com
