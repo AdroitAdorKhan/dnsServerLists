@@ -621,6 +621,7 @@ deviantart.com
 device-provisioning.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 dfiles.eu
+dgw-p4.c10r.facebook.com
 dgw.c10r.facebook.com
 diagnostics.redditmedia.com
 dialercallinfolookup-pa.googleapis.com
@@ -2669,6 +2670,7 @@ z-m-scontent.xx.fbcdn.net
 z-m.c10r.facebook.com
 z-p3-graph.facebook.com
 z-p3.c10r.facebook.com
+z-p4-gateway.facebook.com
 za.pool.ntp.org
 zconfig.alibabausercontent.com
 zdbb.net
