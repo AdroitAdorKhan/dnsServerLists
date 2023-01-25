@@ -1094,6 +1094,7 @@ inbox.google.com
 indeed.com
 independent.co.uk
 indiatimes.com
+infinitedata-pa.googleapis.com
 instagram.c10r.instagram.com
 instagram.com
 instagram.fdac136-1.fna.fbcdn.net
@@ -1910,6 +1911,7 @@ store.storeimages.cdn-apple.com
 stream.binance.us
 streamtape.com
 streamtape.to
+streetviewpixels-pa.googleapis.com
 stripe.com
 stripecdn.map.fastly.net
 strongvpn.com
