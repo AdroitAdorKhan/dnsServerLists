@@ -1045,6 +1045,7 @@ iframe.videodelivery.net
 ifunny.co
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
+igapromomanager-pa.googleapis.com
 ikea.com
 il.pool.ntp.org
 illlustrations.co
