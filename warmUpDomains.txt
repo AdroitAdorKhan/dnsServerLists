@@ -143,6 +143,7 @@ api-global.dradis.netflix.com
 api-global.netflix.com
 api-icons.icons8.com
 api-mainnet.magiceden.io
+api-mifit-us2.huami.com
 api-mifit-us2.zepp.com
 api-partner.spotify.com
 api-stream.twitter.com
@@ -1693,6 +1694,7 @@ riseup.net
 risingbd.com
 ritoplus.secure.dyn.riotcdn.net
 ro.pool.ntp.org
+roaming.officeapps.live.com
 roar.media
 roblox.com
 roku.com
@@ -2682,6 +2684,7 @@ yts.lt
 yts.mx
 z-lib.org
 z-m-graph.facebook.com
+z-m-lookaside.facebook.com
 z-m-portal.fb.com
 z-m-scontent.fdac11-1.fna.fbcdn.net
 z-m-scontent.fdac31-1.fna.fbcdn.net
