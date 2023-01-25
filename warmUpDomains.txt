@@ -281,6 +281,7 @@ avcliq.zoho.com
 avcs.upaysystem.com
 ax.pool.ntp.org
 azure.com
+b-api.facebook.com
 b-cdn.net
 b-graph.facebook.com
 b-www.facebook.com
@@ -1636,6 +1637,7 @@ ru.pool.ntp.org
 run-2.publictracker.xyz
 run.publictracker.xyz
 rupload-ccu1-1.up.facebook.com
+rupload.facebook.com
 rutracker.org
 rutracker.ru
 s.4pda.to
