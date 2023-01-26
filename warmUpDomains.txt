@@ -64,6 +64,7 @@ accounts-cdn.9gag.com
 accounts.firefox.com
 accounts.google.com
 accounts.google.com.bd
+accounts.reddit.com
 accounts.scdn.co
 accounts.spotify.com
 accounts.youtube.com
@@ -481,7 +482,6 @@ chat.cdn.whatsapp.net
 chat.google.com
 checkoutbg.pay.bka.sh
 chess.com
-chouchou.top
 chromesyncpasswords-pa.googleapis.com
 ci3.googleusercontent.com
 ci6.googleusercontent.com
