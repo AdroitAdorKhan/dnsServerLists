@@ -52,6 +52,7 @@ aarsen.me
 abs-0.twimg.com
 abs-zero.twimg.com
 abs.twimg.com
+account-api.proton.me
 account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
 account.proton.me
@@ -142,6 +143,7 @@ api-cs.intsig.net
 api-global.dradis.netflix.com
 api-global.netflix.com
 api-icons.icons8.com
+api-js.datadome.co
 api-mainnet.magiceden.io
 api-mifit-us2.huami.com
 api-mifit-us2.zepp.com
@@ -1144,6 +1146,7 @@ jnn-pa.googleapis.com
 joinmastodon.org
 jp.pool.ntp.org
 jraws.com
+js.datadome.co
 js.intercomcdn.com
 js.monitor.azure.com
 js.stripe.com
@@ -1302,6 +1305,7 @@ media.e-valy.com
 media.fdac31-1.fna.fbcdn.net
 media.fdac31-1.fna.whatsapp.net
 media.flaticon.com
+media.forgecdn.net
 media.giphy.com
 media.nperf.com
 media.tenor.co
@@ -2127,6 +2131,7 @@ unity3d.com
 unix.stackexchange.com
 unpkg.com
 unsplash.com
+update.biv.sony.tv
 update.code.visualstudio.com
 update.googleapis.com
 update.intl.miui.com
@@ -2686,6 +2691,7 @@ xda-developers.com
 xiaomi.com
 xmppapi.zoom.us
 xsso.playvalorant.com
+xt.streamlabs.com
 yahoo.co.jp
 yahoo.com
 yandex.com
