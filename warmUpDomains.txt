@@ -1261,6 +1261,7 @@ m.media-amazon.com
 m.root-servers.net
 m.stripe.network
 m.theindependentbd.com
+m.youtube.com
 ma.pool.ntp.org
 macromedia.com
 magiceden.io
