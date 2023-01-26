@@ -232,6 +232,7 @@
 ||bid^
 ||cam^
 ||cc^
+||cf^
 ||cfd^
 ||click^
 ||club^
@@ -243,8 +244,10 @@
 ||ga^
 ||gq^
 ||icu^
+||live^
 ||loan^
 ||mom^
+||monster^
 ||porn^
 ||pub^
 ||red^
@@ -254,6 +257,7 @@
 ||sex^
 ||surf^
 ||su^
+||top^
 ||win^
 ||xin^
 ||xxx^
