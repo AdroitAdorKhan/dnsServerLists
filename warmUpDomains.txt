@@ -75,6 +75,7 @@ accounts.zoho.jp
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
+acs.fssnet.co.in
 acs.m.taobao.com
 addons-pa.clients6.google.com
 addons.mozilla.org
@@ -402,6 +403,7 @@ camera.lei001.com
 camo.githubusercontent.com
 canva.com
 capi.samsungcloud.com
+capp-cdn.labs.bka.sh
 carr.codes
 cart.daraz.com.bd
 catalog.gamepass.com
@@ -887,6 +889,7 @@ gateway.reddit.com
 gb.pool.ntp.org
 gdb.voanews.com
 geekflare.com
+geo.cardinalcommerce.com
 geocities.com
 geocoder-asia.deliveryhero.io
 get.docker.com
@@ -1792,6 +1795,7 @@ sec-oc.netflix.com
 secure.gravatar.com
 secure.internetdownloadmanager.com
 secure.netflix.com
+secureacceptance.cybersource.com
 securepay.sslcommerz.com
 securitydomain-pa.googleapis.com
 seed-mix-image.spotifycdn.com
@@ -1844,6 +1848,7 @@ sonar-ccu1-1.xx.fbcdn.net
 sonar-ccu1-2.xx.fbcdn.net
 sonar-sin6-4.xx.fbcdn.net
 sonar6.xy.fbcdn.net
+songbird.cardinalcommerce.com
 soundcloud.com
 sourceforge.net
 south-america.pool.ntp.org
@@ -2193,6 +2198,7 @@ viewer-geolocation.twitch-ext.rootonline.de
 viki.s.llnwi.net
 vimeo-video.map.fastly.net
 vimeo.com
+visacard.bkash.com
 vivaldi.com
 vjs.zencdn.net
 vk.com
@@ -2260,6 +2266,7 @@ wordpress.com
 wordpress.org
 worldbank.org
 worldtimeapi.org
+writer.cardinalcommerce.com
 ws-ipv4.nperf.com
 ws-ipv6.nperf.com
 ws.nperf.com
