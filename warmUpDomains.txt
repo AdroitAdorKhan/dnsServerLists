@@ -744,6 +744,7 @@ eg.pool.ntp.org
 electronicsbazar.com.bd
 element.io
 embed.videodelivery.net
+emoji.redditmedia.com
 emoji.twemoji.netdna-cdn.com
 en.wikipedia.org
 encrypted-tbn0.gstatic.com

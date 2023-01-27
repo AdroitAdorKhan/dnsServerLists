@@ -30,6 +30,7 @@
 
 ## blockNoMatterWhat
 ||www.googleadservices.com^$important
+||www.googletagservices.com^$important
 ||app.adjust.com^$important
 ||graph.fbpigeon.com^$important
 ||astat.bugly.qcloud.com^$important
