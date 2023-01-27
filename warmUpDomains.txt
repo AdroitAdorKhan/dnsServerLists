@@ -2748,3 +2748,5 @@ zoro.to
 zs-lc1-19-h2.zoho.com
 zs-lc1-25-h2.zoho.com
 zs-lc2-19.zoho.com
+www.pinterest.co.kr
+video.aliexpress-media.com
