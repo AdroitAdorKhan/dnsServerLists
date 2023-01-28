@@ -519,6 +519,7 @@ cli.speedtest.net
 client-api.itunes.apple.com
 client.pay.bka.sh
 client.relay.crisp.chat
+client.teamviewer.com
 clientconfig.rpg.riotgames.com
 clients.l.google.com
 clients1.google.com
@@ -629,6 +630,7 @@ dailycricket.com.bd
 dailymail.co.uk
 dailymotion.com
 dailynayadiganta.com
+daraz.com.bd
 darkreader.github.io
 darkreader.org
 dash.cloudflare.com
@@ -759,6 +761,7 @@ ecotv-subs.livejournal.com
 ecs.office.com
 edge-chat.facebook.com
 edge-chat.instagram.com
+edge-chat.messenger.com
 edge-mcdn.secure.yahoo.com
 edge-mqtt.facebook.com
 edge-stun.facebook.com
@@ -777,6 +780,7 @@ embed.videodelivery.net
 emoji.redditmedia.com
 emoji.twemoji.netdna-cdn.com
 en.wikipedia.org
+encdn.ldmnq.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn3.gstatic.com
@@ -916,6 +920,7 @@ gateway.discord.gg
 gateway.facebook.com
 gateway.fe.apple-dns.net
 gateway.icloud.com
+gateway.messenger.com
 gateway.oneplus.net
 gateway.reddit.com
 gb.pool.ntp.org
@@ -1771,6 +1776,8 @@ roblox.com
 roku.com
 router.oneplus.com
 router.oneplus.com.cdn.cloudflare.net
+router2.teamviewer.com
+router7.teamviewer.com
 ru.pool.ntp.org
 run-2.publictracker.xyz
 run.publictracker.xyz
@@ -2542,6 +2549,7 @@ www.jsdelivr.com
 www.jugantor.com
 www.kalerkantho.com
 www.kernel.org
+www.keycdn.com
 www.latimes.com
 www.limetorrents.pro
 www.linkedin.com
