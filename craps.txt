@@ -37,6 +37,7 @@
 ||masala.sh^$important
 ||muscdn.com^$important
 ||musical.ly^$important
+||sgsnssdk.com^$important
 ||snssdk.com^$important
 ||tiktok.com^$important
 ||tiktokcdn.com^$important
