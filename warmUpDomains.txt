@@ -1,9 +1,11 @@
 0.africa.pool.ntp.org
+0.android.pool.ntp.org
 0.asia.pool.ntp.org
 0.datadog.pool.ntp.org
 0.pool.ntp.org
 0.soompi.io
 0.viki.io
+1.android.pool.ntp.org
 1.bp.blogspot.com
 1.pool.ntp.org
 1.us.pool.ntp.org
@@ -13,6 +15,7 @@
 1337x.st
 1337x.to
 1688.com
+2.android.pool.ntp.org
 2.bp.blogspot.com
 2.pool.ntp.org
 2.us.pool.ntp.org
@@ -20,6 +23,7 @@
 2006-shadow.igamecj.com
 2007-shadow.igamecj.com
 2008-shadow.igamecj.com
+3.android.pool.ntp.org
 3.bp.blogspot.com
 3.pool.ntp.org
 3009-shadow.igamecj.com
