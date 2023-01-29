@@ -1,0 +1,27 @@
+# gTLDs
+||adult^
+||bid^
+||cam^
+||click^
+||club^
+||cyou^
+||date^
+||desi^
+||ga^
+||icu^
+||ml^
+||porn^
+||pub^
+||pw^
+||red^
+||review^
+||ru^
+||sexy^
+||sex^
+||su^
+||tk^
+||vip^
+||webcam^
+||win^
+||xin^
+||xxx^
