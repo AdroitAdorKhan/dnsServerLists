@@ -2,6 +2,7 @@
 ||adult^
 ||bid^
 ||cam^
+||cfd^
 ||click^
 ||club^
 ||cyou^
