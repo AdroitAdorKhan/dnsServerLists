@@ -66,6 +66,7 @@
 ||bigo.tv^$important
 ||snapkit.com^$important
 ||sgmbocast.com^$important
+||primis.tech^$important
 # mxplayer - takatak
 ||mxplay.com^$important
 /takatak/
