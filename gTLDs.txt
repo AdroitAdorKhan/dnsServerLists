@@ -4,6 +4,7 @@
 ||adult^
 ||ad^
 ||analytics^
+||bar^
 ||beer^
 ||bet^
 ||bid^
