@@ -8,6 +8,7 @@
 ||cyou^
 ||date^
 ||desi^
+||fyi^
 ||ga^
 ||icu^
 ||ml^
