@@ -124,6 +124,7 @@
 ||*mistat*.xiaomi.com^
 ||*tsdk.vivo.com.cn^
 ||3lift.com^$important
+||a-ads.com^$important
 ||abtest*.*^
 ||activity*.*^
 ||adaware.com^
