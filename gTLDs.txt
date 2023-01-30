@@ -1,5 +1,6 @@
 # gTLDs
 ||adult^
+||bet^
 ||bid^
 ||cam^
 ||cfd^
