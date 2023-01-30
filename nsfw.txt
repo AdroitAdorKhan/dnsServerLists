@@ -1,6 +1,5 @@
 /21naturals/
 /3mov/
-/3x/
 /4tube/
 /adultprime/
 /adulttime/
