@@ -288,6 +288,7 @@
 /xozilla/
 /xtape/
 /xtube/
+/xv-video/
 /xxbrit/
 /xxvideo/
 /xxx/
