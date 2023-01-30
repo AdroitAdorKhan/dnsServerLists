@@ -96,3 +96,31 @@
 ##
 # nonsenses
 /hdmusic/
+# bet sites
+/1xbet/
+/baji9/
+/bet365/
+/betting/
+/betvisa/
+/betway/
+/casino/
+/dafabet/
+/leon-bet/
+/leoncas/
+/megapari/
+/mostbet/
+/parimatch/
+/paripesa/
+||365838.*^
+||bj88.*^
+||bvthethao.com^
+||crickexch.*^
+||dfkayaraya.*^
+||gaming-curacao.*^
+||iccwin.*^
+||ivibet.com^
+||ocms365.*^
+||purecasino.*^
+||purewin.*^
+||sptpub.*^
+||vbet.*^
