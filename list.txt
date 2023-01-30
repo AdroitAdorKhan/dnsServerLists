@@ -144,7 +144,6 @@
 ||adsrvmedia*.*^
 ||adsystem*.*^
 ||advertising.com^$important
-||af.*.*^
 ||an.facebook.*^
 ||analysis*.*^
 ||analytic*.*^
