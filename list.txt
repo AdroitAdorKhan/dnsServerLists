@@ -34,6 +34,7 @@
 /adpushup/
 /adsymptotic/
 /adtheorent/
+/adnxs/
 /amazon-adsystem/
 /api-offer/
 /app-measurement/
@@ -115,7 +116,7 @@
 /^(\S+\.)?e7[0-9]{2,4}\.(net|com)?$/
 /^(\S+\.)?g[1-4][0-9]{8,9}\.com?$/
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
-/^(api|check|config|earn|money|serve|survey)?.*.?(xyz|top|live|site|fun|plus|beauty|vip|app|cfd)/
+/^(api|check|config|earn|money|serve|survey).*.(xyz|top|live|site|fun|plus|beauty|vip|app|cfd)/
 ###
 ||*-analytics*.huami.com^
 ||*.crashsight.*
