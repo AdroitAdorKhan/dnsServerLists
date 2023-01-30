@@ -26,6 +26,7 @@
 @@||virginia.sessions.logs.heroku.com^$important
 @@||anti-ad.net^$important
 @@||a2zapk.com^$important
+@@||geoprox-js-sdk.datadome.co^$important
 ##
 # /^(.+[_.-])?tr?c?k?[0-9]*[_.-]/
 #/^(.+[_.-])?s?track(ing)?[0-9]*[_.-]/
