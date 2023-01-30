@@ -105,7 +105,7 @@
 /^(.+[_.-])?reports?[0-9]*[_.-]/
 /^(.+[_.-])?s?(web|app|collect)?analytics?[0-9]*[_.-]/
 /^(.+[_.-])?s?a?(d|ds|ecure|ec|cs|web|app|adb)?s?metri?c?k?s?[0-9]*[_.-]/
-/^(.+[_.-])?a?(file|web|log|)?s?stat(s|istics)?[0-9]*[_.-]/
+/^(.+[_.-])?a?(file|web|log|r)?s?stat(s|istics)?[0-9]*[_.-]/
 /^(.+[_.-])?s?elq?track(ing)?[0-9]*[_.-]/
 /^(.+[_.-])?sdk(log?|event?|track?|ad?|adv?)?(er|ing)?s?[0-9]*[_.-]/
 /^(.+[_.-])?sentry?[0-9]*[_.-]/
@@ -127,6 +127,8 @@
 ||abtest*.*^
 ||activity*.*^
 ||adaware.com^
+||adform.net^$important
+||adelement.com^$important
 ||adjns.*^
 ||adjust.*^$important
 ||admarvel*.*^
@@ -145,6 +147,8 @@
 ||an.facebook.*^
 ||analysis*.*^
 ||analytic*.*^
+||antillephone.com^$important
+||appdynamics.com^
 ||app.ssp.yahoo.*^
 ||applog*.*^
 ||applytics*.*^
@@ -179,6 +183,7 @@
 ||heytapdl.*^
 ||highperformancecpm.*^
 ||highrevenuecpm.*^
+||hoardgear.*^
 ||igodigital.*^$important
 ||imglnk*.com^
 ||imoconf*.*^
