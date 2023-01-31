@@ -127,6 +127,7 @@
 /^(\S+.)?serve\.[a-z0-9]{2,30}\.(xyz|top|live|site|fun|plus|beauty|vip|app|cfd|cyou|pw|ml|monster)?$/
 /^(\S+.)?survey\.[a-z0-9]{2,30}\.(xyz|top|live|site|fun|plus|beauty|vip|app|cfd|cyou|pw|ml|monster)?$/
 ###
+||000webhostapp.com^
 ||*-analytics*.huami.com^
 ||*.crashsight.*
 ||*atwola.*^
