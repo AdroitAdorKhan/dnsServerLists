@@ -208,7 +208,7 @@
 ||kochava.com^$important
 ||lianmeng*.*^
 ||log*-normal-*.tiktokv.com^
-||*log*.fineboost.com^
+||*log*.fineboost.*^
 ||log.mmstat.com^$important
 ||logs.roku.com^
 ||lum-sdk.io^
