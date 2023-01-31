@@ -111,6 +111,9 @@
 /mostbet/
 /parimatch/
 /paripesa/
+/xbatbd/
+/xbetbd/
+/xbatsport/
 ||365838.*^
 ||bj88.*^
 ||bvthethao.com^
