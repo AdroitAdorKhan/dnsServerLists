@@ -264,6 +264,7 @@
 ||technoratimedia.com^
 ||top-performance.*^$important
 ||toprevenuecpmnetwork.*^
+||*trace.nvidia.com^
 ||trafficjunky.*^$important
 ||treasuredata.com^
 ||tremorhub.com^
