@@ -233,6 +233,7 @@
 ||puhtml.com^
 ||pullcf.com^$important
 ||pullcm.com^$important
+||pushtrs*.push.hicloud.com^
 ||pvclouds.com^
 ||px-cdn.net^
 ||px-cloud.net^
