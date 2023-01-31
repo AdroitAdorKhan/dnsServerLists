@@ -1097,6 +1097,7 @@ identitytoolkit.googleapis.com
 ie.pool.ntp.org
 ietf.org
 ifacetimeapp.com
+ifixit.com
 iframe.videodelivery.net
 ifunny.co
 ig-us-notice.igamecj.com
@@ -2320,6 +2321,7 @@ webfonts.zohowebstatic.com
 webpermissionpredictions.googleapis.com
 weebly.com
 weebly.map.fastly.net
+weheartit.com
 weibo.com
 wepzone.net
 wetransfer.com

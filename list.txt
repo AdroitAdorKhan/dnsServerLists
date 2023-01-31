@@ -38,6 +38,7 @@
 /adtheorent/
 /adnxs/
 /amazon-adsystem/
+/analytic/
 /api-offer/
 /app-measurement/
 /applovin/
@@ -180,6 +181,7 @@
 ||effectivecpmgate.*^
 ||effectiveperformancenetwork.*^
 ||ero-advertising.*^
+||gamecenter.run^
 ||gatetocontent.com^
 ||gdl.*.*^
 ||graph.fbpigeon.com^$important
