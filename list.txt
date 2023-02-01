@@ -177,6 +177,7 @@
 ||conviva.com^
 ||crazyegg.com^$important
 ||cse.google.*^$important
+||*data.vidmatefilm.*^
 ||dessaly.com^$important
 ||detectportal.firefox.com^$important
 ||domob*.*^
@@ -247,6 +248,7 @@
 ||px-cloud.net^
 ||pxchk.net^
 ||qualtrics.com^$important
+||rayjump.*^
 ||redshell.io^
 ||report-uri.io^$important
 ||report.wc.yahoodns.net^$important
