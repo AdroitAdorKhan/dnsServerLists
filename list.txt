@@ -221,6 +221,7 @@
 ||mmstat.com^$important
 ||mon*-*.tiktokv.*^
 ||mon*-platform-*^
+||*mon-*.samsungdm.com^
 ||mon-*.byteoversea.com^
 ||mon-*.tiktokv.com^
 ||monitorsdk*.*^
