@@ -40,6 +40,7 @@
 ||musical.ly^$important
 ||sgsnssdk.com^$important
 ||snssdk.com^$important
+||tikcdn.io^$important
 ||tiktok.com^$important
 ||tiktokcdn.com^$important
 ||tiktokv.com^$important
