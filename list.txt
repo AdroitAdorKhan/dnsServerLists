@@ -52,6 +52,7 @@
 /doubleclick/
 /heytapdl/
 /heytapmobile/
+/heytapmobi/
 /indexwww/
 /inmobi/
 /inner-active/
