@@ -1,3 +1,4 @@
+
 0.africa.pool.ntp.org
 0.android.pool.ntp.org
 0.asia.pool.ntp.org
@@ -37,6 +38,7 @@
 5005-shadow.igamecj.com
 6.viki.io
 6.vikiplatform.com
+6ahddutb1ucc3cp.ru
 9.rarbg.com
 9anime-to.disqus.com
 9anime.to
@@ -81,6 +83,7 @@ acs-m.daraz.pk
 acs-m.lazada.sg
 acs.fssnet.co.in
 acs.m.taobao.com
+acxx.de
 addons-pa.clients6.google.com
 addons.mozilla.org
 addons.opera.com
@@ -345,6 +348,7 @@ bdnews24.com
 bdshop.com
 bdversion.ggbluefox.com
 be.pool.ntp.org
+bedro.cloud
 behance.net
 best.aliexpress.com
 bestbuy.com
@@ -513,6 +517,7 @@ chat.cdn.whatsapp.net
 chat.google.com
 checkoutbg.pay.bka.sh
 chess.com
+chouchou.top
 chromesyncpasswords-pa.googleapis.com
 ci3.googleusercontent.com
 ci6.googleusercontent.com
@@ -675,6 +680,7 @@ deviceintegritytokens-pa.googleapis.com
 dfiles.eu
 dgw-p4.c10r.facebook.com
 dgw.c10r.facebook.com
+dht.bt251.com
 diagnostics.redditmedia.com
 dialercallinfolookup-pa.googleapis.com
 digg.com
@@ -963,6 +969,8 @@ fp-afd.azurefd.net
 fp-as-nocache.azureedge.net
 fp-vs.azureedge.net
 fr.pool.ntp.org
+free.publictracker.xyz
+freedom.1776.ga
 freenetproject.org
 freepik.com
 freespeech.org
@@ -1316,6 +1324,7 @@ launcher.spot.im
 launchpad.net
 laz-dorangesource.alicdn.com
 laz-img-cdn.alicdn.com
+laze.cc
 lb.pool.ntp.org
 lb.wordpress.com
 lbry.com
@@ -1619,6 +1628,7 @@ online.visualstudio.com
 ooni.org
 open-bak.camscanner.com
 open-im-us.camscanner.com
+open.4ever.tk
 open.acgnxtracker.com
 open.camscanner.com
 open.demonii.com
@@ -1752,6 +1762,7 @@ premium-noneu.truecaller.com
 preview.redd.it
 privacy-api.9gag.com
 privacyportal-eu.onetrust.com
+private.anonseed.com
 pro.fontawesome.com
 probe-ixunicast.prod.ftl.netflix.com
 probe-t.twitter.com
@@ -1784,6 +1795,7 @@ psiphon.ca
 pss.bdstatic.com
 psyco.fr
 pt.pool.ntp.org
+public-tracker.ml
 public.bnbstatic.com
 public.publictracker.xyz
 pubsub-edge.twitch.tv
@@ -2044,6 +2056,7 @@ star-mini.c10r.facebook.com
 star.c10r.facebook.com
 star.facebook.com
 star.fallback.c10r.facebook.com
+stargrave.org
 start.ubuntu.com
 startech.com.bd
 startpage.com
@@ -2126,6 +2139,7 @@ t.co
 t.me
 t.overflow.biz
 t0.gstatic.com
+t1.hloli.org
 t2.gstatic.com
 tamas3.ynh.fr
 tanzil.net
@@ -2154,6 +2168,7 @@ tencentgames.helpshift.com
 tenor.googleapis.com
 test-ipv4.nperf.net
 th.pool.ntp.org
+thagoat.rocks
 theatlantic.com
 thedailystar.net
 thefinancialexpress.com.bd
@@ -2222,18 +2237,22 @@ tracker.artixlinux.org
 tracker.auctor.tv
 tracker.bitsearch.to
 tracker.bt4g.com
+tracker.cubonegro.xyz
 tracker.ddunlimited.net
 tracker.dler.org
 tracker.edkj.club
+tracker.expli.top
 tracker.files.fm
 tracker.foreverpirates.co
 tracker.gbitt.info
+tracker.imgoingto.icu
 tracker.jonaslsa.com
 tracker.joybomb.tw
 tracker.kuroy.me
 tracker.leech.ie
 tracker.lelux.fi
 tracker.lilithraws.org
+tracker.mlsub.net
 tracker.moeblog.cn
 tracker.moeking.me
 tracker.monitorit4.me
@@ -2242,19 +2261,26 @@ tracker.nanoha.org
 tracker.openbittorrent.com
 tracker.openbtba.com
 tracker.opentrackr.org
+tracker.pimpmyworld.to
 tracker.pomf.se
 tracker.publictracker.xyz
+tracker.qu.ax
+tracker.skynetcloud.site
 tracker.skyts.net
 tracker.srv00.com
 tracker.swateam.org.uk
 tracker.tamersunion.org
 tracker.tcp.exchange
 tracker.theoks.net
+tracker.tiny-vps.com
 tracker.torrent.eu.org
+tracker1.520.jp
 tracker1.bt.moack.co.kr
 tracker1.myporn.club
+tracker2.ctix.cn
 tracker2.dler.org
 tracker3.ctix.cn
+trackerb.jonaslsa.com
 translate-pa.googleapis.com
 translate.google.com
 translate.googleapis.com
@@ -2329,6 +2355,7 @@ uz.pool.ntp.org
 v.pinimg.com
 v.redd.it
 v0.wordpress.com
+v1046920.hosted-by-vdsina.ru
 v2.api.esquireelectronicsltd.com
 v2.iperson.xyz
 vanilla.futurecdn.net
