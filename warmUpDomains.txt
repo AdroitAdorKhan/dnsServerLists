@@ -506,8 +506,11 @@ cdn.ziffstatic.com
 cdn01.grameenphone.com
 cdn1-dest.epicgames.com
 cdn1.epicgames.com
+cdn1.telegram-cdn.org
 cdn2.editmysite.com
 cdn2.epicgames.com
+cdn4.telegram-cdn.org
+cdn5.telegram-cdn.org
 cdna.iconscout.com
 cdnjs.cloudflare.com
 cdnjs.com
@@ -2232,6 +2235,7 @@ techshopbd.com
 ted.com
 teledriveapp.com
 telegra.ph
+telegram-cdn.org
 telegram.me
 telegram.org
 telegraph.co.uk
