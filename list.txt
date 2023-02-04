@@ -68,6 +68,7 @@
 /omtrdc/
 /online-metrix/
 /outbrain/
+/pglstatp/
 /performancetrustednetwork/
 /perimeterx/
 /privacycollector/
