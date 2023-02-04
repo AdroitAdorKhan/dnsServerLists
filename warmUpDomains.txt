@@ -945,6 +945,7 @@ fb.me
 fb.watch
 fbcdn.net
 fblite-p1.c10r.facebook.com
+fctb.org.bd
 fdc.spotify.com
 fdn.gsmarena.com
 fdn2.gsmarena.com
@@ -2811,6 +2812,7 @@ www.playstation.com
 www.pling.com
 www.pogo.com
 www.pool.ntp.org
+www.prisma.net.bd
 www.privacyinternational.org
 www.privacytools.io
 www.privateinternetaccess.com
@@ -2828,6 +2830,7 @@ www.qq.com
 www.quad9.net
 www.quora.com
 www.quora.com.cdn.cloudflare.net
+www.race.net.bd
 www.rarbg.to
 www.rd.com
 www.reallinuxuser.com
