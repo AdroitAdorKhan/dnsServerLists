@@ -61,12 +61,14 @@ abs.twimg.com
 account-api.proton.me
 account-noneu.truecaller.com
 account-public-service-prod.ol.epicgames.com
+account-public-service-prod03.ol.epicgames.com
 account.proton.me
 account.riotgames.com
 account.riotgames.com.cdn.cloudflare.net
 account.xiaomi.com
 accounts-cctld.l.google.com
 accounts-cdn.9gag.com
+accounts.epicgames.com
 accounts.firefox.com
 accounts.google.com
 accounts.google.com.bd
@@ -78,6 +80,7 @@ accounts.zoho.com
 accounts.zoho.eu
 accounts.zoho.in
 accounts.zoho.jp
+accts.epicgames.com
 acs-m.daraz.com.bd
 acs-m.daraz.pk
 acs-m.lazada.sg
@@ -143,6 +146,10 @@ anonym.es
 anycast.ftl.netflix.com
 ao.pool.ntp.org
 aol.com
+ap-gae2.spotify.com
+ap-gew4.spotify.com
+ap-guc3.spotify.com
+ap.single-gslb.spotify.com
 ap.vg.ac.pvp.net
 apa.org
 apache.org
@@ -173,6 +180,7 @@ api.cde.capp.bka.sh
 api.cloudflareclient.com
 api.coingecko.com
 api.cricbuzz.com
+api.daily.dev
 api.deezer.com
 api.dhakatribune.com
 api.epicgames.dev
@@ -297,6 +305,8 @@ atlassian.com
 atlassian.net
 au.pool.ntp.org
 audio-ak-quic.spotifycdn.com
+audio-fa-h3svcb-ofl.cdn-gslb.spotify.com
+audio-fa-quic.spotifycdn.com
 audio-fa.scdn.co
 auditrecording-pa.googleapis.com
 auroraoss.com
@@ -425,11 +435,13 @@ calendarsync-pa.googleapis.com
 cambridge.org
 camera.lei001.com
 camo.githubusercontent.com
+campaigns.cdn.magiceden.dev
 canva.com
 capi.samsungcloud.com
 capp-cdn.labs.bka.sh
 carr.codes
 cart.daraz.com.bd
+catalog-public-service-prod06.ol.epicgames.com
 catalog.chaldal.com
 catalog.gamepass.com
 cbsnews.com
@@ -492,7 +504,10 @@ cdn.vox-cdn.com
 cdn.wetest.qq.com
 cdn.ziffstatic.com
 cdn01.grameenphone.com
+cdn1-dest.epicgames.com
+cdn1.epicgames.com
 cdn2.editmysite.com
+cdn2.epicgames.com
 cdna.iconscout.com
 cdnjs.cloudflare.com
 cdnjs.com
@@ -588,10 +603,12 @@ completion.amazon.co.uk
 completion.amazon.in
 componentupdater.brave.com
 concen.org
+concerts.spotifycdn.com
 config.edge.skype.com
 connect.epicgames.dev
 connect.facebook.net
 connect.garenanow.com
+connect.ol.epicgames.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 consent.cmp.oath.com
@@ -608,6 +625,7 @@ cornell.edu
 cpanel.com
 cpanel.net
 cr.pool.ntp.org
+crazymax.dev
 creativecommons.org
 cricket.entitysport.com
 cricket97.com
@@ -657,6 +675,7 @@ datagy.io
 datamixer-pa.googleapis.com
 datarouter-weighted.ol.epicgames.com
 datarouter.ol.epicgames.com
+datastorage-public-service-liveegs.live.use1a.on.epicgames.com
 dc.dqa.samsung.com
 ddf.di.atlas.samsung.com
 ddns.net
@@ -672,6 +691,7 @@ delta.chat
 depositfiles.com
 desh.tv
 detectportal.firefox.com
+developer.spotify.com
 developers.facebook.com
 developers.google.cn
 deviantart.com
@@ -715,9 +735,11 @@ dns11.quad9.net
 dns9.quad9.net
 dnsleaktest.com
 docs.docker.com
+docs.firezone.dev
 docs.google.com
 docs.oracle.com
 docs.portainer.io
+docs.telethon.dev
 dodi-repacks.site
 doh.dns.sb
 doh.opendns.com
@@ -727,11 +749,13 @@ down.anticheatexpert.com
 download-installer.cdn.mozilla.net
 download.cnet.com
 download.docker.com
+download.epicgames.com
 download.intsig.net
 download.mikrotik.com
 download.nerocloud.me
 download.oracle.com
 download.wireguard.com
+download2.epicgames.com
 downloads.dell.com
 downloads.napps-2.com
 downloads.nordcdn.com
@@ -778,6 +802,7 @@ edge-chat.messenger.com
 edge-mcdn.secure.yahoo.com
 edge-mqtt.facebook.com
 edge-stun.facebook.com
+edge-web-gae2.dual-gslb.spotify.com
 edge-web.dual-gslb.spotify.com
 edge.api.brightcove.com
 edge.microsoft.com
@@ -786,9 +811,11 @@ edgedl.me.gvt1.com
 edition.cnn.com
 ee.pool.ntp.org
 eg.pool.ntp.org
+egs-platform-service.store.epicgames.com
 elearning.bdjobs.com
 electronicsbazar.com.bd
 element.io
+embed.spotify.com
 embed.videodelivery.net
 emoji.redditmedia.com
 emoji.twemoji.netdna-cdn.com
@@ -799,6 +826,7 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn3.gstatic.com
 engadget.com
 engage.cloudflareclient.com
+entitlement-public-service-prod08.ol.epicgames.com
 entitlements.auth.riotgames.com
 entrepreneur.com
 epaper.jugantor.com
@@ -806,7 +834,10 @@ epaper.prothomalo.com
 epaper.tbsnews.net
 epaper.thedailystar.net
 epay.thecitybank.com
+epic-social-game-overlay-prod.ol.epicgames.com
+epic-social-social-modules-prod.ol.epicgames.com
 epicgames.com
+epicgames.dev
 epider.me
 es.pn
 es.pool.ntp.org
@@ -814,6 +845,7 @@ eset.com
 espn.com
 etsy.com
 eu-client.fwf.deliveryhero.net
+eulatracking-public-service-prod06.ol.epicgames.com
 euping.igamecj.com
 europe.pool.ntp.org
 evaly.com.bd
@@ -906,12 +938,14 @@ family.cloudflare-dns.com
 fandom.com
 fast.com
 fast.fonts.net
+fastly-download.epicgames.com
 fastly.net
 fb.com
 fb.me
 fb.watch
 fbcdn.net
 fblite-p1.c10r.facebook.com
+fdc.spotify.com
 fdn.gsmarena.com
 fdn2.gsmarena.com
 fdroid.bromite.org
@@ -977,7 +1011,9 @@ freespeech.org
 freyr.futurecdn.net
 friend.gc.apple.com
 friends-public-service-prod.ol.epicgames.com
+friends-public-service-prod06.ol.epicgames.com
 ftp.esquireelectronicsltd.com
+ftuapps.dev
 functions.soundalerts.com
 fundingchoicesmessages.google.com
 furritsubs.wordpress.com
@@ -989,6 +1025,9 @@ g.root-servers.net
 g.sni.global.fastly.net
 g.whatsapp.net
 g2a.com
+gae2-dealer-ssl.spotify.com
+gae2-dealer.spotify.com
+gae2-spclient.spotify.com
 gaming.amazon.com
 gates.cloudflare.com
 gateway-us-east1-b.discord.gg
@@ -1045,6 +1084,7 @@ gmail.com
 gnpfesdk-pa.googleapis.com
 gnu.org
 go-updater.brave.com
+go.dev
 go.microsoft.com
 goblinfamily.com
 godaddy.com
@@ -1132,6 +1172,7 @@ huffingtonpost.com
 huffpost.com
 hulu.com
 hybrid.miniapp.taobao.com
+hyperglass.dev
 i.animepahe.com
 i.animepahe.org
 i.animepahe.ru
@@ -1214,6 +1255,7 @@ imap-mail.outlook.com
 imdb.com
 img-9gag-fun.9cache.com
 img-9gag-fun.9cache.com.cdn.cloudflare.net
+img-cdn.magiceden.dev
 img-comment-fun.9cache.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
@@ -1245,6 +1287,7 @@ instagram.fdac80-1.fna.fbcdn.net
 instantmessaging-pa-ap.googleapis.com
 instantmessaging-pa.googleapis.com
 intel.com
+internal-api-mainnet.magiceden.dev
 interncache-eag.fbcdn.net
 internetsociety.org
 investopedia.com
@@ -1321,6 +1364,7 @@ latency.discord.media
 launcher-public-service-prod-m.ol.epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
 launcher.spot.im
+launcher.store.epicgames.com
 launchpad.net
 laz-dorangesource.alicdn.com
 laz-img-cdn.alicdn.com
@@ -1352,6 +1396,8 @@ libgen.rs
 libgen.space
 libgen.st
 libgen.xyz
+library-service.live.use1a.on.epicgames.com
+lightswitch-public-service-prod06.ol.epicgames.com
 limetorrents.pro
 limited-prod.giphy.map.fastly.net
 lineup-images.scdn.co
@@ -1371,6 +1417,7 @@ location.services.mozilla.com
 login.live.com
 login.microsoftonline.com
 login.wikimedia.org
+login5.spotify.com
 logincdn.msftauth.net
 lol.secure.dyn.riotcdn.net
 lolstatic-a.akamaihd.net
@@ -1404,6 +1451,7 @@ mail.zoho.com
 mailchi.mp
 mailchimp.com
 mailwsorg.zoho.com
+malware-filter.pages.dev
 manga4life.com
 mangadex.org
 mangakakalot.com
@@ -1434,6 +1482,7 @@ mcloud.to
 md.pool.ntp.org
 mdike.alicdn.com
 me-du.shadow.igamecj.com
+media-cdn.epicgames.com
 media.amazon.map.fastly.net
 media.discordapp.net
 media.e-valy.com
@@ -1461,6 +1510,7 @@ mega.io
 mega.nz
 member.daraz.com.bd
 meping.igamecj.com
+merchantpool1.epicgames.com
 merchants.google.com
 merriam-webster.com
 messages.google.com
@@ -1478,8 +1528,10 @@ mikrotik.com
 mini-app-packages-cdn.taobao.com
 miro.medium.com
 mirror.aptus.co.tz
+mirror.termux.dev
 mirror3.internetdownloadmanager.com
 mirror5.internetdownloadmanager.com
+mirrors.utermux.dev
 miscmedia-9gag-fun.9cache.com
 miscmedia-9gag-fun.9cache.com.cdn.cloudflare.net
 mit.edu
@@ -1489,6 +1541,7 @@ mlsbd.shop
 mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 mo.pool.ntp.org
+mobile-ap.spotify.com
 mobile-api.adguard.org
 mobile-content.uber.com
 mobile-webview.gmail.com
@@ -1654,6 +1707,7 @@ optimizationguide-pa.googleapis.com
 optimizely.com
 oracle.com
 orange-dc.lazada.com
+orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ota-cache1.googlezip.net
 ota.googlezip.net
 oth.eve.mdt.qq.com
@@ -1668,6 +1722,8 @@ p.typekit.net-stls-v3.edgesuite.net
 p4p.arenabg.com
 pa.pool.ntp.org
 packaged-media.redd.it
+packages-cf.termux.dev
+packages.termux.dev
 pages.daraz.com.bd
 pahe.li
 paloaltonetworks.com
@@ -1686,6 +1742,7 @@ pathwaybd.org
 patreon.com
 pavscores.com
 pay.igamecj.com
+payment-website-pci.ol.epicgames.com
 paypal.com
 pbs.twimg.com
 pd.ap.a.pvp.net
@@ -1694,6 +1751,7 @@ pe.pool.ntp.org
 people-pa.clients6.google.com
 people-pa.googleapis.com
 peoplestack-pa.googleapis.com
+perf.store.on.epicgames.com
 petapixel.com
 pexels.com
 ph.pool.ntp.org
@@ -1760,6 +1818,7 @@ pps.whatsapp.net
 preapp.prod.partner.netflix.net
 premium-noneu.truecaller.com
 preview.redd.it
+priceengine-public-service-ecomprod01.ol.epicgames.com
 privacy-api.9gag.com
 privacyportal-eu.onetrust.com
 private.anonseed.com
@@ -1806,6 +1865,10 @@ put.io
 pytutorial.com
 qa.pool.ntp.org
 qa.sockets.stackexchange.com
+qos1.ol.epicgames.com
+qos2.ol.epicgames.com
+qos3.ol.epicgames.com
+qos4.ol.epicgames.com
 qq.com
 qsf.fs.quoracdn.net
 qsf.fs.quoracdn.net.cdn.cloudflare.net
@@ -1964,6 +2027,7 @@ sg.voice.gcloudcs.com
 sgp2.xmssdn.micloud.xiaomi.net
 shadowsocks.org
 shajgoj.com
+shared-static-prod.epicgames.com
 shared.ap.a.pvp.net
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
@@ -2061,6 +2125,8 @@ start.ubuntu.com
 startech.com.bd
 startpage.com
 static-01.daraz.com.bd
+static-assets-prod-dest.epicgames.com
+static-assets-prod.epicgames.com
 static-assets-prod.s3.amazonaws.com
 static-assets.nike.com
 static-cdn.jtvnw.net
@@ -2104,6 +2170,10 @@ storage.googleapis.com
 storage.hell.sh
 storage.live.com
 storage.sg.content-cdn.io
+store-content-ipv4.ak.epicgames.com
+store-site-backend-static-ipv4.ak.epicgames.com
+store-weighted-cdn.epicgames.com
+store.epicgames.com
 store.steampowered.com
 store.storeimages.cdn-apple.com
 stream.binance.us
@@ -2119,6 +2189,7 @@ stun.l.google.com
 style.sndcdn.com
 styles.redditmedia.com
 su.zoho.com
+subs.daily.dev
 subs.icedhojicha.com
 subscene.com
 subscriptionsmanagement-pa.googleapis.com
@@ -2141,6 +2212,8 @@ t.overflow.biz
 t0.gstatic.com
 t1.hloli.org
 t2.gstatic.com
+talon-service-prod.ecosec.on.epicgames.com
+talon-website-prod.ecosec.on.epicgames.com
 tamas3.ynh.fr
 tanzil.net
 taobao.com
@@ -2166,6 +2239,7 @@ teletalk.com.bd
 template.canva.com
 tencentgames.helpshift.com
 tenor.googleapis.com
+termux.3san.dev
 test-ipv4.nperf.net
 th.pool.ntp.org
 thagoat.rocks
@@ -2281,6 +2355,7 @@ tracker2.ctix.cn
 tracker2.dler.org
 tracker3.ctix.cn
 trackerb.jonaslsa.com
+tracking.epicgames.com
 translate-pa.googleapis.com
 translate.google.com
 translate.googleapis.com
@@ -2304,8 +2379,11 @@ typeform.com
 tz.pool.ntp.org
 ua.pool.ntp.org
 ublockorigin.github.io
+ublockorigin.pages.dev
 ubuntu.com
 udemy.com
+ue-launcher-website-prod.ol.epicgames.com
+ui.dev
 uiboot.netflix.com
 uk.pool.ntp.org
 ulp1p-pa.googleapis.com
@@ -2394,6 +2472,7 @@ vod-secure.twitch.tv
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 vps02.net.orel.ru
+vsmarketplacebadges.dev
 vstorrent.org
 w.bikroy-st.com
 w.bookcdn.com
@@ -2414,6 +2493,7 @@ weather-data.apple.com
 weather.com
 weatherapi.intl.xiaomi.com
 web-chat-e2ee.facebook.com
+web.dev
 web.facebook.com
 web.geo2.deezer.com
 web.pool.ntp.org
@@ -2574,6 +2654,7 @@ www.eff.org
 www.ekushey-tv.com
 www.electronics.com.bd
 www.electronicsbazar.com.bd
+www.epicgames.com
 www.espncricinfo.com
 www.esquireelectronicsltd.com
 www.estorejamuna.com
@@ -2906,6 +2987,7 @@ www.zoho.com
 www.zohowebstatic.com
 www2.bing.com
 www3.l.google.com
+wwwcheckout.spotifycdn.com
 x.root-servers.net
 x1.c.lencr.org
 x2.c.lencr.org
@@ -2913,6 +2995,7 @@ xatab-repack.com
 xatab-repack.net.ru
 xda-developers.com
 xiaomi.com
+xmpp-service-prod.ol.epicgames.com
 xmppapi.zoom.us
 xsso.playvalorant.com
 xt.streamlabs.com
