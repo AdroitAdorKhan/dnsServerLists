@@ -633,6 +633,7 @@ creativecommons.org
 cricket.entitysport.com
 cricket97.com
 crl.comodoca.com
+crl.globalsign.com
 crl.root-x1.letsencrypt.org.edgekey.net
 crl.verisign.com
 crm.zoho.com
@@ -2746,6 +2747,7 @@ www.jugantor.com
 www.kalerkantho.com
 www.kernel.org
 www.keycdn.com
+www.kucoin.com
 www.latimes.com
 www.limetorrents.pro
 www.linkedin.com
@@ -2996,10 +2998,12 @@ www3.l.google.com
 wwwcheckout.spotifycdn.com
 x.root-servers.net
 x1.c.lencr.org
+x1337x.eu
 x2.c.lencr.org
 xatab-repack.com
 xatab-repack.net.ru
 xda-developers.com
+xiaohongshu.com
 xiaomi.com
 xmpp-service-prod.ol.epicgames.com
 xmppapi.zoom.us
@@ -3010,6 +3014,10 @@ yahoo.com
 yandex.com
 yandex.net
 yandex.ru
+yandexwebcache.net
+yelp.com
+youdao.com
+youku.com
 youtu.be
 youtube-ui.l.google.com
 youtube.com
