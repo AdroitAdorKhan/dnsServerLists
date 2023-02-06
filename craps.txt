@@ -28,6 +28,7 @@
 ||ibytedtos.com^$important
 ||imo.im^$important
 ||imoim.app^$important
+||imoim.net^$important
 ||imolive.xyz^$important
 ||imolive2.com^$important
 ||imostatic.com^$important
