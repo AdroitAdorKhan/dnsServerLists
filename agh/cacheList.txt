@@ -67,6 +67,7 @@ download.filepuma.com
 download-cdn.jetbrains.com
 dl.teamviewer.com
 1111-releases.cloudflareclient.com
+pkg.cloudflare.com
 gsf-sp.softonic.com
 prod.downloadnow.com
 atom-installer.github.com
