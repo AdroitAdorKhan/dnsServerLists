@@ -380,3 +380,5 @@ eu-lux.buyvm.renegade-x.com
 # teso
 live.patcher.elderscrollsonline.com
 ## cache
+## extra
+*mhjoybots.xyz
