@@ -167,6 +167,7 @@
 ||api*.vidmate.*^
 ||api*.snaptube.*^
 ||app.ssp.yahoo.*^
+||applicationinsights.azure.cn^
 ||applog*.*^
 ||applytics*.*^
 ||appsflyer.com^$important
