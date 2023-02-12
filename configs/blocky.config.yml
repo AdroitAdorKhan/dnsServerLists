@@ -8,6 +8,8 @@ upstream:
     - tcp-tls:1.0.0.1
     - https://1.1.1.1/dns-query
     - https://1.0.0.1/dns-query
+    - https://162.159.36.1/dns-query
+    - https://162.159.46.1/dns-query
     # Google
     - tcp-tls:8.8.8.8
     - tcp-tls:8.8.4.4
