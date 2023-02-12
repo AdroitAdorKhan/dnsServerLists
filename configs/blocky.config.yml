@@ -89,4 +89,4 @@ filtering:
 # optional: add EDE error codes to dns response
 ede: 
   # enabled if true, Default: false
-  enable: true
+  enable: false
