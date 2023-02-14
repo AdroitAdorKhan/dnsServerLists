@@ -20,6 +20,11 @@ upstream:
     - tcp-tls:149.112.112.112
     - https://9.9.9.9/dns-query
     - https://149.112.112.112/dns-query
+    # OpenDNS
+    - tcp-tls:208.67.222.222
+    - tcp-tls:208.67.220.220
+    - https://208.67.222.222/dns-query
+    - https://208.67.220.220/dns-query
 
 # optional: timeout to query the upstream resolver. Default: 2s
 upstreamTimeout: 2s

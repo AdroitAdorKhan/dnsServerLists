@@ -42,7 +42,7 @@ idle_timeout: 9000
 # specify a different port
 listen_addresses:
   - 0.0.0.0@8053
-#  -  0::1@8053
+  -  0::1@8053
 
 # Instructs stubby to distribute queries across all available name servers. 
 # Set to 0 to treat the upstreams below as an ordered list and use a single
@@ -56,7 +56,7 @@ dnssec_return_status: GETDNS_EXTENSION_TRUE
 # Specify the location of the installed trust anchor file (leave commented out
 # for zero configuration DNSSEC)
 # dnssec_trust_anchors: "/etc/unbound/getdns-root.key"
-# dnssec_trust_anchors: "/var/lib/unbound/root.key"
+dnssec_trust_anchors: "/var/lib/unbound/root.key"
 
 # Control the maximum number of connection failures that will be permitted
 # before Stubby backs-off from using an individual upstream (default 2)
@@ -156,10 +156,10 @@ upstream_recursive_servers:
 #  - address_data: 9.9.9.10
 #    tls_auth_name: "dns.quad9.net"
 ## Google
-#  - address_data: 8.8.8.8
-#    tls_auth_name: "tls://dns.google"
-#  - address_data: 8.8.4.4
-#    tls_auth_name: "tls://dns.google"
+  - address_data: 8.8.8.8
+    tls_auth_name: "dns.google"
+  - address_data: 8.8.4.4
+    tls_auth_name: "dns.google"
 ## Adguard
 #  - address_data: 94.140.14.14
 #    tls_auth_name: "tls://dns.adguard.com"
