@@ -52,6 +52,7 @@
 ||ttlivecdn.com^$important
 ||ttwstatic.com^$important
 ||xzcs3zlph.com^$important
+||ukyuh.tech^$important
 # snackvideo
 /snackvideo/
 # likee
