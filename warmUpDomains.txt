@@ -295,6 +295,7 @@ appspot.com
 apresolve.spotify.com
 apse.pp.riotgames.com
 apse.pp.sgp.riotgames.com
+apse1-green.pp.sgp.pvp.net
 apt.izzysoft.de
 ar.m.wikipedia.org
 ar.pool.ntp.org
@@ -315,6 +316,7 @@ asia-sysupgrade-api.vivoglobal.com
 asia.battlegrounds.pubg.com
 asia.csoversea.mbgame.anticheatexpert.com
 asia.pool.ntp.org
+asia.vts.si.riotgames.com
 asiatimes.com
 ask.com
 asksolves.com
@@ -2928,6 +2930,7 @@ v1046920.hosted-by-vdsina.ru
 v2.api.esquireelectronicsltd.com
 v2.iperson.xyz
 valence.community
+valorant.secure.dyn.riotcdn.net
 vanilla.futurecdn.net
 variety.com
 vector.im
