@@ -232,6 +232,7 @@
 ||mon-*.tiktokv.com^
 ||monitorsdk*.*^
 ||mssdk-*.tiktokv.com^
+||naydex.net^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
