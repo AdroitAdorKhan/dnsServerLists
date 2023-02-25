@@ -2438,7 +2438,6 @@ secure.netflix.com
 secureacceptance.cybersource.com
 securepay.sslcommerz.com
 securevpn.com
-securevpn.im
 securitydomain-pa.googleapis.com
 sedo.com
 seed-mix-image.spotifycdn.com
