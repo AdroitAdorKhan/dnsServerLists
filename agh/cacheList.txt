@@ -186,6 +186,7 @@ ftp*.*.de
 mirror*.*.org
 mirrors*.*.org
 ftp*.*.org
+dl-cdn.*.org
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
