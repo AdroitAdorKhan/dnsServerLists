@@ -124,6 +124,7 @@
 /ladbroke/
 /leon-bet/
 /leoncas/
+/lotus365/
 /mansionbet/
 /megapari/
 /mostbet/
