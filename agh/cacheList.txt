@@ -146,6 +146,7 @@ img-cdn.magiceden.dev
 download.prss.microsoft.com
 dlmate*.*
 ota*.googlezip.net
+packages.microsoft.com
 #video-weaver.*.hls.ttvnw.net
 #video-edge-*.sin*.abs.hls.ttvnw.net
 # mirrors 
@@ -187,6 +188,7 @@ mirror*.*.org
 mirrors*.*.org
 ftp*.*.org
 dl-cdn.*.org
+dl.*.org
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
