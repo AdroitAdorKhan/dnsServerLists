@@ -25,6 +25,7 @@
 ||d1xe9dha4pyf2x.cloudfront.net^
 ||douyin.com^$important
 ||dznqtbqw4f99d.cloudfront.net^
+||goofy-cdn.com^
 ||ibytedtos.com^$important
 ||imo.im^$important
 ||imoim.app^$important
