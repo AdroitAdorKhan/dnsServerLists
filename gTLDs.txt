@@ -12,6 +12,7 @@
 ||casa^
 ||cash^
 ||casino^
+||cc^
 ||cfd^
 ||click^
 ||club^
@@ -49,3 +50,4 @@
 ||win^
 ||xin^
 ||xxx^
+||xyz^

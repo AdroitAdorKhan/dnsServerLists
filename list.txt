@@ -40,6 +40,7 @@
 /adnxs/
 /amazon-adsystem/
 /analytic/
+/apexinnotech/
 /api-offer/
 /app-measurement/
 /applovin/
@@ -69,6 +70,7 @@
 /omtrdc/
 /online-metrix/
 /outbrain/
+/pangle-b/
 /pglstatp/
 /performancetrustednetwork/
 /perimeterx/
