@@ -2,6 +2,7 @@
 /wshareit/
 /shareit/
 # tiktok
+/baishan-cloud/
 /bytedance/
 /byteoversea/
 /isnssdk/
@@ -132,6 +133,9 @@
 /novibet/
 /parimatch/
 /paripesa/
+/rapidcashonline/
+/rapidcashbengal/
+/rapidcash/
 /sportsadda/
 /sportsbet/
 /sportytrader/
