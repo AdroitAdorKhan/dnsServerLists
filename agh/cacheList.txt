@@ -239,6 +239,7 @@ download*.operacdn.com
 *.cdn.digitaloceanspaces.com
 files*.pling.com
 dl.filehorse.com
+liveupdate*.asus.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
