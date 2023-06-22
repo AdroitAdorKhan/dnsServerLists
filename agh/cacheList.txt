@@ -139,7 +139,6 @@ v.mydramalist.com
 rinzry.stream
 video-downloads.googleusercontent.com
 cdn.gog-games.com
-zippyshare.com
 nftstorage.link
 img-cdn.magiceden.dev
 download.prss.microsoft.com
