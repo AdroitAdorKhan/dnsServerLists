@@ -147,7 +147,7 @@ ota*.googlezip.net
 packages.microsoft.com
 #video-weaver.*.hls.ttvnw.net
 #video-edge-*.sin*.abs.hls.ttvnw.net
-# mirrors 
+# mirrors
 mirror*.*.com
 mirrors*.*.com
 mirror*.*.com.hk
@@ -203,11 +203,7 @@ gauss-componentotacost*-cn.allawnfs.com
 files.carbonrom.org
 download.c.realme.com
 dl-desktop-xcapps.sonymobile.com
-objects.githubusercontent.com
-pkg.cloudflare.com
 dl.playstation.net
-dl-cdn.*.org
-dl.*.org
 debrid.it
 vimm.net
 *-cdn-*.afreecatv.com
@@ -441,4 +437,3 @@ us-*.cncirc.net
 cdn-patch.swtor.com
 # teso
 live.patcher.elderscrollsonline.com
-## cache
