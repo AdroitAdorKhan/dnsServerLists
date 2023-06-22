@@ -37,8 +37,7 @@ dl.gjacky.com
 k.gjacky.com
 *.dl.sourceforge.net
 *.workers.dev
-sg-ovh-singapore-01-10g.nperf.net
-sg-ovh-singapore-01-10g-1.nperf.net
+sg-ovh-singapore-*.nperf.net
 *docs.googleusercontent.com
 googlehosted.l.googleusercontent.com
 us.download.nvidia.com
@@ -189,6 +188,61 @@ mirrors*.*.org
 ftp*.*.org
 dl-cdn.*.org
 dl.*.org
+0ms.run
+mirror.sg.gs
+ossmirror.mycloud.services
+mirror.*.asia
+twrepo.opensuse.id
+download.lenovo.com
+downloadcenter.samsung.com
+download.amd.com
+bigota.d.miui.com
+gauss-componentotacostmanual-*.allawnofs.com
+component-ota-afs.coloros.com
+componentota-*-cn.allawnfs.com
+gauss-componentotacost*-cn.allawnfs.com
+files.carbonrom.org
+download.c.realme.com
+dl-desktop-xcapps.sonymobile.com
+objects.githubusercontent.com
+pkg.cloudflare.com
+dl.playstation.net
+dl-cdn.*.org
+dl.*.org
+debrid.it
+vimm.net
+*-cdn-*.afreecatv.com
+uupdump.net
+download01.logi.com
+updates.*.com
+get.mirror3.arrowos.net
+updates.cdn-apple.com
+*-appldnld.apple.com
+download.msi.com
+ftp.hp.com
+download.lineage.microg.org
+ports.ubuntu.com
+apt.armbian.com
+ardownload*.adobe.com
+download.oracle.com
+javadl.oracle.com
+az*.vo.msecnd.net
+mirror.*.ru
+*-mirror.*.dk
+*.performanceservers.nl
+*.armbian.com
+mirror-*.*.io
+armbian.astra.in.ua
+jp.mirrors.naho.moe
+*.chi.auroradev.org
+*.tnahosting.net
+dietpi.com
+downloads.*.org
+down.filen.*
+elements-downloads.envatousercontent.com
+download*.operacdn.com
+*.cdn.digitaloceanspaces.com
+files*.pling.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
@@ -275,6 +329,7 @@ xbox-mbr.xboxlive.com
 assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 d1.xboxlive.com
+xvcf*.xboxlive.com
 # uplay
 *.cdn.ubi.com
 # riot
@@ -318,7 +373,7 @@ patchcdn.pathofexile.com
 # hirez
 hirez.http.internapcdn.net
 # city of heroes
-cdn.homecomingservers.com
+*.homecomingservers.com
 nsa.tools
 # frontier
 cdn.zaonce.net
@@ -380,9 +435,11 @@ us-mia.buyvm.ren-x.com
 us-lv.buyvm.renegade-x.com
 us-ny.buyvm.renegade-x.com
 eu-lux.buyvm.renegade-x.com
+us-*.*.ren-x.com
+eu-*.*.ren-x.com
+us-*.cncfps.com
+us-*.cncirc.net
+cdn-patch.swtor.com
 # teso
 live.patcher.elderscrollsonline.com
 ## cache
-## extra
-*mhjoybots.xyz
-mhjoyplex.tk
