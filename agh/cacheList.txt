@@ -245,6 +245,7 @@ community.chocolatey.org
 gamedownloads.rockstargames.com
 rgl-prod.ros.rockstargames.com
 download.teamviewer.com
+get.libremobileos.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
