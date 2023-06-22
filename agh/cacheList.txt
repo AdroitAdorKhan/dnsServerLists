@@ -240,6 +240,8 @@ download*.operacdn.com
 files*.pling.com
 dl.filehorse.com
 liveupdate*.asus.com
+packages.chocolatey.org
+community.chocolatey.org
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
