@@ -242,6 +242,7 @@ dl.filehorse.com
 liveupdate*.asus.com
 packages.chocolatey.org
 community.chocolatey.org
+gamedownloads.rockstargames.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
