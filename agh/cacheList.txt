@@ -247,6 +247,10 @@ gamedownloads.rockstargames.com
 rgl-prod.ros.rockstargames.com
 download.teamviewer.com
 get.libremobileos.com
+usa*-*.shegu.net
+calyxos.gitlab.io
+fdroid.bromite.org
+*download.real-debrid.com
 # steam
 steampipe.akamaized.net
 *.steamcontent.com
