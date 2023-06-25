@@ -302,6 +302,7 @@
 ||umeng.*^$important
 ||umtrack*.com^
 ||usage*.*^
+||us.*.micloud.xiaomi.net^
 ||vegaoo*.*^
 ||vente-unique.*^
 ||vmm-satellite*.com^
