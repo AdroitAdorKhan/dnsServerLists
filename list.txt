@@ -136,7 +136,7 @@
 ###
 ||000webhostapp.com^
 ||*-analytics*.huami.com^
-||*-app-chat-global-xiaomi-net-*
+||*-app-chat-global-xiaomi-net-*^
 ||*.crashsight.*
 ||*atwola.*^
 ||*mistat*.xiaomi.com^
