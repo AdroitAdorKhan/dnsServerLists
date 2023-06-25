@@ -177,6 +177,7 @@
 ||applytics*.*^
 ||appsflyer.com^$important
 ||astat.bugly.qcloud.com^$important
+||backtrace.io^
 ||bacon*.*^
 ||branch.io^$important
 ||braze.com^$important
