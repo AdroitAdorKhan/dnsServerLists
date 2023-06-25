@@ -318,6 +318,7 @@
 ||appsitemsuggest-pa.googleapis.com^$important
 ||auditrecording-pa.googleapis.com^$important
 ||clientservices.googleapis.com^$important
+||clienttracing-pa.googleapis.com^$important
 ||crashlyticsreports-pa.googleapis.com^$important
 ||digitalassetlinks.googleapis.com^$important
 ||discover-pa.googleapis.com^$important
