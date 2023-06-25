@@ -136,6 +136,7 @@
 ###
 ||000webhostapp.com^
 ||*-analytics*.huami.com^
+||*-app-chat-global-xiaomi-net-*
 ||*.crashsight.*
 ||*atwola.*^
 ||*mistat*.xiaomi.com^
@@ -196,7 +197,6 @@
 ||effectiveperformancenetwork.*^
 ||ero-advertising.*^
 ||events-api*.outfit7.com^
-||*-app-chat-global-xiaomi-net-*
 ||gamecenter.run^
 ||gatetocontent.com^
 ||gdl.*.*^
