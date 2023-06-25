@@ -195,7 +195,8 @@
 ||effectivecpmgate.*^
 ||effectiveperformancenetwork.*^
 ||ero-advertising.*^
-||events-api*.outfit7.com
+||events-api*.outfit7.com^
+||*-app-chat-global-xiaomi-net-*
 ||gamecenter.run^
 ||gatetocontent.com^
 ||gdl.*.*^
