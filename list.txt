@@ -154,6 +154,8 @@
 ||admaster*.*^
 ||admob.*^
 ||ads.roku.com^
+||ads*.togothermany.com^
+||*ads.togothermany.com^
 ||adsage*.*^
 ||adsensor*.*^
 ||adservice*.*^
@@ -196,6 +198,7 @@
 ||effectivecpmgate.*^
 ||effectiveperformancenetwork.*^
 ||ero-advertising.*^
+||*event.togothermany.com^
 ||events-api*.outfit7.com^
 ||gamecenter.run^
 ||gatetocontent.com^
@@ -226,6 +229,7 @@
 ||mcs-*.tiktokv.com^
 ||media.net^$important
 ||mediavine.com^$important
+||mintegral.net^$important
 ||mixpanel.com^$important
 ||mmstat.com^$important
 ||mon*-*.tiktokv.*^
