@@ -353,5 +353,6 @@
 ||reach-pa.googleapis.com^$important
 ||safebrowsing.googleapis.com^$important
 ||scone-pa.googleapis.com^$important
+||scone-pa.clients6.google.com^$important
 ||userlocation.googleapis.com^$important
 ||voledevice-pa.googleapis.com^$important
