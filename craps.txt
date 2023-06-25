@@ -47,6 +47,7 @@
 ||tiktok.com^$important
 ||tiktokcdn.com^$important
 ||tiktokv.com^$important
+||tobsnssdk.com^$important
 ||tongdun.net^$important
 ||toutiao.com^$important
 ||toutiaocloud.com^$important
