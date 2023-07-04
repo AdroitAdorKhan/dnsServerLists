@@ -253,6 +253,7 @@
 ||passtechusa.com^
 ||permutive.app^
 ||pingfore*.*^
+||prf.hn^
 ||prmutv.*^
 ||profitablecpmnetwork.*^
 ||profitablegate.*^
@@ -291,6 +292,7 @@
 ||split.io^$important
 ||supersonicads*.*^
 ||technoratimedia.com^
+||togothermany.com^
 ||top-performance.*^$important
 ||toprevenuecpmnetwork.*^
 ||*trace.nvidia.com^
@@ -322,6 +324,7 @@
 # googleapis - safe to block
 ||analyticsmobile-pa.googleapis.com^$important
 ||android-safebrowsing.google.com^$important
+||androidtvlauncherxfe-pa.googleapis.com^$important
 ||appsitemsuggest-pa.googleapis.com^$important
 ||auditrecording-pa.googleapis.com^$important
 ||clientservices.googleapis.com^$important
@@ -357,3 +360,4 @@
 ||scone-pa.clients6.google.com^$important
 ||userlocation.googleapis.com^$important
 ||voledevice-pa.googleapis.com^$important
+||zerostateproxy-pa.googleapis.com^$important
