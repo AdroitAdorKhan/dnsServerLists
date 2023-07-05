@@ -22,6 +22,7 @@
 ||bytegoofy.com^$important
 ||byteimg.com^$important
 ||bytelb.com^$important
+||bytello.com^$important
 ||byteoversea.com^$important
 ||d1xe9dha4pyf2x.cloudfront.net^
 ||douyin.com^$important
