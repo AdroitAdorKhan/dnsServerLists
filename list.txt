@@ -270,6 +270,7 @@
 ||redshell.io^
 ||report-uri.io^$important
 ||report.wc.yahoodns.net^$important
+||reporttk.com^$important
 ||rqmob.com^$important
 ||rtc.youme.im^
 ||rtlog*.*^
@@ -304,6 +305,7 @@
 ||umeng.*^$important
 ||umtrack*.com^
 ||usage*.*^
+||usicdn.com^$important
 ||us.*.micloud.xiaomi.net^
 ||vegaoo*.*^
 ||vente-unique.*^
@@ -325,6 +327,7 @@
 ||analyticsmobile-pa.googleapis.com^$important
 ||android-safebrowsing.google.com^$important
 ||androidtvlauncherxfe-pa.googleapis.com^$important
+||androidtvsetupwraithfe-pa.googleapis.com^$important
 ||appsitemsuggest-pa.googleapis.com^$important
 ||auditrecording-pa.googleapis.com^$important
 ||clientservices.googleapis.com^$important
@@ -339,11 +342,14 @@
 ||firebaseremoteconfig.googleapis.com^
 ||firebaseremoteconfigrealtime.googleapis.com^$important
 ||footprints-pa.googleapis.com^$important
+||geomobileservices-pa.googleapis.com^$important
 ||gmscompliance-pa.googleapis.com^$important
 ||growth-pa.googleapis.com^$important
+||iid.googleapis.com^$important
 ||imasdk.googleapis.com^$important
 ||infinitedata-pa.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
+||instantmessaging-pa-jms-ap.googleapis.com^$important
 ||jnn-pa.googleapis.com^$important
 ||lamssettings-pa.googleapis.com^$important
 ||mobiledataplansharing.googleapis.com^$important
@@ -358,6 +364,7 @@
 ||safebrowsing.googleapis.com^$important
 ||scone-pa.googleapis.com^$important
 ||scone-pa.clients6.google.com^$important
+||searchnotifications-pa.googleapis.com^$important
 ||userlocation.googleapis.com^
 ||voledevice-pa.googleapis.com^$important
 ||zerostateproxy-pa.googleapis.com^$important
