@@ -336,7 +336,7 @@
 ||firebaselogging-pa.googleapis.com^$important
 ||firebaselogging.googleapis.com^$important
 ||firebaseperusertopics-pa.googleapis.com^$important
-||firebaseremoteconfig.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^
 ||firebaseremoteconfigrealtime.googleapis.com^$important
 ||footprints-pa.googleapis.com^$important
 ||gmscompliance-pa.googleapis.com^$important
@@ -358,6 +358,6 @@
 ||safebrowsing.googleapis.com^$important
 ||scone-pa.googleapis.com^$important
 ||scone-pa.clients6.google.com^$important
-||userlocation.googleapis.com^$important
+||userlocation.googleapis.com^
 ||voledevice-pa.googleapis.com^$important
 ||zerostateproxy-pa.googleapis.com^$important
