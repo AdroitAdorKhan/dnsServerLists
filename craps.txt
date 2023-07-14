@@ -137,9 +137,9 @@
 /novibet/
 /parimatch/
 /paripesa/
-/rapidcashonline/
-/rapidcashbengal/
 /rapidcash/
+/rapidcashbengal/
+/rapidcashonline/
 /sportsadda/
 /sportsbet/
 /sportytrader/
