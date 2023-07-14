@@ -33,6 +33,7 @@
 ||imoim.app^$important
 ||imoim.net^$important
 ||imolive.xyz^$important
+||imolive.tv^$important
 ||imolive2.com^$important
 ||imostatic.com^$important
 ||imotech.tech^$important
