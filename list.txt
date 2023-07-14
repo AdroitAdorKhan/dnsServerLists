@@ -29,6 +29,7 @@
 @@||geoprox-js-sdk.datadome.co^$important
 @@||api.sheba.xyz^$important
 @@||steamserver.net^
+@@||sb.adtidy.org^$important
 ##
 # /^(.+[_.-])?tr?c?k?[0-9]*[_.-]/
 #/^(.+[_.-])?s?track(ing)?[0-9]*[_.-]/
