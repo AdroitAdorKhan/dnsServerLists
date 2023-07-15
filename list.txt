@@ -211,6 +211,7 @@
 ||gatetocontent.com^
 ||gdl.*.*^
 ||googleadservices.com^$important
+||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||graph.fbpigeon.com^$important
 ||grjs0*.com^
