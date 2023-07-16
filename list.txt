@@ -242,6 +242,7 @@
 ||mintegral.net^$important
 ||mixpanel.com^$important
 ||mmstat.com^$important
+||mobilegamestats.com^$important
 ||mon*-*.tiktokv.*^
 ||mon*-platform-*^
 ||mon-*.byteoversea.com^
