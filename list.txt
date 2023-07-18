@@ -344,6 +344,7 @@
 ||window-updates-service.com^
 ||windows-display-service.com^
 ||wshareit.com^$important
+||xtrapath*.izatcloud.net^$important
 ||yieldmo.com^$important
 # googleapis - safe to block
 @@||photosdata-pa.googleapis.com^$important # breaks Photos
