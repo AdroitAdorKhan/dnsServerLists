@@ -250,6 +250,8 @@
 ||monitorsdk*.*^
 ||mssdk-*.tiktokv.com^
 ||naydex.net^
+||ads.nicovideo.jp^
+||nicoad.nicovideo.jp^
 ||omgmta*.*^
 ||omniture*.*^
 ||openx*.*^
