@@ -39,6 +39,9 @@ k.gjacky.com
 *.dl.sourceforge.net
 *.workers.dev
 sg-ovh-singapore-*.nperf.net
+in-ovh-mumbai-*.nperf.net
+pl-ovh-warsaw-*.nperf.net
+de-ovh-limburg-*.nperf.net
 *docs.googleusercontent.com
 googlehosted.l.googleusercontent.com
 us.download.nvidia.com
