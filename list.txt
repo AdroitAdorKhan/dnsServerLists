@@ -140,6 +140,7 @@
 ||*.crashsight.*
 ||*ads.togothermany.com^
 ||*atwola.*^
+||*f2b57.com^
 ||*data.vidmatefilm.*^
 ||*event.togothermany.com^
 ||*log*.fineboost.*^
