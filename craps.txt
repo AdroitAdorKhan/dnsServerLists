@@ -130,6 +130,7 @@
 /dafabet/
 /kheloyar/
 /ladbroke/
+/leonbet/
 /leon-bet/
 /leoncas/
 /linebet/
