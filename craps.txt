@@ -108,6 +108,7 @@
 /10bet/
 /10cric/
 /1xbet/
+/1xbook/
 /22bet/
 /32red/
 /888/
@@ -126,6 +127,7 @@
 /cric77/
 /crickex/
 /dafabet/
+/kheloyar/
 /ladbroke/
 /leon-bet/
 /leoncas/
@@ -140,6 +142,8 @@
 /rapidcash/
 /rapidcashbengal/
 /rapidcashonline/
+/satsport/
+/skyfair/
 /sportsadda/
 /sportsbet/
 /sportytrader/
