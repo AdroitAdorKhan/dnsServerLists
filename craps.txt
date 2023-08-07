@@ -114,6 +114,7 @@
 /888/
 /baji9/
 /bet365/
+/betbaba/
 /betfair/
 /betfred/
 /betrophy/
@@ -142,6 +143,7 @@
 /rapidcash/
 /rapidcashbengal/
 /rapidcashonline/
+/satfair/
 /satsport/
 /skyfair/
 /sportsadda/
