@@ -321,6 +321,7 @@
 ||tracking-*.websitealive.com^$important
 ||tracking.digitalocean.com^$important
 ||tracking.epicgames.com^$important
+||tracking.salesleaf.com^
 ||trafficjunky.*^$important
 ||treasuredata.com^
 ||tremorhub.com^
