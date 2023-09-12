@@ -298,7 +298,7 @@
 ||sensor*.snaptube.*^
 ||sentry.io^$important
 ||serving-sys.com^$important
-||shalltry.*^$important
+||shalltry.com^$important
 ||shareaholic.net^$important
 ||sharemusic*.*^
 ||sharethis.com^$important
