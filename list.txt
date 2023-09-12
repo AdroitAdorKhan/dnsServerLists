@@ -187,6 +187,7 @@
 ||astat.bugly.qcloud.com^$important
 ||backtrace.io^
 ||bacon*.*^
+||bangcdn.net^$important
 ||branch.io^$important
 ||braze.com^$important
 ||buffpanel.com^
@@ -209,6 +210,7 @@
 ||ero-advertising.*^
 ||events-api*.outfit7.com^
 ||gamecenter.run^
+||gamegamb.com^
 ||gatetocontent.com^
 ||gdl.*.*^
 ||googleadservices.com^$important
@@ -328,6 +330,7 @@
 ||uc.cn^$important
 ||uc123.com^$important
 ||ucweb.*^$important
+||ugsdk.com^$important
 ||umeng.*^$important
 ||umtrack*.com^
 ||us.*.micloud.xiaomi.net^

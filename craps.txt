@@ -19,6 +19,7 @@
 ||bytedance.com^$important
 ||bytedance.map.fastly.net^$important
 ||bytedapm.com^$important
+||byteeffecttos-g.com^$important
 ||bytegoofy.com^$important
 ||byteimg.com^$important
 ||bytelb.com^$important
@@ -29,6 +30,7 @@
 ||dznqtbqw4f99d.cloudfront.net^
 ||goofy-cdn.com^
 ||ibytedtos.com^$important
+||ibyteimg.com^$important
 ||imo.im^$important
 ||imoim.app^$important
 ||imoim.net^$important
