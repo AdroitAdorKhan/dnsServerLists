@@ -492,3 +492,7 @@ us-*.cncirc.net
 cdn-patch.swtor.com
 # teso
 live.patcher.elderscrollsonline.com
+
+# Sifat
+
+# Subro
