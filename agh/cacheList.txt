@@ -495,4 +495,5 @@ live.patcher.elderscrollsonline.com
 
 # Sifat
 pixeldrain.com
+spyderrock.com
 # Subro
