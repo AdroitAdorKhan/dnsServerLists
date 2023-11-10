@@ -503,4 +503,5 @@ spyderrock.com
 # Subro
 subroxd.com
 app.gumroad.com
+files.gumroad.com
 # sourceforge.net - added. 
