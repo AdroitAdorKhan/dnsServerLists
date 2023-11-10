@@ -502,6 +502,4 @@ spyderrock.com
 
 # Subro
 subroxd.com
-rabbitholebd.com
-matlab.mathworks.com
 # sourceforge.net - added. 
