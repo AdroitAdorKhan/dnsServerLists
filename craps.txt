@@ -109,13 +109,17 @@
 # bet sites
 /10bet/
 /10cric/
+/1688ninja/
 /1xbet/
 /1xbook/
 /22bet/
 /32red/
 /888/
+/babu88/
+/babuplay/
 /baji9/
 /bet365/
+/bet9ja/
 /betbaba/
 /betfair/
 /betfred/
@@ -132,8 +136,8 @@
 /dafabet/
 /kheloyar/
 /ladbroke/
-/leonbet/
 /leon-bet/
+/leonbet/
 /leoncas/
 /linebet/
 /lotus365/
