@@ -499,6 +499,7 @@ live.patcher.elderscrollsonline.com
 # Sifat
 pixeldrain.com
 spyderrock.com
+chat.openai.com
 
 # Subro
 subroxd.com
