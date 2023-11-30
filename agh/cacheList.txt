@@ -504,6 +504,5 @@ chat.openai.com
 # Subro
 subroxd.com
 user-ge.com
-164.90.173.160:8080
 subrozdirect.herokuapp.com
 # sourceforge.net - added. 
