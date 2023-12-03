@@ -179,6 +179,7 @@ drive.usercontent.google.com
 taf.teamviewer.com
 s3.*.amazonaws.com
 fota-s3-dn.ospserver.net
+*.androidfilehost.com
 r*---sn-*-*.gvt*.com
 r*---sn-*.gvt*.com
 
