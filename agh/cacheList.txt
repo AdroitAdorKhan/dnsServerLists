@@ -520,3 +520,7 @@ subrozdirect.herokuapp.com
 *.androidfilehost.com
 *.openwrt.org
 *.bunkr.ru
+f-droid.org
+*.redditmedia.com
+*.redditstatic.com
+apt.izzysoft.de
