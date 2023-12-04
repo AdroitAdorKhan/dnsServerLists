@@ -507,6 +507,7 @@ pixeldrain.com
 spyderrock.com
 chat.openai.com
 edge07.110.ir.cdn.ir
+
 # Subro
 subroxd.com
 user-ge.com 
@@ -517,10 +518,10 @@ subrozdirect.herokuapp.com
 # coopertron.
 *.chaotic.cx
 *samfw*.cloud
-*.androidfilehost.com
+# *.androidfilehost.com - add kora ache upore
 *.openwrt.org
 *.bunkr.ru
-f-droid.org
-*.redditmedia.com
-*.redditstatic.com
+f-droid.org - add kora ache upore
+# *.redditmedia.com - reddit diyen na bhai, reddit er kahini abar ektu diff. 
+# *.redditstatic.com
 apt.izzysoft.de
