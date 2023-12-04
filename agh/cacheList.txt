@@ -271,6 +271,7 @@ repo.*.id
 repo.*.org
 twrepo.opensuse.id
 aur.archlinux.org
+in-mirror.garudalinux.org
 
 # Stream
 mediacloudfront.zee5.com
@@ -517,6 +518,8 @@ subrozdirect.herokuapp.com
 
 # coopertron.
 *.chaotic.cx
+*-mirror.chaotic.cx
+
 *samfw*.cloud
 # *.androidfilehost.com - add kora ache upore
 *.openwrt.org
