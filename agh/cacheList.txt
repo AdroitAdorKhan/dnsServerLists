@@ -220,6 +220,7 @@ mirror*.*.cn
 mirror*.*.co.id
 mirror*.*.com.hk
 mirror*.*.de
+mirror*.*.edu
 mirror*.*.edu.cn
 mirror*.*.edu.sg
 mirror*.*.id
@@ -249,6 +250,7 @@ mirrors*.*.co.id
 mirrors*.*.com
 mirror*.*.de
 mirrors*.*.de
+mirrors*.*.edu
 mirrors*.*.edu.cn
 mirrors*.*.edu.sg
 mirrors*.*.id
@@ -266,6 +268,7 @@ mirrors.*.sg
 opensuse.*.am
 ossmirror.mycloud.services
 repo.*.id
+repo.*.org
 twrepo.opensuse.id
 
 # Stream
