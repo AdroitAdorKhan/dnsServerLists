@@ -515,3 +515,8 @@ subrozdirect.herokuapp.com
 # fazlerabbi37
 
 # coopertron.
+*.chaotic.cx
+*samfw*.cloud
+*.androidfilehost.com
+*.openwrt.org
+*.bunkr.ru
