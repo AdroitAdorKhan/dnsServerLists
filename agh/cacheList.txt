@@ -506,7 +506,7 @@ live.patcher.elderscrollsonline.com
 pixeldrain.com
 spyderrock.com
 chat.openai.com
-
+edge07.110.ir.cdn.ir
 # Subro
 subroxd.com
 user-ge.com 
