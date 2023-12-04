@@ -526,6 +526,9 @@ chaoticmirror.com
 chaotic.icarns.xyz
 chaotic.pl4ygr0und.de
 birdrepo.ddns.net
+v.itstyrion.de
+repo.*.com
+shantitribe.eu
 *samfw*.cloud
 # *.androidfilehost.com - add kora ache upore
 *.openwrt.org
