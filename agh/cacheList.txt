@@ -270,6 +270,7 @@ ossmirror.mycloud.services
 repo.*.id
 repo.*.org
 twrepo.opensuse.id
+aur.archlinux.org
 
 # Stream
 mediacloudfront.zee5.com
