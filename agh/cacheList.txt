@@ -518,8 +518,7 @@ subrozdirect.herokuapp.com
 
 # coopertron.
 *.chaotic.cx
-*-mirror.chaotic.cx
-
+cf-builds.garudalinux.org
 *samfw*.cloud
 # *.androidfilehost.com - add kora ache upore
 *.openwrt.org
