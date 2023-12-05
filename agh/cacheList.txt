@@ -540,11 +540,11 @@ apt.izzysoft.de
 
 # takaeshi
 *.layeronline.com
-fast.com
-speedtest.com.sg
+# fast.com - fast ami kore disi. onno vabe. 
+# speedtest.com.sg - diff port use kore. kaj korbe na. 
 *.edge.kernel.org
 *.archive.org
 
 
 # Elon Musk
-f-droid.org
+# f-droid.org - upore add kora ache
