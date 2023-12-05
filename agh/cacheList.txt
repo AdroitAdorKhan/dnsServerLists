@@ -536,6 +536,8 @@ f-droid.org
 # *.redditmedia.com - reddit diyen na bhai, reddit er kahini abar ektu diff. 
 # *.redditstatic.com
 apt.izzysoft.de
+fast.com
+speedtest.com.sg
 
 # takaeshi
 
