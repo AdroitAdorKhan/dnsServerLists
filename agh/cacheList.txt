@@ -543,6 +543,7 @@ apt.izzysoft.de
 fast.com
 speedtest.com.sg
 *.edge.kernel.org
+*.archive.org
 
 
 # Elon Musk
