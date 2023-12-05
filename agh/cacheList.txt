@@ -536,10 +536,13 @@ f-droid.org
 # *.redditmedia.com - reddit diyen na bhai, reddit er kahini abar ektu diff. 
 # *.redditstatic.com
 apt.izzysoft.de
+
+
+# takaeshi
+*.layeronline.com
 fast.com
 speedtest.com.sg
 
-# takaeshi
 
 # Elon Musk
 f-droid.org
