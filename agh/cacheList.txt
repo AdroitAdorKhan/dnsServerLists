@@ -548,4 +548,4 @@ apt.izzysoft.de
 
 
 # Elon Musk
-# f-droid.org - upore add kora ache
+storage.googleapis.com
