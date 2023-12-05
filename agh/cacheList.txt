@@ -540,3 +540,4 @@ apt.izzysoft.de
 # takaeshi
 
 # Elon Musk
+f-droid.org
