@@ -542,6 +542,7 @@ apt.izzysoft.de
 *.layeronline.com
 fast.com
 speedtest.com.sg
+*.edge.kernel.org
 
 
 # Elon Musk
