@@ -552,6 +552,10 @@ watch.cricstream.me
 claude.ai
 cs50.harvard.edu
 owl.purdue.edu
+*.booksdl.org
+libgen.rs
+annas-archive.org
+
 
 
 # Elon Musk
