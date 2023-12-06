@@ -545,6 +545,13 @@ apt.izzysoft.de
 # speedtest.com.sg - diff port use kore. kaj korbe na. 
 *.edge.kernel.org
 *.archive.org
+*.svc.ms
+*.cloudfront.net
+chat.lmsys.org
+watch.cricstream.me
+claude.ai
+cs50.harvard.edu
+owl.purdue.edu
 
 
 # Elon Musk
