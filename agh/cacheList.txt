@@ -512,6 +512,7 @@ pixeldrain.com
 spyderrock.com
 chat.openai.com
 edge07.110.ir.cdn.ir
+olymptrade.com
 
 # Subro
 subroxd.com
