@@ -556,7 +556,6 @@ owl.purdue.edu
 *.booksdl.org
 libgen.rs
 annas-archive.org
-*.ir.cdn.ir
 
 
 
