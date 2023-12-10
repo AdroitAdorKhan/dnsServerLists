@@ -183,6 +183,10 @@ fota-s3-dn.ospserver.net
 r*---sn-*-*.gvt*.com
 r*---sn-*.gvt*.com
 storage.googleapis.com
+osxapps.itunes.apple.com
+se-edge.itunes.apple.com
+amp-api-edge.apps.apple.com
+osxapps.itunes.g.aaplimg.com
 
 # Mirror
 *-mirror.*.dk
