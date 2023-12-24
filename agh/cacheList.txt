@@ -545,6 +545,7 @@ f-droid.org
 apt.izzysoft.de
 *.1antiphonon.online
 *.4statorhab.online
+*.sourceforge.net
 
 # takaeshi
 *.layeronline.com
