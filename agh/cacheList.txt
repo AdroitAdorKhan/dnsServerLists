@@ -543,7 +543,8 @@ f-droid.org
 # *.redditmedia.com - reddit diyen na bhai, reddit er kahini abar ektu diff. 
 # *.redditstatic.com
 apt.izzysoft.de
-*.1antiphonon.online/
+*.1antiphonon.online
+*.4statorhab.online
 
 # takaeshi
 *.layeronline.com
