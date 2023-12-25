@@ -546,6 +546,7 @@ apt.izzysoft.de
 *.1antiphonon.online
 *.4statorhab.online
 *.sourceforge.net
+*.gr-assets.com
 
 # takaeshi
 *.layeronline.com
