@@ -547,6 +547,7 @@ apt.izzysoft.de
 *.4statorhab.online
 *.sourceforge.net
 *.gr-assets.com
+drive.massgrave.dev
 
 # takaeshi
 *.layeronline.com
