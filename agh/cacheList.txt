@@ -187,6 +187,7 @@ osxapps.itunes.apple.com
 se-edge.itunes.apple.com
 amp-api-edge.apps.apple.com
 osxapps.itunes.g.aaplimg.com
+kali.download
 
 # Mirror
 *-mirror.*.dk
