@@ -78,6 +78,8 @@
 ||snapkit.com^$important
 ||sgmbocast.com^$important
 ||primis.tech^$important
+# inshaAllah - Dajjali Fitna
+||inshallah.com^$important
 # mxplayer - takatak
 ||mxplay.com^$important
 /takatak/
