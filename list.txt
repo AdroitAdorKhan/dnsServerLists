@@ -381,7 +381,7 @@
 ||infinitedata-pa.googleapis.com^$important
 ||instantmessaging-pa-jms-*.googleapis.com^$important
 ||instantmessaging-pa.googleapis.com^$important
-||jnn-pa.googleapis.com^$important
+#||jnn-pa.googleapis.com^$important
 ||lamssettings-pa.googleapis.com^$important
 ||mobiledataplansharing.googleapis.com^$important
 ||nearbysharing-pa.googleapis.com^$important
