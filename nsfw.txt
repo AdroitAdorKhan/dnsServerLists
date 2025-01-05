@@ -400,6 +400,7 @@
 ||swap.family^
 ||thumbzilla.com^$important
 ||tube8.*^
+||ullu.app^
 ||videobox.com^
 ||vidoz*.*
 ||xhadult*.com^$important
