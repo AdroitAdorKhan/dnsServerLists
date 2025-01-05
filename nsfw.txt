@@ -3,6 +3,7 @@
 /4tube/
 /adultprime/
 /adulttime/
+/altbalaji/
 /amateur/
 /americass/
 /analdin/
@@ -369,6 +370,8 @@
 ||*sex*.blogspot.com^
 ||*virgins.com^
 ||*xvideo*^$denyallow=nflxvideo.net
+||altt.co.in^
+||altt.studio^
 ||avgle.*^
 ||bang.com^
 ||blacked.com^
