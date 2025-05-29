@@ -516,8 +516,7 @@ live.patcher.elderscrollsonline.com
 # Sifat
 pixeldrain.com
 spyderrock.com
-chat.openai.com
-edge07.110.ir.cdn.ir
+edge*.*.ir.cdn.ir
 olymptrade.com
 
 # Subro
@@ -525,8 +524,6 @@ subroxd.com
 user-ge.com 
 subrozdirect.herokuapp.com
 datarouter.ol.epicgames.com
-
-# fazlerabbi37
 
 # coopertron.
 *.chaotic.cx
@@ -567,8 +564,6 @@ owl.purdue.edu
 *.booksdl.org
 libgen.rs
 annas-archive.org
-
-
 
 # Elon Musk
 marscdn.programming-hero.com
