@@ -180,8 +180,8 @@ taf.teamviewer.com
 s3.*.amazonaws.com
 fota-s3-dn.ospserver.net
 *.androidfilehost.com
-r*---sn-*-*.gvt*.com
-r*---sn-*.gvt*.com
+#r*---sn-*-*.gvt*.com
+#r*---sn-*.gvt*.com
 storage.googleapis.com
 osxapps.itunes.apple.com
 se-edge.itunes.apple.com
