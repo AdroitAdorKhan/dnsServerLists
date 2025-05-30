@@ -535,35 +535,6 @@ birdrepo.ddns.net
 v.itstyrion.de
 repo.*.com
 *samfw*.cloud
-# *.androidfilehost.com - add kora ache upore
-*.openwrt.org
-*.bunkr.ru
-f-droid.org
-# *.redditmedia.com - reddit diyen na bhai, reddit er kahini abar ektu diff. 
-# *.redditstatic.com
-apt.izzysoft.de
-*.1antiphonon.online
-*.4statorhab.online
-*.sourceforge.net
-*.gr-assets.com
-drive.massgrave.dev
-
-# takaeshi
-*.layeronline.com
-# fast.com - fast ami kore disi. onno vabe. 
-# speedtest.com.sg - diff port use kore. kaj korbe na. 
-*.edge.kernel.org
-*.archive.org
-*.svc.ms
-*.cloudfront.net
-chat.lmsys.org
-watch.cricstream.me
-claude.ai
-cs50.harvard.edu
-owl.purdue.edu
-*.booksdl.org
-libgen.rs
-annas-archive.org
 
 # Elon Musk
 marscdn.programming-hero.com
