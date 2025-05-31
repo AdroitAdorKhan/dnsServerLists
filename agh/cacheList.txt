@@ -204,6 +204,7 @@ dl-cdn.*.org
 dl.*.org
 download*.*.com
 download*.*.net
+download*.*.org
 download*.*.edu.sg
 download*.sg
 download.rockylinux.org
